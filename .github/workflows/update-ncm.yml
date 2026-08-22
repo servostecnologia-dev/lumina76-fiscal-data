@@ -2,6 +2,10 @@ name: Atualizar catálogo NCM
 
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/update-ncm.yml"
+      - "scripts/build_ncm_catalog.py"
   schedule:
     - cron: "20 6 * * *"
 
