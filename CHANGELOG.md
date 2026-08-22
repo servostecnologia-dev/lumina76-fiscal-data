@@ -1,5 +1,17 @@
 # Changelog — Lumina76 Fiscal Data
 
+## 2026-08-22 — NCM oficial integrado
+
+- Criado `scripts/build_ncm_catalog.py` usando diretamente o endpoint oficial Receita Federal / Sistema Classif / Portal Único Siscomex.
+- Primeira geração oficial: **10.515 códigos NCM completos de 8 dígitos**.
+- Criados:
+  - `ncm/ncm_atual.csv`;
+  - `ncm/ncm_vigente.csv`;
+  - `ncm/snapshots/ncm_2026-08-22.csv`;
+  - `metadata/ncm.json`.
+- Criado workflow diário de atualização e validação automática.
+- O repositório passa a preservar histórico operacional por snapshots, pois a fonte oficial fornece apenas a tabela NCM vigente.
+
 ## 2026-08-22 — Expansão para catálogo nacional
 
 - Materializado o catálogo nacional CEST com **1.010 registros**.
