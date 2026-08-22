@@ -1,0 +1,37 @@
+uf;item;cest;cest_normalizado;ncm_sh;descricao;status;vigencia_inicio;vigencia_fim;source_id;observacao
+BA;3.3;03.003.00;0300300;2201.1|2201.9;Água mineral, gasosa ou não, ou potável, naturais, em embalagem de vidro descartável;VIGENTE;2026-01-01;;SEFAZ_BA_RICMS_ANEXO1_2026;
+BA;3.3.1;03.003.01;0300301;2201.1|2201.9;Água mineral, gasosa ou não, ou potável, naturais, adicionadas de sais, em embalagem de vidro descartável;VIGENTE;2026-01-01;;SEFAZ_BA_RICMS_ANEXO1_2026;
+BA;3.5.0;03.005.00;0300500;2201.1|2201.9;Água mineral, gasosa ou não, ou potável, naturais, em copo plástico descartável;VIGENTE;2026-01-01;;SEFAZ_BA_RICMS_ANEXO1_2026;
+BA;3.5.1;03.005.01;0300501;2201.1|2201.9;Água mineral, gasosa ou não, ou potável, naturais, adicionadas de sais, em copo plástico descartável;VIGENTE;2026-01-01;;SEFAZ_BA_RICMS_ANEXO1_2026;
+BA;3.5.2;03.005.02;0300502;2201.1|2201.9;Água mineral, gasosa ou não, ou potável, naturais, em jarra descartável;VIGENTE;2026-01-01;;SEFAZ_BA_RICMS_ANEXO1_2026;
+BA;3.5.3;03.005.03;0300503;2201.1|2201.9;Água mineral, gasosa ou não, ou potável, naturais, adicionadas de sais, em jarra descartável;VIGENTE;2026-01-01;;SEFAZ_BA_RICMS_ANEXO1_2026;
+BA;3.5.4;03.005.04;0300504;2201.1|2201.9;Água mineral, gasosa ou não, ou potável, naturais, em demais embalagens descartáveis;VIGENTE;2026-01-01;;SEFAZ_BA_RICMS_ANEXO1_2026;Inclui garrafa PET descartável de água mineral natural quando não enquadrada nas embalagens anteriores
+BA;3.5.5;03.005.05;0300505;2201.1|2201.9;Água mineral, gasosa ou não, ou potável, naturais, adicionadas de sais, em demais embalagens descartáveis;VIGENTE;2026-01-01;;SEFAZ_BA_RICMS_ANEXO1_2026;
+BA;3.6;03.006.00;0300600;2201.1;Outras águas minerais, gasosas ou não, ou potáveis, naturais, exceto as classificadas nos CEST 03.003.00, 03.003.01, 03.005.00 a 03.005.05, 03.024.00 e 03.025.00;VIGENTE;2026-01-01;;SEFAZ_BA_RICMS_ANEXO1_2026;
+BA;3.9;03.010.00;0301000;2202.10|2202.99;Refrigerantes em vidro descartável;VIGENTE;2026-01-01;;SEFAZ_BA_RICMS_ANEXO1_2026;
+BA;3.9.1;03.010.01;0301001;2202.10|2202.99;Refrigerantes em embalagem PET;VIGENTE;2026-01-01;;SEFAZ_BA_RICMS_ANEXO1_2026;
+BA;3.9.2;03.010.02;0301002;2202.10|2202.99;Refrigerantes em lata;VIGENTE;2026-01-01;;SEFAZ_BA_RICMS_ANEXO1_2026;
+BA;3.10;03.011.00;0301100;2202.10|2202.99;Demais refrigerantes, exceto os classificados no CEST 03.010.00, 03.010.01, 03.010.02 e 03.011.01;VIGENTE;2026-01-01;;SEFAZ_BA_RICMS_ANEXO1_2026;
+BA;3.11.0;03.012.00;0301200;2106.90.1;Xarope ou extrato concentrado destinados ao preparo de refrigerante em máquina pré-mix ou post-mix, exceto o classificado no CEST 03.012.01;VIGENTE;2026-01-01;;SEFAZ_BA_RICMS_ANEXO1_2026;
+BA;3.11.1;03.012.01;0301201;2106.90.1;Cápsula de refrigerante;VIGENTE;2026-01-01;;SEFAZ_BA_RICMS_ANEXO1_2026;
+BA;3.12.0;03.013.00;0301300;2106.9|2202.99;Bebidas energéticas em lata;VIGENTE;2026-01-01;;SEFAZ_BA_RICMS_ANEXO1_2026;
+BA;3.12.1;03.013.01;0301301;2106.9|2202.99;Bebidas energéticas em embalagem PET;VIGENTE;2026-01-01;;SEFAZ_BA_RICMS_ANEXO1_2026;
+BA;3.12.2;03.013.02;0301302;2106.9|2202.99;Bebidas energéticas em vidro;VIGENTE;2026-01-01;;SEFAZ_BA_RICMS_ANEXO1_2026;
+BA;3.14;03.015.00;0301500;2106.9|2202.99;Bebidas hidroeletrolíticas;VIGENTE;2026-01-01;;SEFAZ_BA_RICMS_ANEXO1_2026;
+BA;3.16.0;03.021.00;0302100;2203;Cerveja em garrafa de vidro retornável;VIGENTE;2026-01-01;;SEFAZ_BA_RICMS_ANEXO1_2026;
+BA;3.16.1;03.021.01;0302101;2203;Cerveja em garrafa de vidro descartável;VIGENTE;2026-01-01;;SEFAZ_BA_RICMS_ANEXO1_2026;
+BA;3.16.2;03.021.02;0302102;2203;Cerveja em garrafa de alumínio;VIGENTE;2026-01-01;;SEFAZ_BA_RICMS_ANEXO1_2026;
+BA;3.16.3;03.021.03;0302103;2203;Cerveja em lata;VIGENTE;2026-01-01;;SEFAZ_BA_RICMS_ANEXO1_2026;
+BA;3.16.4;03.021.04;0302104;2203;Cerveja em barril;VIGENTE;2026-01-01;;SEFAZ_BA_RICMS_ANEXO1_2026;
+BA;3.16.5;03.021.05;0302105;2203;Cerveja em embalagem PET;VIGENTE;2026-01-01;;SEFAZ_BA_RICMS_ANEXO1_2026;
+BA;3.16.6;03.021.06;0302106;2203;Cerveja em outras embalagens;VIGENTE;2026-01-01;;SEFAZ_BA_RICMS_ANEXO1_2026;
+BA;3.17.0;03.022.00;0302200;2202.91;Cerveja sem álcool em garrafa de vidro retornável;VIGENTE;2026-01-01;;SEFAZ_BA_RICMS_ANEXO1_2026;
+BA;3.17.1;03.022.01;0302201;2202.91;Cerveja sem álcool em garrafa de vidro descartável;VIGENTE;2026-01-01;;SEFAZ_BA_RICMS_ANEXO1_2026;
+BA;3.17.2;03.022.02;0302202;2202.91;Cerveja sem álcool em garrafa de alumínio;VIGENTE;2026-01-01;;SEFAZ_BA_RICMS_ANEXO1_2026;
+BA;3.17.3;03.022.03;0302203;2202.91;Cerveja sem álcool em lata;VIGENTE;2026-01-01;;SEFAZ_BA_RICMS_ANEXO1_2026;
+BA;3.17.4;03.022.04;0302204;2202.91;Cerveja sem álcool em barril;VIGENTE;2026-01-01;;SEFAZ_BA_RICMS_ANEXO1_2026;
+BA;3.17.5;03.022.05;0302205;2202.91;Cerveja sem álcool em embalagem PET;VIGENTE;2026-01-01;;SEFAZ_BA_RICMS_ANEXO1_2026;
+BA;3.17.6;03.022.06;0302206;2202.91;Cerveja sem álcool em outras embalagens;VIGENTE;2026-01-01;;SEFAZ_BA_RICMS_ANEXO1_2026;
+BA;3.18;03.023.00;0302300;2203;Chope;VIGENTE;2026-01-01;;SEFAZ_BA_RICMS_ANEXO1_2026;
+BA;3.20;03.024.00;0302400;2201.1;Água mineral em embalagens retornáveis com capacidade igual ou superior a 10 e inferior a 20 litros;VIGENTE;2026-01-01;;SEFAZ_BA_RICMS_ANEXO1_2026;
+BA;3.21;03.025.00;0302500;2201.1;Água mineral em embalagens retornáveis com capacidade igual ou superior a 20 litros;VIGENTE;2026-01-01;;SEFAZ_BA_RICMS_ANEXO1_2026;
