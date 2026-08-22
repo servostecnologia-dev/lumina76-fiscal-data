@@ -1,0 +1,17 @@
+{
+  "catalog": "ncm",
+  "status": "OFFICIAL_CURRENT",
+  "source_id": "RFB_CLASSIF_NCM_JSON",
+  "source_url": "https://portalunico.siscomex.gov.br/classif/api/publico/nomenclatura/download/json",
+  "generated_at": "2026-08-22T08:22:04.883651+00:00",
+  "data_ultima_alteracao": "",
+  "records": 10515,
+  "contains_only_current_table": true,
+  "historical_strategy": "repository_snapshots",
+  "production_ready": true,
+  "notes": [
+    "Fonte oficial direta Receita Federal / Sistema Classif.",
+    "Somente códigos NCM completos de 8 dígitos são distribuídos para cadastro de produtos.",
+    "O endpoint oficial fornece apenas a tabela vigente; snapshots do repositório preservam o histórico de versões coletadas."
+  ]
+}
