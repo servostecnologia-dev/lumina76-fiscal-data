@@ -5,13 +5,14 @@ Autoridade normativa: CONFAZ / Convênio ICMS 142/2018 e alterações.
 Fonte de ingestão estruturada: TabelasFiscais.com.br, que publica snapshots
 regenerados a partir de fontes oficiais. O repositório mantém essa distinção
 explícita: autoridade normativa != transportador/normalizador dos dados.
+
+A geração é reproduzível e auditável; a camada estadual da Bahia é mantida
+separadamente para não confundir catálogo nacional CEST com aplicabilidade ST.
 """
 from __future__ import annotations
 
 import csv
-import io
 import json
-import os
 import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
@@ -88,7 +89,6 @@ def main():
     write_csv(national, headers, rows)
     write_csv(snapshot, headers, rows)
 
-    # Mapeamento CEST x NCM em arquivo separado para evitar perda de cardinalidade.
     map_rows = []
     if isinstance(ncm_data, list):
         for item in ncm_data:
