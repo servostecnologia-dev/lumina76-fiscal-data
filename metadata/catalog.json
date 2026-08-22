@@ -1,21 +1,16 @@
 {
   "catalog": "lumina76-fiscal-data",
-  "status": "PILOT_PARTIAL",
-  "generated_at": "2026-08-22",
-  "scope": {
-    "uf": ["BA"],
-    "year": 2026,
-    "segments": ["03 - Cervejas, chope, refrigerantes, água e outras bebidas"]
-  },
-  "authority_sources": [
-    "SEFAZ_BA_RICMS_ANEXO1_2026",
-    "RFB_CLASSIF_NCM_JSON",
-    "CONFAZ_CV142_18"
-  ],
-  "production_ready": false,
+  "status": "NATIONAL_BASE_READY_BA_OVERLAY_PARTIAL",
+  "generated_at": "2026-08-10T11:41:31.190Z",
+  "national_cest_records": 1010,
+  "cest_ncm_records": 1223,
+  "authority_source": "CONFAZ_CV142_18",
+  "ingestion_source": "TABELASFISCAIS_SNAPSHOT",
+  "production_ready_for_national_cest_catalog": true,
+  "production_ready_for_uf_applicability": false,
   "notes": [
-    "Primeira carga piloto extraída de fonte oficial da SEFAZ-BA.",
-    "Ainda não deve ser consumida pelo Lumina76 como catálogo CEST completo.",
-    "A promoção para cest_atual.csv só deve ocorrer após cobertura e auditoria completas do escopo definido."
+    "cest_atual.csv representa o catálogo CEST nacional normalizado.",
+    "Aplicabilidade estadual/ST deve ser tratada em camadas UF separadas.",
+    "A camada BA ainda está em expansão/auditoria contra o Anexo 1 do RICMS-BA vigente."
   ]
 }
