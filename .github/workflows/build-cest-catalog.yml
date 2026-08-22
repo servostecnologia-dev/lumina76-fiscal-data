@@ -1,0 +1,58 @@
+name: Build CEST catalog
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 9 1 * *'
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/build_cest_catalog.py'
+      - '.github/workflows/build-cest-catalog.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Build catalogs
+        run: python scripts/build_cest_catalog.py
+
+      - name: Validate generated catalog
+        run: |
+          test -s cest/cest_atual.csv
+          test -s cest/cest_nacional.csv
+          test -s metadata/catalog.json
+          python - <<'PY'
+          import csv, json
+          with open('cest/cest_atual.csv', encoding='utf-8') as f:
+              rows = list(csv.DictReader(f, delimiter=';'))
+          assert len(rows) >= 900, len(rows)
+          assert any(r['cest'] == '03.005.04' for r in rows)
+          with open('metadata/catalog.json', encoding='utf-8') as f:
+              meta = json.load(f)
+          assert meta['national_cest_records'] == len(rows)
+          print(f'Catálogo validado: {len(rows)} CEST')
+          PY
+
+      - name: Commit generated catalog
+        run: |
+          if git diff --quiet -- cest metadata/catalog.json; then
+            echo 'Sem alterações no catálogo.'
+            exit 0
+          fi
+          git config user.name 'lumina76-fiscal-bot'
+          git config user.email 'servostecnologia-dev@users.noreply.github.com'
+          git add cest metadata/catalog.json
+          git commit -m 'Atualiza catálogo CEST normalizado'
+          git push
