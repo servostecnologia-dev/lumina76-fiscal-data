@@ -98,8 +98,8 @@ def validate(catalog, categories, sources, packages):
             require(any('gtins' in e['campos'] for e in product['evidencias']), f'{key}: GTIN sem evidência')
         image = product['imagem']
         require(set(image) == {'status','url','fonte_id','condicao_uso'}, f'{key}: campos de imagem inválidos')
-        require(image['status'] in {'pendente','liberada'}, f'{key}: imagem inválida')
-        if image['status'] == 'liberada':
+        require(image['status'] in {'pendente','referencia','liberada'}, f'{key}: imagem inválida')
+        if image['status'] in {'referencia','liberada'}:
             parsed = urlparse(image['url'] or '')
             require(parsed.scheme == 'https' and bool(parsed.netloc), f'{key}: imagem sem URL válida')
             require(image['fonte_id'] in src and bool(image['condicao_uso']), f'{key}: imagem sem origem/condição de uso')

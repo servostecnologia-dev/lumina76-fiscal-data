@@ -85,3 +85,7 @@ A Receita fornece apenas a tabela vigente. Para preservar histórico operacional
 - CEST: workflow periódico com validação de volume e preservação de snapshots.
 - NCM: workflow diário, pois a Receita informa que o arquivo oficial é atualizado automaticamente quando há alterações na NCM.
 - Nenhuma atualização remove silenciosamente snapshots anteriores.
+
+## Expansão em andamento
+
+Ver [estado do lote e cobertura](produtos/EXPANSAO.md): 136 apresentações e 115 fotos de referência.

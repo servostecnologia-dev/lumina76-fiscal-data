@@ -40,6 +40,11 @@
       "id": "energeticos",
       "nome": "Energéticos",
       "pai_id": "bebidas"
+    },
+    {
+      "id": "destilados-aperitivos",
+      "nome": "Destilados, licores e aperitivos",
+      "pai_id": "bebidas"
     }
   ]
 }

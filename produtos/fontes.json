@@ -90,6 +90,46 @@
       "publicado_em": null,
       "metodo_consulta": "pagina_aberta",
       "consultado_em": "2026-10-26"
+    },
+    {
+      "id": "femsa-fotos-sc-2025",
+      "titulo": "Portfólio FEMSA Santa Catarina 14/11/2025",
+      "url": "https://apis3-coca-cola.s3.sa-east-1.amazonaws.com/portfolios/01ka0jm4xe8nz8758fbfszt9a6.pdf",
+      "tipo": "fonte_auxiliar",
+      "uf": null,
+      "publicado_em": null,
+      "metodo_consulta": "pagina_indexada",
+      "consultado_em": "2026-10-26"
+    },
+    {
+      "id": "ambev-lista-2024",
+      "titulo": "Lista auxiliar de apresentações Ambev — fonte histórica",
+      "url": "https://www.normasbrasil.com.br/norma/portaria-85-2024-pb_459347.html",
+      "tipo": "fonte_auxiliar",
+      "uf": null,
+      "publicado_em": null,
+      "metodo_consulta": "pagina_indexada",
+      "consultado_em": "2026-10-26"
+    },
+    {
+      "id": "fys-lista",
+      "titulo": "Fys — códigos candidatos de catálogo auxiliar",
+      "url": "https://api.cosmos.bluesoft.com.br/marcas/fys-495975",
+      "tipo": "fonte_auxiliar",
+      "uf": null,
+      "publicado_em": null,
+      "metodo_consulta": "pagina_indexada",
+      "consultado_em": "2026-10-26"
+    },
+    {
+      "id": "jesus-unidade",
+      "titulo": "Guaraná Jesus lata 350 ml — Farmácia Permanente",
+      "url": "https://app.farmaciapermanente.com.br/refrigerante-guarana-jesus-lata-350ml",
+      "tipo": "fonte_auxiliar",
+      "uf": null,
+      "publicado_em": null,
+      "metodo_consulta": "pagina_indexada",
+      "consultado_em": "2026-10-26"
     }
   ]
 }

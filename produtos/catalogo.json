@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "catalog_version": "2026.10.26.1",
+  "catalog_version": "2026.10.26.2",
   "produtos": [
     {
       "id": "SVP-000001",
@@ -43,15 +43,15 @@
         }
       ],
       "imagem": {
-        "status": "pendente",
-        "url": null,
-        "fonte_id": null,
-        "condicao_uso": null
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000001.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
         "revisar_apresentacao_atual",
-        "obter_foto_com_uso_liberado"
+        "revisar_uso_da_foto_referencia"
       ],
       "criado_em": "2026-10-26",
       "atualizado_em": "2026-10-26"
@@ -97,15 +97,15 @@
         }
       ],
       "imagem": {
-        "status": "pendente",
-        "url": null,
-        "fonte_id": null,
-        "condicao_uso": null
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000002.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
         "revisar_apresentacao_atual",
-        "obter_foto_com_uso_liberado"
+        "revisar_uso_da_foto_referencia"
       ],
       "criado_em": "2026-10-26",
       "atualizado_em": "2026-10-26"
@@ -169,10 +169,10 @@
         }
       ],
       "imagem": {
-        "status": "pendente",
-        "url": null,
-        "fonte_id": null,
-        "condicao_uso": null
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000003.jpeg",
+        "fonte_id": "femsa-colas-2024",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "obter_foto_com_uso_liberado"
@@ -221,15 +221,15 @@
         }
       ],
       "imagem": {
-        "status": "pendente",
-        "url": null,
-        "fonte_id": null,
-        "condicao_uso": null
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000004.jpeg",
+        "fonte_id": "femsa-colas-2024",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
         "revisar_apresentacao_atual",
-        "obter_foto_com_uso_liberado"
+        "revisar_uso_da_foto_referencia"
       ],
       "criado_em": "2026-10-26",
       "atualizado_em": "2026-10-26"
@@ -275,15 +275,15 @@
         }
       ],
       "imagem": {
-        "status": "pendente",
-        "url": null,
-        "fonte_id": null,
-        "condicao_uso": null
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000005.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
         "revisar_apresentacao_atual",
-        "obter_foto_com_uso_liberado"
+        "revisar_uso_da_foto_referencia"
       ],
       "criado_em": "2026-10-26",
       "atualizado_em": "2026-10-26"
@@ -329,15 +329,15 @@
         }
       ],
       "imagem": {
-        "status": "pendente",
-        "url": null,
-        "fonte_id": null,
-        "condicao_uso": null
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000006.jpeg",
+        "fonte_id": "femsa-colas-2024",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
         "revisar_apresentacao_atual",
-        "obter_foto_com_uso_liberado"
+        "revisar_uso_da_foto_referencia"
       ],
       "criado_em": "2026-10-26",
       "atualizado_em": "2026-10-26"
@@ -383,15 +383,15 @@
         }
       ],
       "imagem": {
-        "status": "pendente",
-        "url": null,
-        "fonte_id": null,
-        "condicao_uso": null
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000007.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
         "revisar_apresentacao_atual",
-        "obter_foto_com_uso_liberado"
+        "revisar_uso_da_foto_referencia"
       ],
       "criado_em": "2026-10-26",
       "atualizado_em": "2026-10-26"
@@ -437,15 +437,15 @@
         }
       ],
       "imagem": {
-        "status": "pendente",
-        "url": null,
-        "fonte_id": null,
-        "condicao_uso": null
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000008.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
         "revisar_apresentacao_atual",
-        "obter_foto_com_uso_liberado"
+        "revisar_uso_da_foto_referencia"
       ],
       "criado_em": "2026-10-26",
       "atualizado_em": "2026-10-26"
@@ -491,15 +491,15 @@
         }
       ],
       "imagem": {
-        "status": "pendente",
-        "url": null,
-        "fonte_id": null,
-        "condicao_uso": null
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000009.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
         "revisar_apresentacao_atual",
-        "obter_foto_com_uso_liberado"
+        "revisar_uso_da_foto_referencia"
       ],
       "criado_em": "2026-10-26",
       "atualizado_em": "2026-10-26"
@@ -563,10 +563,10 @@
         }
       ],
       "imagem": {
-        "status": "pendente",
-        "url": null,
-        "fonte_id": null,
-        "condicao_uso": null
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000010.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "obter_foto_com_uso_liberado"
@@ -615,15 +615,15 @@
         }
       ],
       "imagem": {
-        "status": "pendente",
-        "url": null,
-        "fonte_id": null,
-        "condicao_uso": null
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000011.jpeg",
+        "fonte_id": "femsa-colas-2024",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
         "revisar_apresentacao_atual",
-        "obter_foto_com_uso_liberado"
+        "revisar_uso_da_foto_referencia"
       ],
       "criado_em": "2026-10-26",
       "atualizado_em": "2026-10-26"
@@ -669,15 +669,15 @@
         }
       ],
       "imagem": {
-        "status": "pendente",
-        "url": null,
-        "fonte_id": null,
-        "condicao_uso": null
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000012.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
         "revisar_apresentacao_atual",
-        "obter_foto_com_uso_liberado"
+        "revisar_uso_da_foto_referencia"
       ],
       "criado_em": "2026-10-26",
       "atualizado_em": "2026-10-26"
@@ -723,15 +723,15 @@
         }
       ],
       "imagem": {
-        "status": "pendente",
-        "url": null,
-        "fonte_id": null,
-        "condicao_uso": null
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000013.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
         "revisar_apresentacao_atual",
-        "obter_foto_com_uso_liberado"
+        "revisar_uso_da_foto_referencia"
       ],
       "criado_em": "2026-10-26",
       "atualizado_em": "2026-10-26"
@@ -777,15 +777,15 @@
         }
       ],
       "imagem": {
-        "status": "pendente",
-        "url": null,
-        "fonte_id": null,
-        "condicao_uso": null
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000014.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
         "revisar_apresentacao_atual",
-        "obter_foto_com_uso_liberado"
+        "revisar_uso_da_foto_referencia"
       ],
       "criado_em": "2026-10-26",
       "atualizado_em": "2026-10-26"
@@ -831,15 +831,15 @@
         }
       ],
       "imagem": {
-        "status": "pendente",
-        "url": null,
-        "fonte_id": null,
-        "condicao_uso": null
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000015.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
         "revisar_apresentacao_atual",
-        "obter_foto_com_uso_liberado"
+        "revisar_uso_da_foto_referencia"
       ],
       "criado_em": "2026-10-26",
       "atualizado_em": "2026-10-26"
@@ -885,15 +885,15 @@
         }
       ],
       "imagem": {
-        "status": "pendente",
-        "url": null,
-        "fonte_id": null,
-        "condicao_uso": null
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000016.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
         "revisar_apresentacao_atual",
-        "obter_foto_com_uso_liberado"
+        "revisar_uso_da_foto_referencia"
       ],
       "criado_em": "2026-10-26",
       "atualizado_em": "2026-10-26"
@@ -939,15 +939,15 @@
         }
       ],
       "imagem": {
-        "status": "pendente",
-        "url": null,
-        "fonte_id": null,
-        "condicao_uso": null
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000017.jpeg",
+        "fonte_id": "femsa-colas-2024",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
         "revisar_apresentacao_atual",
-        "obter_foto_com_uso_liberado"
+        "revisar_uso_da_foto_referencia"
       ],
       "criado_em": "2026-10-26",
       "atualizado_em": "2026-10-26"
@@ -993,15 +993,15 @@
         }
       ],
       "imagem": {
-        "status": "pendente",
-        "url": null,
-        "fonte_id": null,
-        "condicao_uso": null
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000018.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
         "revisar_apresentacao_atual",
-        "obter_foto_com_uso_liberado"
+        "revisar_uso_da_foto_referencia"
       ],
       "criado_em": "2026-10-26",
       "atualizado_em": "2026-10-26"
@@ -1047,15 +1047,15 @@
         }
       ],
       "imagem": {
-        "status": "pendente",
-        "url": null,
-        "fonte_id": null,
-        "condicao_uso": null
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000019.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
         "revisar_apresentacao_atual",
-        "obter_foto_com_uso_liberado"
+        "revisar_uso_da_foto_referencia"
       ],
       "criado_em": "2026-10-26",
       "atualizado_em": "2026-10-26"
@@ -1101,15 +1101,15 @@
         }
       ],
       "imagem": {
-        "status": "pendente",
-        "url": null,
-        "fonte_id": null,
-        "condicao_uso": null
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000020.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
         "revisar_apresentacao_atual",
-        "obter_foto_com_uso_liberado"
+        "revisar_uso_da_foto_referencia"
       ],
       "criado_em": "2026-10-26",
       "atualizado_em": "2026-10-26"
@@ -1155,15 +1155,15 @@
         }
       ],
       "imagem": {
-        "status": "pendente",
-        "url": null,
-        "fonte_id": null,
-        "condicao_uso": null
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000021.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
         "revisar_apresentacao_atual",
-        "obter_foto_com_uso_liberado"
+        "revisar_uso_da_foto_referencia"
       ],
       "criado_em": "2026-10-26",
       "atualizado_em": "2026-10-26"
@@ -1209,15 +1209,15 @@
         }
       ],
       "imagem": {
-        "status": "pendente",
-        "url": null,
-        "fonte_id": null,
-        "condicao_uso": null
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000022.jpeg",
+        "fonte_id": "femsa-colas-2024",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
         "revisar_apresentacao_atual",
-        "obter_foto_com_uso_liberado"
+        "revisar_uso_da_foto_referencia"
       ],
       "criado_em": "2026-10-26",
       "atualizado_em": "2026-10-26"
@@ -1263,15 +1263,15 @@
         }
       ],
       "imagem": {
-        "status": "pendente",
-        "url": null,
-        "fonte_id": null,
-        "condicao_uso": null
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000023.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
         "revisar_apresentacao_atual",
-        "obter_foto_com_uso_liberado"
+        "revisar_uso_da_foto_referencia"
       ],
       "criado_em": "2026-10-26",
       "atualizado_em": "2026-10-26"
@@ -1317,15 +1317,15 @@
         }
       ],
       "imagem": {
-        "status": "pendente",
-        "url": null,
-        "fonte_id": null,
-        "condicao_uso": null
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000024.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
         "revisar_apresentacao_atual",
-        "obter_foto_com_uso_liberado"
+        "revisar_uso_da_foto_referencia"
       ],
       "criado_em": "2026-10-26",
       "atualizado_em": "2026-10-26"
@@ -1371,15 +1371,15 @@
         }
       ],
       "imagem": {
-        "status": "pendente",
-        "url": null,
-        "fonte_id": null,
-        "condicao_uso": null
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000025.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
         "revisar_apresentacao_atual",
-        "obter_foto_com_uso_liberado"
+        "revisar_uso_da_foto_referencia"
       ],
       "criado_em": "2026-10-26",
       "atualizado_em": "2026-10-26"
@@ -1425,15 +1425,15 @@
         }
       ],
       "imagem": {
-        "status": "pendente",
-        "url": null,
-        "fonte_id": null,
-        "condicao_uso": null
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000026.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
         "revisar_apresentacao_atual",
-        "obter_foto_com_uso_liberado"
+        "revisar_uso_da_foto_referencia"
       ],
       "criado_em": "2026-10-26",
       "atualizado_em": "2026-10-26"
@@ -1479,15 +1479,15 @@
         }
       ],
       "imagem": {
-        "status": "pendente",
-        "url": null,
-        "fonte_id": null,
-        "condicao_uso": null
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000027.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
         "revisar_apresentacao_atual",
-        "obter_foto_com_uso_liberado"
+        "revisar_uso_da_foto_referencia"
       ],
       "criado_em": "2026-10-26",
       "atualizado_em": "2026-10-26"
@@ -1533,15 +1533,15 @@
         }
       ],
       "imagem": {
-        "status": "pendente",
-        "url": null,
-        "fonte_id": null,
-        "condicao_uso": null
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000028.jpeg",
+        "fonte_id": "femsa-colas-2024",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
         "revisar_apresentacao_atual",
-        "obter_foto_com_uso_liberado"
+        "revisar_uso_da_foto_referencia"
       ],
       "criado_em": "2026-10-26",
       "atualizado_em": "2026-10-26"
@@ -1587,15 +1587,15 @@
         }
       ],
       "imagem": {
-        "status": "pendente",
-        "url": null,
-        "fonte_id": null,
-        "condicao_uso": null
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000029.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
         "revisar_apresentacao_atual",
-        "obter_foto_com_uso_liberado"
+        "revisar_uso_da_foto_referencia"
       ],
       "criado_em": "2026-10-26",
       "atualizado_em": "2026-10-26"
@@ -1641,15 +1641,15 @@
         }
       ],
       "imagem": {
-        "status": "pendente",
-        "url": null,
-        "fonte_id": null,
-        "condicao_uso": null
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000030.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
         "revisar_apresentacao_atual",
-        "obter_foto_com_uso_liberado"
+        "revisar_uso_da_foto_referencia"
       ],
       "criado_em": "2026-10-26",
       "atualizado_em": "2026-10-26"
@@ -1695,15 +1695,15 @@
         }
       ],
       "imagem": {
-        "status": "pendente",
-        "url": null,
-        "fonte_id": null,
-        "condicao_uso": null
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000031.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
         "revisar_apresentacao_atual",
-        "obter_foto_com_uso_liberado"
+        "revisar_uso_da_foto_referencia"
       ],
       "criado_em": "2026-10-26",
       "atualizado_em": "2026-10-26"
@@ -1749,15 +1749,15 @@
         }
       ],
       "imagem": {
-        "status": "pendente",
-        "url": null,
-        "fonte_id": null,
-        "condicao_uso": null
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000032.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
         "revisar_apresentacao_atual",
-        "obter_foto_com_uso_liberado"
+        "revisar_uso_da_foto_referencia"
       ],
       "criado_em": "2026-10-26",
       "atualizado_em": "2026-10-26"
@@ -2037,10 +2037,10 @@
         }
       ],
       "imagem": {
-        "status": "pendente",
-        "url": null,
-        "fonte_id": null,
-        "condicao_uso": null
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000037.png",
+        "fonte_id": "mt-heineken350",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "obter_foto_com_uso_liberado"
@@ -2089,15 +2089,15 @@
         }
       ],
       "imagem": {
-        "status": "pendente",
-        "url": null,
-        "fonte_id": null,
-        "condicao_uso": null
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000038.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
         "revisar_apresentacao_atual",
-        "obter_foto_com_uso_liberado"
+        "revisar_uso_da_foto_referencia"
       ],
       "criado_em": "2026-10-26",
       "atualizado_em": "2026-10-26"
@@ -2143,15 +2143,15 @@
         }
       ],
       "imagem": {
-        "status": "pendente",
-        "url": null,
-        "fonte_id": null,
-        "condicao_uso": null
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000039.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
         "revisar_apresentacao_atual",
-        "obter_foto_com_uso_liberado"
+        "revisar_uso_da_foto_referencia"
       ],
       "criado_em": "2026-10-26",
       "atualizado_em": "2026-10-26"
@@ -2251,15 +2251,15 @@
         }
       ],
       "imagem": {
-        "status": "pendente",
-        "url": null,
-        "fonte_id": null,
-        "condicao_uso": null
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000041.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
         "revisar_apresentacao_atual",
-        "obter_foto_com_uso_liberado"
+        "revisar_uso_da_foto_referencia"
       ],
       "criado_em": "2026-10-26",
       "atualizado_em": "2026-10-26"
@@ -2305,15 +2305,15 @@
         }
       ],
       "imagem": {
-        "status": "pendente",
-        "url": null,
-        "fonte_id": null,
-        "condicao_uso": null
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000042.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
         "revisar_apresentacao_atual",
-        "obter_foto_com_uso_liberado"
+        "revisar_uso_da_foto_referencia"
       ],
       "criado_em": "2026-10-26",
       "atualizado_em": "2026-10-26"
@@ -2359,15 +2359,15 @@
         }
       ],
       "imagem": {
-        "status": "pendente",
-        "url": null,
-        "fonte_id": null,
-        "condicao_uso": null
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000043.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
         "revisar_apresentacao_atual",
-        "obter_foto_com_uso_liberado"
+        "revisar_uso_da_foto_referencia"
       ],
       "criado_em": "2026-10-26",
       "atualizado_em": "2026-10-26"
@@ -2413,15 +2413,15 @@
         }
       ],
       "imagem": {
-        "status": "pendente",
-        "url": null,
-        "fonte_id": null,
-        "condicao_uso": null
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000044.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
         "revisar_apresentacao_atual",
-        "obter_foto_com_uso_liberado"
+        "revisar_uso_da_foto_referencia"
       ],
       "criado_em": "2026-10-26",
       "atualizado_em": "2026-10-26"
@@ -2467,15 +2467,15 @@
         }
       ],
       "imagem": {
-        "status": "pendente",
-        "url": null,
-        "fonte_id": null,
-        "condicao_uso": null
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000045.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
         "revisar_apresentacao_atual",
-        "obter_foto_com_uso_liberado"
+        "revisar_uso_da_foto_referencia"
       ],
       "criado_em": "2026-10-26",
       "atualizado_em": "2026-10-26"
@@ -2521,15 +2521,15 @@
         }
       ],
       "imagem": {
-        "status": "pendente",
-        "url": null,
-        "fonte_id": null,
-        "condicao_uso": null
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000046.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
         "revisar_apresentacao_atual",
-        "obter_foto_com_uso_liberado"
+        "revisar_uso_da_foto_referencia"
       ],
       "criado_em": "2026-10-26",
       "atualizado_em": "2026-10-26"
@@ -2737,10 +2737,4636 @@
         }
       ],
       "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000050.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "revisar_uso_da_foto_referencia"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000051",
+      "descricao": "Guaraná Antarctica Tradicional Lata 350 ml",
+      "descricao_curta": "Guaraná Antarctica Tradicional 350 ml",
+      "marca": "Guaraná Antarctica",
+      "variante": "Tradicional",
+      "categoria_id": "refrigerantes",
+      "conteudo_ml": 350,
+      "embalagem": "lata",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7891991000826",
+          "fonte_id": "ambev-lista-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 1,
+        "fonte_id": "ambev-lista-2024",
+        "nota": "Unidade descrita na fonte; não representa caixa."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "ambev-lista-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato"
+          ],
+          "nota": "Coleta inicial; apresentação e atualidade ainda pendentes de conferência cruzada."
+        }
+      ],
+      "imagem": {
         "status": "pendente",
         "url": null,
         "fonte_id": null,
         "condicao_uso": null
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000052",
+      "descricao": "Guaraná Antarctica Zero Lata 350 ml",
+      "descricao_curta": "Guaraná Antarctica Zero 350 ml",
+      "marca": "Guaraná Antarctica",
+      "variante": "Zero",
+      "categoria_id": "refrigerantes",
+      "conteudo_ml": 350,
+      "embalagem": "lata",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7891991000727",
+          "fonte_id": "ambev-lista-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 1,
+        "fonte_id": "ambev-lista-2024",
+        "nota": "Unidade descrita na fonte; não representa caixa."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "ambev-lista-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato"
+          ],
+          "nota": "Coleta inicial; apresentação e atualidade ainda pendentes de conferência cruzada."
+        }
+      ],
+      "imagem": {
+        "status": "pendente",
+        "url": null,
+        "fonte_id": null,
+        "condicao_uso": null
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000053",
+      "descricao": "Pepsi Cola Lata 350 ml",
+      "descricao_curta": "Pepsi Cola 350 ml",
+      "marca": "Pepsi",
+      "variante": "Cola",
+      "categoria_id": "refrigerantes",
+      "conteudo_ml": 350,
+      "embalagem": "lata",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7892840800079",
+          "fonte_id": "ambev-lista-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 1,
+        "fonte_id": "ambev-lista-2024",
+        "nota": "Unidade descrita na fonte; não representa caixa."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "ambev-lista-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato"
+          ],
+          "nota": "Coleta inicial; apresentação e atualidade ainda pendentes de conferência cruzada."
+        }
+      ],
+      "imagem": {
+        "status": "pendente",
+        "url": null,
+        "fonte_id": null,
+        "condicao_uso": null
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000054",
+      "descricao": "Pepsi Black Lata 350 ml",
+      "descricao_curta": "Pepsi Black 350 ml",
+      "marca": "Pepsi",
+      "variante": "Black",
+      "categoria_id": "refrigerantes",
+      "conteudo_ml": 350,
+      "embalagem": "lata",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7892840813505",
+          "fonte_id": "ambev-lista-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 1,
+        "fonte_id": "ambev-lista-2024",
+        "nota": "Unidade descrita na fonte; não representa caixa."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "ambev-lista-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato"
+          ],
+          "nota": "Coleta inicial; apresentação e atualidade ainda pendentes de conferência cruzada."
+        }
+      ],
+      "imagem": {
+        "status": "pendente",
+        "url": null,
+        "fonte_id": null,
+        "condicao_uso": null
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000055",
+      "descricao": "Pepsi Twist Lata 350 ml",
+      "descricao_curta": "Pepsi Twist 350 ml",
+      "marca": "Pepsi",
+      "variante": "Twist",
+      "categoria_id": "refrigerantes",
+      "conteudo_ml": 350,
+      "embalagem": "lata",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7892840802745",
+          "fonte_id": "ambev-lista-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 1,
+        "fonte_id": "ambev-lista-2024",
+        "nota": "Unidade descrita na fonte; não representa caixa."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "ambev-lista-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato"
+          ],
+          "nota": "Coleta inicial; apresentação e atualidade ainda pendentes de conferência cruzada."
+        }
+      ],
+      "imagem": {
+        "status": "pendente",
+        "url": null,
+        "fonte_id": null,
+        "condicao_uso": null
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000056",
+      "descricao": "Pepsi Twist Zero Lata 350 ml",
+      "descricao_curta": "Pepsi Twist Zero 350 ml",
+      "marca": "Pepsi",
+      "variante": "Twist Zero",
+      "categoria_id": "refrigerantes",
+      "conteudo_ml": 350,
+      "embalagem": "lata",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7892840804947",
+          "fonte_id": "ambev-lista-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 1,
+        "fonte_id": "ambev-lista-2024",
+        "nota": "Unidade descrita na fonte; não representa caixa."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "ambev-lista-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato"
+          ],
+          "nota": "Coleta inicial; apresentação e atualidade ainda pendentes de conferência cruzada."
+        }
+      ],
+      "imagem": {
+        "status": "pendente",
+        "url": null,
+        "fonte_id": null,
+        "condicao_uso": null
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000057",
+      "descricao": "Fys Guaraná Lata 350 ml",
+      "descricao_curta": "Fys Guaraná 350 ml",
+      "marca": "Fys",
+      "variante": "Guaraná",
+      "categoria_id": "refrigerantes",
+      "conteudo_ml": 350,
+      "embalagem": "lata",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7896052607044",
+          "fonte_id": "fys-lista",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 1,
+        "fonte_id": "fys-lista",
+        "nota": "Unidade descrita na fonte; não representa caixa."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "fys-lista",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato"
+          ],
+          "nota": "Coleta inicial; apresentação e atualidade ainda pendentes de conferência cruzada."
+        }
+      ],
+      "imagem": {
+        "status": "pendente",
+        "url": null,
+        "fonte_id": null,
+        "condicao_uso": null
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000058",
+      "descricao": "Fys Laranja-Pera Lata 350 ml",
+      "descricao_curta": "Fys Laranja-Pera 350 ml",
+      "marca": "Fys",
+      "variante": "Laranja-Pera",
+      "categoria_id": "refrigerantes",
+      "conteudo_ml": 350,
+      "embalagem": "lata",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7896052607129",
+          "fonte_id": "fys-lista",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 1,
+        "fonte_id": "fys-lista",
+        "nota": "Unidade descrita na fonte; não representa caixa."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "fys-lista",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato"
+          ],
+          "nota": "Coleta inicial; apresentação e atualidade ainda pendentes de conferência cruzada."
+        }
+      ],
+      "imagem": {
+        "status": "pendente",
+        "url": null,
+        "fonte_id": null,
+        "condicao_uso": null
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000059",
+      "descricao": "Fys Limão Siciliano Lata 350 ml",
+      "descricao_curta": "Fys Limão Siciliano 350 ml",
+      "marca": "Fys",
+      "variante": "Limão Siciliano",
+      "categoria_id": "refrigerantes",
+      "conteudo_ml": 350,
+      "embalagem": "lata",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7896052607167",
+          "fonte_id": "fys-lista",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 1,
+        "fonte_id": "fys-lista",
+        "nota": "Unidade descrita na fonte; não representa caixa."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "fys-lista",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato"
+          ],
+          "nota": "Coleta inicial; apresentação e atualidade ainda pendentes de conferência cruzada."
+        }
+      ],
+      "imagem": {
+        "status": "pendente",
+        "url": null,
+        "fonte_id": null,
+        "condicao_uso": null
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000060",
+      "descricao": "Fys Guaraná PET 2000 ml",
+      "descricao_curta": "Fys Guaraná 2000 ml",
+      "marca": "Fys",
+      "variante": "Guaraná",
+      "categoria_id": "refrigerantes",
+      "conteudo_ml": 2000,
+      "embalagem": "garrafa_pet",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7896052607020",
+          "fonte_id": "fys-lista",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 1,
+        "fonte_id": "fys-lista",
+        "nota": "Unidade descrita na fonte; não representa caixa."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "fys-lista",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato"
+          ],
+          "nota": "Coleta inicial; apresentação e atualidade ainda pendentes de conferência cruzada."
+        }
+      ],
+      "imagem": {
+        "status": "pendente",
+        "url": null,
+        "fonte_id": null,
+        "condicao_uso": null
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000061",
+      "descricao": "Fys Laranja PET 2000 ml",
+      "descricao_curta": "Fys Laranja 2000 ml",
+      "marca": "Fys",
+      "variante": "Laranja",
+      "categoria_id": "refrigerantes",
+      "conteudo_ml": 2000,
+      "embalagem": "garrafa_pet",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7896052607105",
+          "fonte_id": "fys-lista",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 1,
+        "fonte_id": "fys-lista",
+        "nota": "Unidade descrita na fonte; não representa caixa."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "fys-lista",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato"
+          ],
+          "nota": "Coleta inicial; apresentação e atualidade ainda pendentes de conferência cruzada."
+        }
+      ],
+      "imagem": {
+        "status": "pendente",
+        "url": null,
+        "fonte_id": null,
+        "condicao_uso": null
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000062",
+      "descricao": "Fys Limão PET 2000 ml",
+      "descricao_curta": "Fys Limão 2000 ml",
+      "marca": "Fys",
+      "variante": "Limão",
+      "categoria_id": "refrigerantes",
+      "conteudo_ml": 2000,
+      "embalagem": "garrafa_pet",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7896052607143",
+          "fonte_id": "fys-lista",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 1,
+        "fonte_id": "fys-lista",
+        "nota": "Unidade descrita na fonte; não representa caixa."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "fys-lista",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato"
+          ],
+          "nota": "Coleta inicial; apresentação e atualidade ainda pendentes de conferência cruzada."
+        }
+      ],
+      "imagem": {
+        "status": "pendente",
+        "url": null,
+        "fonte_id": null,
+        "condicao_uso": null
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000063",
+      "descricao": "Guaraná Jesus Tradicional Lata 350 ml",
+      "descricao_curta": "Guaraná Jesus Tradicional 350 ml",
+      "marca": "Guaraná Jesus",
+      "variante": "Tradicional",
+      "categoria_id": "refrigerantes",
+      "conteudo_ml": 350,
+      "embalagem": "lata",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7894900940220",
+          "fonte_id": "jesus-unidade",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 1,
+        "fonte_id": "jesus-unidade",
+        "nota": "Unidade descrita na fonte; não representa caixa."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "jesus-unidade",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato"
+          ],
+          "nota": "Coleta inicial; apresentação e atualidade ainda pendentes de conferência cruzada."
+        }
+      ],
+      "imagem": {
+        "status": "pendente",
+        "url": null,
+        "fonte_id": null,
+        "condicao_uso": null
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000064",
+      "descricao": "Kuat Guaraná Lata 350 ml",
+      "descricao_curta": "Kuat Guaraná 350 ml",
+      "marca": "Kuat",
+      "variante": "Guaraná",
+      "categoria_id": "refrigerantes",
+      "conteudo_ml": 350,
+      "embalagem": "lata",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7894900910018",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 1,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Unidade descrita na fonte; não representa caixa."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato"
+          ],
+          "nota": "Coleta inicial; apresentação e atualidade ainda pendentes de conferência cruzada."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000064.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000065",
+      "descricao": "Kuat Guaraná PET 600 ml",
+      "descricao_curta": "Kuat Guaraná 600 ml",
+      "marca": "Kuat",
+      "variante": "Guaraná",
+      "categoria_id": "refrigerantes",
+      "conteudo_ml": 600,
+      "embalagem": "garrafa_pet",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7894900911602",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 1,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Unidade descrita na fonte; não representa caixa."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato"
+          ],
+          "nota": "Coleta inicial; apresentação e atualidade ainda pendentes de conferência cruzada."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000065.jpeg",
+        "fonte_id": "femsa-colas-2024",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000066",
+      "descricao": "Kuat Guaraná PET 2000 ml",
+      "descricao_curta": "Kuat Guaraná 2000 ml",
+      "marca": "Kuat",
+      "variante": "Guaraná",
+      "categoria_id": "refrigerantes",
+      "conteudo_ml": 2000,
+      "embalagem": "garrafa_pet",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7894900911510",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 1,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Unidade descrita na fonte; não representa caixa."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato"
+          ],
+          "nota": "Coleta inicial; apresentação e atualidade ainda pendentes de conferência cruzada."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000066.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000067",
+      "descricao": "Sprite Original Limão Lata 350 ml",
+      "descricao_curta": "Sprite Original Limão 350 ml",
+      "marca": "Sprite",
+      "variante": "Original Limão",
+      "categoria_id": "refrigerantes",
+      "conteudo_ml": 350,
+      "embalagem": "lata",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7894900681017",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 1,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Unidade descrita na fonte; não representa caixa."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato"
+          ],
+          "nota": "Coleta inicial; apresentação e atualidade ainda pendentes de conferência cruzada."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000067.jpeg",
+        "fonte_id": "femsa-colas-2024",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000068",
+      "descricao": "Sprite Limão Sem Açúcar Lata 350 ml",
+      "descricao_curta": "Sprite Limão Sem Açúcar 350 ml",
+      "marca": "Sprite",
+      "variante": "Limão Sem Açúcar",
+      "categoria_id": "refrigerantes",
+      "conteudo_ml": 350,
+      "embalagem": "lata",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7894900060010",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 1,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Unidade descrita na fonte; não representa caixa."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato"
+          ],
+          "nota": "Coleta inicial; apresentação e atualidade ainda pendentes de conferência cruzada."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000068.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000069",
+      "descricao": "Bavaria Pilsen LT 350 ml",
+      "descricao_curta": "Bavaria Pilsen 350 ml",
+      "marca": "Bavaria",
+      "variante": "Pilsen",
+      "categoria_id": "cervejas",
+      "conteudo_ml": 350,
+      "embalagem": "lata",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7896045506095",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 12,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000069.jpeg",
+        "fonte_id": "femsa-colas-2024",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000070",
+      "descricao": "Bavaria Pilsen LT 473 ml",
+      "descricao_curta": "Bavaria Pilsen 473 ml",
+      "marca": "Bavaria",
+      "variante": "Pilsen",
+      "categoria_id": "cervejas",
+      "conteudo_ml": 473,
+      "embalagem": "lata",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7896045503452",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 12,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000070.jpeg",
+        "fonte_id": "femsa-colas-2024",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000071",
+      "descricao": "Bavaria Pilsen RGB 600 ml",
+      "descricao_curta": "Bavaria Pilsen 600 ml",
+      "marca": "Bavaria",
+      "variante": "Pilsen",
+      "categoria_id": "cervejas",
+      "conteudo_ml": 600,
+      "embalagem": "garrafa_vidro",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "78909458",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 24,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000071.jpeg",
+        "fonte_id": "femsa-colas-2024",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000072",
+      "descricao": "Eisenbahn IPA LN 355 ml",
+      "descricao_curta": "Eisenbahn IPA 355 ml",
+      "marca": "Eisenbahn",
+      "variante": "IPA",
+      "categoria_id": "cervejas",
+      "conteudo_ml": 355,
+      "embalagem": "long_neck",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7898367983813",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 6,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000072.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000073",
+      "descricao": "Eisenbahn IPA LT 350 ml",
+      "descricao_curta": "Eisenbahn IPA 350 ml",
+      "marca": "Eisenbahn",
+      "variante": "IPA",
+      "categoria_id": "cervejas",
+      "conteudo_ml": 350,
+      "embalagem": "lata",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7898367984056",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 12,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000073.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000074",
+      "descricao": "Eisenbahn Pale Ale LN 355 ml",
+      "descricao_curta": "Eisenbahn Pale Ale 355 ml",
+      "marca": "Eisenbahn",
+      "variante": "Pale Ale",
+      "categoria_id": "cervejas",
+      "conteudo_ml": 355,
+      "embalagem": "long_neck",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7898367980034",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 6,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000074.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000075",
+      "descricao": "Eisenbahn Pale Ale LT 350 ml",
+      "descricao_curta": "Eisenbahn Pale Ale 350 ml",
+      "marca": "Eisenbahn",
+      "variante": "Pale Ale",
+      "categoria_id": "cervejas",
+      "conteudo_ml": 350,
+      "embalagem": "lata",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7898367984070",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 12,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000075.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000076",
+      "descricao": "Eisenbahn Pilsen German LN 355 ml",
+      "descricao_curta": "Eisenbahn Pilsen German 355 ml",
+      "marca": "Eisenbahn",
+      "variante": "Pilsen German",
+      "categoria_id": "cervejas",
+      "conteudo_ml": 355,
+      "embalagem": "long_neck",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7898367984469",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 12,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000076.jpeg",
+        "fonte_id": "femsa-colas-2024",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000077",
+      "descricao": "Eisenbahn Pilsen LN 355 ml",
+      "descricao_curta": "Eisenbahn Pilsen 355 ml",
+      "marca": "Eisenbahn",
+      "variante": "Pilsen",
+      "categoria_id": "cervejas",
+      "conteudo_ml": 355,
+      "embalagem": "long_neck",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7898367980010",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 6,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000077.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000078",
+      "descricao": "Eisenbahn Pilsen LT 350 ml",
+      "descricao_curta": "Eisenbahn Pilsen 350 ml",
+      "marca": "Eisenbahn",
+      "variante": "Pilsen",
+      "categoria_id": "cervejas",
+      "conteudo_ml": 350,
+      "embalagem": "lata",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7898367983790",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 12,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000078.jpeg",
+        "fonte_id": "femsa-colas-2024",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000079",
+      "descricao": "Eisenbahn Pilsen LT 473 ml",
+      "descricao_curta": "Eisenbahn Pilsen 473 ml",
+      "marca": "Eisenbahn",
+      "variante": "Pilsen",
+      "categoria_id": "cervejas",
+      "conteudo_ml": 473,
+      "embalagem": "lata",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7898367983356",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 12,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000079.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000080",
+      "descricao": "Eisenbahn Pilsen RGB 600 ml",
+      "descricao_curta": "Eisenbahn Pilsen 600 ml",
+      "marca": "Eisenbahn",
+      "variante": "Pilsen",
+      "categoria_id": "cervejas",
+      "conteudo_ml": 600,
+      "embalagem": "garrafa_vidro",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7898367983615",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 24,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000080.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000081",
+      "descricao": "Eisenbahn Session IPA LN 355 ml",
+      "descricao_curta": "Eisenbahn Session IPA 355 ml",
+      "marca": "Eisenbahn",
+      "variante": "Session IPA",
+      "categoria_id": "cervejas",
+      "conteudo_ml": 355,
+      "embalagem": "long_neck",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7898367984254",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 6,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000081.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000082",
+      "descricao": "Eisenbahn Unfiltered LN 355 ml",
+      "descricao_curta": "Eisenbahn Unfiltered 355 ml",
+      "marca": "Eisenbahn",
+      "variante": "Unfiltered",
+      "categoria_id": "cervejas",
+      "conteudo_ml": 355,
+      "embalagem": "long_neck",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7898367984346",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 6,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000082.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000083",
+      "descricao": "Eisenbahn Unfiltered LT 350 ml",
+      "descricao_curta": "Eisenbahn Unfiltered 350 ml",
+      "marca": "Eisenbahn",
+      "variante": "Unfiltered",
+      "categoria_id": "cervejas",
+      "conteudo_ml": 350,
+      "embalagem": "lata",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7898367984377",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 12,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000083.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000084",
+      "descricao": "Eisenbahn Unfiltered LT 473 ml",
+      "descricao_curta": "Eisenbahn Unfiltered 473 ml",
+      "marca": "Eisenbahn",
+      "variante": "Unfiltered",
+      "categoria_id": "cervejas",
+      "conteudo_ml": 473,
+      "embalagem": "lata",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7898367984513",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 1,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000084.jpeg",
+        "fonte_id": "femsa-colas-2024",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000085",
+      "descricao": "Eisenbahn Unfiltered RGB 600 ml",
+      "descricao_curta": "Eisenbahn Unfiltered 600 ml",
+      "marca": "Eisenbahn",
+      "variante": "Unfiltered",
+      "categoria_id": "cervejas",
+      "conteudo_ml": 600,
+      "embalagem": "garrafa_vidro",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7898367984445",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 24,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000085.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000086",
+      "descricao": "Eisenbahn Weizenbier LN 355 ml",
+      "descricao_curta": "Eisenbahn Weizenbier 355 ml",
+      "marca": "Eisenbahn",
+      "variante": "Weizenbier",
+      "categoria_id": "cervejas",
+      "conteudo_ml": 355,
+      "embalagem": "long_neck",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7898367980041",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 6,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000086.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000087",
+      "descricao": "Estrella Galicia 0,0% LT 330 ml",
+      "descricao_curta": "Estrella Galicia 0,0% 330 ml",
+      "marca": "Estrella",
+      "variante": "Galicia 0,0%",
+      "categoria_id": "cervejas",
+      "conteudo_ml": 330,
+      "embalagem": "lata",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "8412598000478",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 6,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000087.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000088",
+      "descricao": "Estrella Galicia LN 355 ml",
+      "descricao_curta": "Estrella Galicia 355 ml",
+      "marca": "Estrella",
+      "variante": "Galicia",
+      "categoria_id": "cervejas",
+      "conteudo_ml": 355,
+      "embalagem": "long_neck",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7898953990140",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 6,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000088.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000089",
+      "descricao": "Estrella Galicia LT 350 ml",
+      "descricao_curta": "Estrella Galicia 350 ml",
+      "marca": "Estrella",
+      "variante": "Galicia",
+      "categoria_id": "cervejas",
+      "conteudo_ml": 350,
+      "embalagem": "lata",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7898953990065",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 12,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000089.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000090",
+      "descricao": "Estrella Galicia LT 473 ml",
+      "descricao_curta": "Estrella Galicia 473 ml",
+      "marca": "Estrella",
+      "variante": "Galicia",
+      "categoria_id": "cervejas",
+      "conteudo_ml": 473,
+      "embalagem": "lata",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7898953990157",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 12,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000090.jpeg",
+        "fonte_id": "femsa-colas-2024",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000091",
+      "descricao": "Estrella Galicia NRGB 600 ml",
+      "descricao_curta": "Estrella Galicia 600 ml",
+      "marca": "Estrella",
+      "variante": "Galicia",
+      "categoria_id": "cervejas",
+      "conteudo_ml": 600,
+      "embalagem": "garrafa_vidro",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7898953990010",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 6,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000091.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000092",
+      "descricao": "Kaiser Pilsen LT 350 ml",
+      "descricao_curta": "Kaiser Pilsen 350 ml",
+      "marca": "Kaiser",
+      "variante": "Pilsen",
+      "categoria_id": "cervejas",
+      "conteudo_ml": 350,
+      "embalagem": "lata",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7896045512317",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 12,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000092.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000093",
+      "descricao": "Kaiser Pilsen LT 473 ml",
+      "descricao_curta": "Kaiser Pilsen 473 ml",
+      "marca": "Kaiser",
+      "variante": "Pilsen",
+      "categoria_id": "cervejas",
+      "conteudo_ml": 473,
+      "embalagem": "lata",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7896045503414",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 12,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000093.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000094",
+      "descricao": "Kaiser Pilsen RGB 1000 ml",
+      "descricao_curta": "Kaiser Pilsen 1000 ml",
+      "marca": "Kaiser",
+      "variante": "Pilsen",
+      "categoria_id": "cervejas",
+      "conteudo_ml": 1000,
+      "embalagem": "garrafa_vidro",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7896045503476",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 12,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000094.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000095",
+      "descricao": "Kaiser Pilsen RGB 600 ml",
+      "descricao_curta": "Kaiser Pilsen 600 ml",
+      "marca": "Kaiser",
+      "variante": "Pilsen",
+      "categoria_id": "cervejas",
+      "conteudo_ml": 600,
+      "embalagem": "garrafa_vidro",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "78904644",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 24,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000095.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000096",
+      "descricao": "Tiger Pilsen LT 350 ml",
+      "descricao_curta": "Tiger Pilsen 350 ml",
+      "marca": "Tiger",
+      "variante": "Pilsen",
+      "categoria_id": "cervejas",
+      "conteudo_ml": 350,
+      "embalagem": "lata",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7896045506705",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 12,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000096.jpeg",
+        "fonte_id": "femsa-colas-2024",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000097",
+      "descricao": "Tiger Pilsen LT 473 ml",
+      "descricao_curta": "Tiger Pilsen 473 ml",
+      "marca": "Tiger",
+      "variante": "Pilsen",
+      "categoria_id": "cervejas",
+      "conteudo_ml": 473,
+      "embalagem": "lata",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7896052607679",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 12,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000097.jpeg",
+        "fonte_id": "femsa-colas-2024",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000098",
+      "descricao": "Sol Premium 0,0% LN 330 ml",
+      "descricao_curta": "Sol Premium 0,0% 330 ml",
+      "marca": "Sol",
+      "variante": "Premium 0,0%",
+      "categoria_id": "cervejas",
+      "conteudo_ml": 330,
+      "embalagem": "long_neck",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7896045507368",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 6,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000098.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000099",
+      "descricao": "Sol Premium NRGB 600 ml",
+      "descricao_curta": "Sol Premium 600 ml",
+      "marca": "Sol",
+      "variante": "Premium",
+      "categoria_id": "cervejas",
+      "conteudo_ml": 600,
+      "embalagem": "garrafa_vidro",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7896045507191",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 12,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000099.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000100",
+      "descricao": "Aperol NRGB 750 ml",
+      "descricao_curta": "Aperol 750 ml",
+      "marca": "Aperol",
+      "variante": "Não especificada na fonte",
+      "categoria_id": "destilados-aperitivos",
+      "conteudo_ml": 750,
+      "embalagem": "garrafa_vidro",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7891136057012",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 1,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000100.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000101",
+      "descricao": "Cachaca Ypioca Emp Ouro NRGB 965 ml",
+      "descricao_curta": "Cachaca Ypioca Emp Ouro 965 ml",
+      "marca": "Cachaca",
+      "variante": "Ypioca Emp Ouro",
+      "categoria_id": "destilados-aperitivos",
+      "conteudo_ml": 965,
+      "embalagem": "garrafa_vidro",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7896383700704",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 1,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000101.jpeg",
+        "fonte_id": "femsa-colas-2024",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000102",
+      "descricao": "Cachaca Ypioca Mestre NRGB 965 ml",
+      "descricao_curta": "Cachaca Ypioca Mestre 965 ml",
+      "marca": "Cachaca",
+      "variante": "Ypioca Mestre",
+      "categoria_id": "destilados-aperitivos",
+      "conteudo_ml": 965,
+      "embalagem": "garrafa_vidro",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7896383730428",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 1,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000102.jpeg",
+        "fonte_id": "femsa-colas-2024",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000103",
+      "descricao": "Cinzano Pro Spritz NRGB 750 ml",
+      "descricao_curta": "Cinzano Pro Spritz 750 ml",
+      "marca": "Cinzano",
+      "variante": "Pro Spritz",
+      "categoria_id": "destilados-aperitivos",
+      "conteudo_ml": 750,
+      "embalagem": "garrafa_vidro",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "8000020107057",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 1,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000103.jpeg",
+        "fonte_id": "femsa-colas-2024",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000104",
+      "descricao": "Cinzano Vermute Rosso NRGB 1000 ml",
+      "descricao_curta": "Cinzano Vermute Rosso 1000 ml",
+      "marca": "Cinzano",
+      "variante": "Vermute Rosso",
+      "categoria_id": "destilados-aperitivos",
+      "conteudo_ml": 1000,
+      "embalagem": "garrafa_vidro",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7791200200552",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 1,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000104.jpeg",
+        "fonte_id": "femsa-colas-2024",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000105",
+      "descricao": "Cynar NRGB 900 ml",
+      "descricao_curta": "Cynar 900 ml",
+      "marca": "Cynar",
+      "variante": "Não especificada na fonte",
+      "categoria_id": "destilados-aperitivos",
+      "conteudo_ml": 900,
+      "embalagem": "garrafa_vidro",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7891136065208",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 1,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000105.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000106",
+      "descricao": "Dreher NRGB 900 ml",
+      "descricao_curta": "Dreher 900 ml",
+      "marca": "Dreher",
+      "variante": "Não especificada na fonte",
+      "categoria_id": "destilados-aperitivos",
+      "conteudo_ml": 900,
+      "embalagem": "garrafa_vidro",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7896010006360",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 1,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000106.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000107",
+      "descricao": "Drury'S NRGB 900 ml",
+      "descricao_curta": "Drury'S 900 ml",
+      "marca": "Drury'S",
+      "variante": "Não especificada na fonte",
+      "categoria_id": "destilados-aperitivos",
+      "conteudo_ml": 900,
+      "embalagem": "garrafa_vidro",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7896010006353",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 1,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000107.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000108",
+      "descricao": "Gin Bulldog NRGB 750 ml",
+      "descricao_curta": "Gin Bulldog 750 ml",
+      "marca": "Gin",
+      "variante": "Bulldog",
+      "categoria_id": "destilados-aperitivos",
+      "conteudo_ml": 750,
+      "embalagem": "garrafa_vidro",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "897076002003",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 1,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000108.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000109",
+      "descricao": "Gin Gordon's NRGB 750 ml",
+      "descricao_curta": "Gin Gordon's 750 ml",
+      "marca": "Gin",
+      "variante": "Gordon's",
+      "categoria_id": "destilados-aperitivos",
+      "conteudo_ml": 750,
+      "embalagem": "garrafa_vidro",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "5000289020701",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 1,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000109.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000110",
+      "descricao": "Gin Tanqueray NRGB 750 ml",
+      "descricao_curta": "Gin Tanqueray 750 ml",
+      "marca": "Gin",
+      "variante": "Tanqueray",
+      "categoria_id": "destilados-aperitivos",
+      "conteudo_ml": 750,
+      "embalagem": "garrafa_vidro",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "5000291020706",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 1,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000110.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000111",
+      "descricao": "Gin Tanqueray Ragpur NRGB 700 ml",
+      "descricao_curta": "Gin Tanqueray Ragpur 700 ml",
+      "marca": "Gin",
+      "variante": "Tanqueray Ragpur",
+      "categoria_id": "destilados-aperitivos",
+      "conteudo_ml": 700,
+      "embalagem": "garrafa_vidro",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "5000291025930",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 1,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000111.jpeg",
+        "fonte_id": "femsa-colas-2024",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000112",
+      "descricao": "Gin Tanqueray Sevilla NRGB 700 ml",
+      "descricao_curta": "Gin Tanqueray Sevilla 700 ml",
+      "marca": "Gin",
+      "variante": "Tanqueray Sevilla",
+      "categoria_id": "destilados-aperitivos",
+      "conteudo_ml": 700,
+      "embalagem": "garrafa_vidro",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "5000291023462",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 1,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000112.jpeg",
+        "fonte_id": "femsa-colas-2024",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000113",
+      "descricao": "Licor Baileys NRGB 750 ml",
+      "descricao_curta": "Licor Baileys 750 ml",
+      "marca": "Licor",
+      "variante": "Baileys",
+      "categoria_id": "destilados-aperitivos",
+      "conteudo_ml": 750,
+      "embalagem": "garrafa_vidro",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "5011013100132",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 1,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000113.jpeg",
+        "fonte_id": "femsa-colas-2024",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000114",
+      "descricao": "Liebfraulmilch NRGB 750 ml",
+      "descricao_curta": "Liebfraulmilch 750 ml",
+      "marca": "Liebfraulmilch",
+      "variante": "Não especificada na fonte",
+      "categoria_id": "vinhos",
+      "conteudo_ml": 750,
+      "embalagem": "garrafa_vidro",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7896010001655",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 1,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000114.jpeg",
+        "fonte_id": "femsa-colas-2024",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000115",
+      "descricao": "Old Eight NRGB 900 ml",
+      "descricao_curta": "Old Eight 900 ml",
+      "marca": "Old",
+      "variante": "Eight",
+      "categoria_id": "destilados-aperitivos",
+      "conteudo_ml": 900,
+      "embalagem": "garrafa_vidro",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7896010006346",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 1,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000115.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000116",
+      "descricao": "Sagatiba Cristalina NRGB 700 ml",
+      "descricao_curta": "Sagatiba Cristalina 700 ml",
+      "marca": "Sagatiba",
+      "variante": "Cristalina",
+      "categoria_id": "destilados-aperitivos",
+      "conteudo_ml": 700,
+      "embalagem": "garrafa_vidro",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7896010000016",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 1,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000116.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000117",
+      "descricao": "Skyy Vodka NRGB 750 ml",
+      "descricao_curta": "Skyy Vodka 750 ml",
+      "marca": "Skyy",
+      "variante": "Vodka",
+      "categoria_id": "destilados-aperitivos",
+      "conteudo_ml": 750,
+      "embalagem": "garrafa_vidro",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7896010004502",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 1,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000117.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000118",
+      "descricao": "Skyy Vodka NRGB 980 ml",
+      "descricao_curta": "Skyy Vodka 980 ml",
+      "marca": "Skyy",
+      "variante": "Vodka",
+      "categoria_id": "destilados-aperitivos",
+      "conteudo_ml": 980,
+      "embalagem": "garrafa_vidro",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7896010004007",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 1,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000118.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000119",
+      "descricao": "Vinho 120 Cab Sauv NRGB 750 ml",
+      "descricao_curta": "Vinho 120 Cab Sauv 750 ml",
+      "marca": "Vinho",
+      "variante": "120 Cab Sauv",
+      "categoria_id": "vinhos",
+      "conteudo_ml": 750,
+      "embalagem": "garrafa_vidro",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7804330311101",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 1,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000119.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000120",
+      "descricao": "Vinho 120 Carmenere NRGB 750 ml",
+      "descricao_curta": "Vinho 120 Carmenere 750 ml",
+      "marca": "Vinho",
+      "variante": "120 Carmenere",
+      "categoria_id": "vinhos",
+      "conteudo_ml": 750,
+      "embalagem": "garrafa_vidro",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7804330984060",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 1,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000120.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000121",
+      "descricao": "Vinho 120 Chardonnay NRGB 750 ml",
+      "descricao_curta": "Vinho 120 Chardonnay 750 ml",
+      "marca": "Vinho",
+      "variante": "120 Chardonnay",
+      "categoria_id": "vinhos",
+      "conteudo_ml": 750,
+      "embalagem": "garrafa_vidro",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7804330351206",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 1,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000121.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000122",
+      "descricao": "Vinho 3 Medallas Cab Sauv NRGB 750 ml",
+      "descricao_curta": "Vinho 3 Medallas Cab Sauv 750 ml",
+      "marca": "Vinho",
+      "variante": "3 Medallas Cab Sauv",
+      "categoria_id": "vinhos",
+      "conteudo_ml": 750,
+      "embalagem": "garrafa_vidro",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7804330006717",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 1,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000122.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000123",
+      "descricao": "Vinho 3 Medallas Merlot NRGB 750 ml",
+      "descricao_curta": "Vinho 3 Medallas Merlot 750 ml",
+      "marca": "Vinho",
+      "variante": "3 Medallas Merlot",
+      "categoria_id": "vinhos",
+      "conteudo_ml": 750,
+      "embalagem": "garrafa_vidro",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7804330006731",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 1,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000123.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000124",
+      "descricao": "Vinho 3 Medallas Sauv. Blanc NRGB 750 ml",
+      "descricao_curta": "Vinho 3 Medallas Sauv. Blanc 750 ml",
+      "marca": "Vinho",
+      "variante": "3 Medallas Sauv. Blanc",
+      "categoria_id": "vinhos",
+      "conteudo_ml": 750,
+      "embalagem": "garrafa_vidro",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7804330006724",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 1,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000124.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000125",
+      "descricao": "Vodka Smirnoff Red NRGB 600 ml",
+      "descricao_curta": "Vodka Smirnoff Red 600 ml",
+      "marca": "Vodka",
+      "variante": "Smirnoff Red",
+      "categoria_id": "destilados-aperitivos",
+      "conteudo_ml": 600,
+      "embalagem": "garrafa_vidro",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7893218002576",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 1,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000125.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000126",
+      "descricao": "Vodka Smirnoff Red NRGB 998 ml",
+      "descricao_curta": "Vodka Smirnoff Red 998 ml",
+      "marca": "Vodka",
+      "variante": "Smirnoff Red",
+      "categoria_id": "destilados-aperitivos",
+      "conteudo_ml": 998,
+      "embalagem": "garrafa_vidro",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7893218000473",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 1,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000126.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000127",
+      "descricao": "Whiskey JW Black Label NRGB 1000 ml",
+      "descricao_curta": "Whiskey JW Black Label 1000 ml",
+      "marca": "Whiskey",
+      "variante": "JW Black Label",
+      "categoria_id": "destilados-aperitivos",
+      "conteudo_ml": 1000,
+      "embalagem": "garrafa_vidro",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "5000267023601",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 1,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000127.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000128",
+      "descricao": "Whiskey JW Black Label NRGB 750 ml",
+      "descricao_curta": "Whiskey JW Black Label 750 ml",
+      "marca": "Whiskey",
+      "variante": "JW Black Label",
+      "categoria_id": "destilados-aperitivos",
+      "conteudo_ml": 750,
+      "embalagem": "garrafa_vidro",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "5000267024011",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 1,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000128.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000129",
+      "descricao": "Whiskey JW Blonde NRGB 750 ml",
+      "descricao_curta": "Whiskey JW Blonde 750 ml",
+      "marca": "Whiskey",
+      "variante": "JW Blonde",
+      "categoria_id": "destilados-aperitivos",
+      "conteudo_ml": 750,
+      "embalagem": "garrafa_vidro",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "5000267190556",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 1,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000129.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000130",
+      "descricao": "Whiskey JW Gold Label NRGB 750 ml",
+      "descricao_curta": "Whiskey JW Gold Label 750 ml",
+      "marca": "Whiskey",
+      "variante": "JW Gold Label",
+      "categoria_id": "destilados-aperitivos",
+      "conteudo_ml": 750,
+      "embalagem": "garrafa_vidro",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "5000267107776",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 1,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000130.jpeg",
+        "fonte_id": "femsa-colas-2024",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000131",
+      "descricao": "Whiskey JW Red Label NRGB 1000 ml",
+      "descricao_curta": "Whiskey JW Red Label 1000 ml",
+      "marca": "Whiskey",
+      "variante": "JW Red Label",
+      "categoria_id": "destilados-aperitivos",
+      "conteudo_ml": 1000,
+      "embalagem": "garrafa_vidro",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "5000267013602",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 1,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000131.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000132",
+      "descricao": "Whiskey JW Red Label NRGB 750 ml",
+      "descricao_curta": "Whiskey JW Red Label 750 ml",
+      "marca": "Whiskey",
+      "variante": "JW Red Label",
+      "categoria_id": "destilados-aperitivos",
+      "conteudo_ml": 750,
+      "embalagem": "garrafa_vidro",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "5000267014005",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 1,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000132.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000133",
+      "descricao": "Whiskey Old Parr NRGB 1000 ml",
+      "descricao_curta": "Whiskey Old Parr 1000 ml",
+      "marca": "Whiskey",
+      "variante": "Old Parr",
+      "categoria_id": "destilados-aperitivos",
+      "conteudo_ml": 1000,
+      "embalagem": "garrafa_vidro",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "5000281004020",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 1,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000133.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000134",
+      "descricao": "Whiskey White Horse NRGB 1000 ml",
+      "descricao_curta": "Whiskey White Horse 1000 ml",
+      "marca": "Whiskey",
+      "variante": "White Horse",
+      "categoria_id": "destilados-aperitivos",
+      "conteudo_ml": 1000,
+      "embalagem": "garrafa_vidro",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "5000265001335",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 1,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000134.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000135",
+      "descricao": "Campari NRGB 748 ml",
+      "descricao_curta": "Campari 748 ml",
+      "marca": "Campari",
+      "variante": "Não especificada na fonte",
+      "categoria_id": "destilados-aperitivos",
+      "conteudo_ml": 748,
+      "embalagem": "garrafa_vidro",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7896010006308",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 1,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000135.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000136",
+      "descricao": "Campari NRGB 998 ml",
+      "descricao_curta": "Campari 998 ml",
+      "marca": "Campari",
+      "variante": "Não especificada na fonte",
+      "categoria_id": "destilados-aperitivos",
+      "conteudo_ml": 998,
+      "embalagem": "garrafa_vidro",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7896010006315",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 1,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Agrupamento logístico da fonte."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "Portfólio histórico de 2024; revisão de disponibilidade atual pendente."
+        }
+      ],
+      "imagem": {
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000136.jpeg",
+        "fonte_id": "femsa-fotos-sc-2025",
+        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",

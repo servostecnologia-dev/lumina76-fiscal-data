@@ -1,0 +1,1152 @@
+[
+  {
+    "produto_id": "SVP-000001",
+    "arquivo": "imagens/SVP-000001.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 1,
+    "sku_fonte": "56297",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "4cc47e98fc90255bf65f7e69ba2283a2b3be59518c9c9a5e3b94815336f4cb8e"
+  },
+  {
+    "produto_id": "SVP-000002",
+    "arquivo": "imagens/SVP-000002.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 1,
+    "sku_fonte": "56051",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "0b4ea573aac3277e440cb56e8dcd79e3ee2c4c1720c9b51fe7ddb9bc903770b2"
+  },
+  {
+    "produto_id": "SVP-000003",
+    "arquivo": "imagens/SVP-000003.jpeg",
+    "fonte_id": "femsa-colas-2024",
+    "pagina": 1,
+    "sku_fonte": "55404",
+    "largura": 75,
+    "altura": 75,
+    "sha256": "77886b9f60afb3954902cec8734b8d88dc169b233a2dc0594b99795904b78cd1"
+  },
+  {
+    "produto_id": "SVP-000004",
+    "arquivo": "imagens/SVP-000004.jpeg",
+    "fonte_id": "femsa-colas-2024",
+    "pagina": 1,
+    "sku_fonte": "55935",
+    "largura": 75,
+    "altura": 75,
+    "sha256": "70ffb16c36f2292bbae6dcf48d99f0eb5acb6a60752a9363eabcdb91336e3b5c"
+  },
+  {
+    "produto_id": "SVP-000005",
+    "arquivo": "imagens/SVP-000005.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 1,
+    "sku_fonte": "55993",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "a4df9a71520dcd7f4c2bd7c77b242faaaf2137f1d12fd627fcd4e5ed063285ec"
+  },
+  {
+    "produto_id": "SVP-000006",
+    "arquivo": "imagens/SVP-000006.jpeg",
+    "fonte_id": "femsa-colas-2024",
+    "pagina": 1,
+    "sku_fonte": "55280",
+    "largura": 75,
+    "altura": 75,
+    "sha256": "701bbc1597bbbafe3a1b7e64c5b1c270249422aec3fcf441859a875a0e1e45c2"
+  },
+  {
+    "produto_id": "SVP-000007",
+    "arquivo": "imagens/SVP-000007.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 1,
+    "sku_fonte": "56600",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "19d53d3160b55f47df1699323ae7d53129824c60bc9aa1f2926762790e5692df"
+  },
+  {
+    "produto_id": "SVP-000008",
+    "arquivo": "imagens/SVP-000008.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 1,
+    "sku_fonte": "56335",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "832e7426bbe38fed3a9d44ef65776258b1fa47eaade65a39c15657c37c7d6ae6"
+  },
+  {
+    "produto_id": "SVP-000009",
+    "arquivo": "imagens/SVP-000009.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 1,
+    "sku_fonte": "56061",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "d9f1d8b213b104b6493504b6ee3f6578b608e5444e480f9f26921d9e82e45b49"
+  },
+  {
+    "produto_id": "SVP-000010",
+    "arquivo": "imagens/SVP-000010.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 1,
+    "sku_fonte": "55573",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "ae56d6ae79d0d4589170a0bfab55b88768f72ade8670dc4dcaab8c4a869ab361"
+  },
+  {
+    "produto_id": "SVP-000011",
+    "arquivo": "imagens/SVP-000011.jpeg",
+    "fonte_id": "femsa-colas-2024",
+    "pagina": 2,
+    "sku_fonte": "55934",
+    "largura": 75,
+    "altura": 75,
+    "sha256": "f84db38f68c88343b52bd4fa5c71e9c8e3f64de43a34f9aa39356c49cdb06cea"
+  },
+  {
+    "produto_id": "SVP-000012",
+    "arquivo": "imagens/SVP-000012.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 1,
+    "sku_fonte": "55818",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "8507348f98447385a09cec7dafe74f7d408c1aba1f25ab648d90eb8cb63fa3c3"
+  },
+  {
+    "produto_id": "SVP-000013",
+    "arquivo": "imagens/SVP-000013.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 2,
+    "sku_fonte": "56337",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "9e3f49e96f565cafac5e45aa898eec7029c634760173482cbc02fecbc1861c0d"
+  },
+  {
+    "produto_id": "SVP-000014",
+    "arquivo": "imagens/SVP-000014.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 2,
+    "sku_fonte": "56074",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "157e9e89c7e62f62a6935d50d36abd6341335037707a62083a5a97c8f1878d52"
+  },
+  {
+    "produto_id": "SVP-000015",
+    "arquivo": "imagens/SVP-000015.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 2,
+    "sku_fonte": "56190",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "ad1757b71794222c681287d7d1690a5661a48df030abd512538756684a3002f5"
+  },
+  {
+    "produto_id": "SVP-000016",
+    "arquivo": "imagens/SVP-000016.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 2,
+    "sku_fonte": "56339",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "b372e192031925df1c91588b7cbad34f051bd49c649015bea224886a3e8b387c"
+  },
+  {
+    "produto_id": "SVP-000017",
+    "arquivo": "imagens/SVP-000017.jpeg",
+    "fonte_id": "femsa-colas-2024",
+    "pagina": 2,
+    "sku_fonte": "55445",
+    "largura": 75,
+    "altura": 75,
+    "sha256": "bd95ceb12e069ead5317e4e82daf2a15df344d1686e9c531d179641be549fdb6"
+  },
+  {
+    "produto_id": "SVP-000018",
+    "arquivo": "imagens/SVP-000018.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 2,
+    "sku_fonte": "56102",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "7aff43da8e7d1888910197b7ad652bdf13dca422d1f587e299bf57208f2ac9c0"
+  },
+  {
+    "produto_id": "SVP-000019",
+    "arquivo": "imagens/SVP-000019.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 2,
+    "sku_fonte": "55817",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "097cbdfaaadf008f4944fed90c0967afeb037d4bfd596273c4c3e51d2ef78c03"
+  },
+  {
+    "produto_id": "SVP-000020",
+    "arquivo": "imagens/SVP-000020.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 2,
+    "sku_fonte": "56047",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "ea2e1cc9653fa60e05128d11bfe00ce76fd326211fb3ba8a1028b28a43a8f8d1"
+  },
+  {
+    "produto_id": "SVP-000021",
+    "arquivo": "imagens/SVP-000021.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 2,
+    "sku_fonte": "56760",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "e52a041d06b9a026dd4e0abd82d4a0bd28a0fe1bca4577b2677666e3e8aec9fc"
+  },
+  {
+    "produto_id": "SVP-000022",
+    "arquivo": "imagens/SVP-000022.jpeg",
+    "fonte_id": "femsa-colas-2024",
+    "pagina": 3,
+    "sku_fonte": "56341",
+    "largura": 75,
+    "altura": 75,
+    "sha256": "4d6671ce6e64f5c041cc109de4c5a333282c6edfd6c88337f5a33345e908007c"
+  },
+  {
+    "produto_id": "SVP-000023",
+    "arquivo": "imagens/SVP-000023.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 2,
+    "sku_fonte": "55286",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "cfb1973fa2d04dd846b8bc44b754287870abe2fa80da3852d81c8dae9e5619df"
+  },
+  {
+    "produto_id": "SVP-000024",
+    "arquivo": "imagens/SVP-000024.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 2,
+    "sku_fonte": "55819",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "2a84dfb405c66a329c027344bf776e87fc7e3d7533a5853833b16a7cb0a42a11"
+  },
+  {
+    "produto_id": "SVP-000025",
+    "arquivo": "imagens/SVP-000025.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 2,
+    "sku_fonte": "55376",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "ebf9e8dea9b79917ca5eb322010160b5485b900caff171dbd0aaea841c782e5d"
+  },
+  {
+    "produto_id": "SVP-000026",
+    "arquivo": "imagens/SVP-000026.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 2,
+    "sku_fonte": "56312",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "6d8189157db91332171200b4bc229f0b08eb9ad195796189ca290d084e919254"
+  },
+  {
+    "produto_id": "SVP-000027",
+    "arquivo": "imagens/SVP-000027.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 2,
+    "sku_fonte": "56314",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "b741d601143ee756b3c6077f9124f898439565ac1e907f9f0fb6497fa41d6dd6"
+  },
+  {
+    "produto_id": "SVP-000028",
+    "arquivo": "imagens/SVP-000028.jpeg",
+    "fonte_id": "femsa-colas-2024",
+    "pagina": 3,
+    "sku_fonte": "55795",
+    "largura": 75,
+    "altura": 75,
+    "sha256": "b479658fb630142e568ceb7a77e1171384eadecbb54c378f556d58a274ed1df2"
+  },
+  {
+    "produto_id": "SVP-000029",
+    "arquivo": "imagens/SVP-000029.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 2,
+    "sku_fonte": "56513",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "56e05bed21666d9f970a0242fcc5042a2eeb5beb4ba93d8f3b2c1fe1f99b5721"
+  },
+  {
+    "produto_id": "SVP-000030",
+    "arquivo": "imagens/SVP-000030.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 2,
+    "sku_fonte": "55380",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "c120de6ee8846cc5c9f6705c303973ddf80e4b6ad901cffb2666ca42d430ac8a"
+  },
+  {
+    "produto_id": "SVP-000031",
+    "arquivo": "imagens/SVP-000031.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 3,
+    "sku_fonte": "56292",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "bb4632c501d0e68765c2a0fec3793ed9c77b022c55acee8c9ed1b74b8544bb2b"
+  },
+  {
+    "produto_id": "SVP-000032",
+    "arquivo": "imagens/SVP-000032.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 2,
+    "sku_fonte": "56772",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "b7db967f5edc1cf07b733fbd7a4cc45e02b6ef314013cfebadde73f00aeccd44"
+  },
+  {
+    "produto_id": "SVP-000038",
+    "arquivo": "imagens/SVP-000038.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 7,
+    "sku_fonte": "139367",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "7b1f1efd3c8136f2bf58eb7ff8613fecc40e15010ae1a8ea3b5cc47eed675b96"
+  },
+  {
+    "produto_id": "SVP-000039",
+    "arquivo": "imagens/SVP-000039.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 7,
+    "sku_fonte": "139649",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "01e026637b222061d231adbbe520e864dfc6129e2fc60efc96e1f33f094a064a"
+  },
+  {
+    "produto_id": "SVP-000041",
+    "arquivo": "imagens/SVP-000041.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 3,
+    "sku_fonte": "92522",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "c65e6d321d1ae6d783e461fe193610eee7b1a412b64a2a9d5c2ef68cdd1ba5c5"
+  },
+  {
+    "produto_id": "SVP-000042",
+    "arquivo": "imagens/SVP-000042.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 3,
+    "sku_fonte": "92527",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "9aaff5c70de4a2002a131ba29436b453d408f363848978e5e98efc0870bb33ec"
+  },
+  {
+    "produto_id": "SVP-000043",
+    "arquivo": "imagens/SVP-000043.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 3,
+    "sku_fonte": "92520",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "f2f9a8131627947455d2fe15f445142d6d636c23630aa74b603f0f4019e8a60b"
+  },
+  {
+    "produto_id": "SVP-000044",
+    "arquivo": "imagens/SVP-000044.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 3,
+    "sku_fonte": "92521",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "605244a0f170002a1ed1c25a6a318d238b2232a12c3f582fc6eaf08f587bfd48"
+  },
+  {
+    "produto_id": "SVP-000045",
+    "arquivo": "imagens/SVP-000045.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 3,
+    "sku_fonte": "92657",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "eaf0031f3641d1cbcd726e6704aa3706b9aac345d769cf917bee82fd04ce006b"
+  },
+  {
+    "produto_id": "SVP-000046",
+    "arquivo": "imagens/SVP-000046.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 3,
+    "sku_fonte": "92658",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "3eab54d11a36a973196bdf7f651edee688f954451366d090bb5d3a56a85024c9"
+  },
+  {
+    "produto_id": "SVP-000050",
+    "arquivo": "imagens/SVP-000050.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 4,
+    "sku_fonte": "118812",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "b9e7ee57c6f6dc556c8f0e59d94217737512f20aef9993f37617e1d312e1ecf6"
+  },
+  {
+    "produto_id": "SVP-000064",
+    "arquivo": "imagens/SVP-000064.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 3,
+    "sku_fonte": "56010",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "65c5d6b3be064ebb3d6929f73cec8fd6a9600fd19d929899bf93450753a6c614"
+  },
+  {
+    "produto_id": "SVP-000065",
+    "arquivo": "imagens/SVP-000065.jpeg",
+    "fonte_id": "femsa-colas-2024",
+    "pagina": 3,
+    "sku_fonte": "55707",
+    "largura": 75,
+    "altura": 75,
+    "sha256": "e436cadc7c96fb823294ebc0fec6787d8df75f6a3aef69ecbec622003ccf384d"
+  },
+  {
+    "produto_id": "SVP-000066",
+    "arquivo": "imagens/SVP-000066.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 3,
+    "sku_fonte": "55789",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "477ad8cda7e6aad1a2e133f5924e3570306c0eb084afcf9afd966746cbb13091"
+  },
+  {
+    "produto_id": "SVP-000067",
+    "arquivo": "imagens/SVP-000067.jpeg",
+    "fonte_id": "femsa-colas-2024",
+    "pagina": 4,
+    "sku_fonte": "56267",
+    "largura": 75,
+    "altura": 75,
+    "sha256": "ce561171a31d19cbfd271b2d13e13fc7035687b127fa0277508acafe94c66f2a"
+  },
+  {
+    "produto_id": "SVP-000068",
+    "arquivo": "imagens/SVP-000068.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 2,
+    "sku_fonte": "55247",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "550985d015311f84d88af8805d9c32f025d4f8f1cbd927dda72ce2e59a1dfa46"
+  },
+  {
+    "produto_id": "SVP-000069",
+    "arquivo": "imagens/SVP-000069.jpeg",
+    "fonte_id": "femsa-colas-2024",
+    "pagina": 9,
+    "sku_fonte": "139421",
+    "largura": 75,
+    "altura": 75,
+    "sha256": "09ced035980165f3f96f758b8499be3f9c7783d5dd8ad5db2f4952ce6d3cea36"
+  },
+  {
+    "produto_id": "SVP-000070",
+    "arquivo": "imagens/SVP-000070.jpeg",
+    "fonte_id": "femsa-colas-2024",
+    "pagina": 9,
+    "sku_fonte": "139065",
+    "largura": 75,
+    "altura": 75,
+    "sha256": "5fdf2733fd3b45390c6bba02e81b49c3f1f980798c8017fed18a047c05fd8721"
+  },
+  {
+    "produto_id": "SVP-000071",
+    "arquivo": "imagens/SVP-000071.jpeg",
+    "fonte_id": "femsa-colas-2024",
+    "pagina": 9,
+    "sku_fonte": "139141",
+    "largura": 75,
+    "altura": 75,
+    "sha256": "d8f06676dd9d2e94d72e3b7522b19ff177454963b384acd863a2d453ccd554c9"
+  },
+  {
+    "produto_id": "SVP-000072",
+    "arquivo": "imagens/SVP-000072.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 7,
+    "sku_fonte": "139615",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "4d2d1cad715ba9be716f0f12aca802f675ab546a6854ef1dd3ac46ce71fbe5c3"
+  },
+  {
+    "produto_id": "SVP-000073",
+    "arquivo": "imagens/SVP-000073.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 7,
+    "sku_fonte": "139486",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "ba8a32d001e017f5652c9d50e966b4d80a1f6baee90d6bc6d84118ddcb1f2d64"
+  },
+  {
+    "produto_id": "SVP-000074",
+    "arquivo": "imagens/SVP-000074.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 7,
+    "sku_fonte": "139614",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "14626147ea70dfc6e9fda1f322d2d940f14a67e9fe1291e3f12195b74e0d9a89"
+  },
+  {
+    "produto_id": "SVP-000075",
+    "arquivo": "imagens/SVP-000075.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 7,
+    "sku_fonte": "139485",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "a53edd7e4cb00a16c082876902a70315179df71b41bba3b64b8551624075ab25"
+  },
+  {
+    "produto_id": "SVP-000076",
+    "arquivo": "imagens/SVP-000076.jpeg",
+    "fonte_id": "femsa-colas-2024",
+    "pagina": 9,
+    "sku_fonte": "139328",
+    "largura": 75,
+    "altura": 75,
+    "sha256": "47651b57764d014eb5323e452ad7b963b4cc4d86af2b3f1bb71c2c78a956664f"
+  },
+  {
+    "produto_id": "SVP-000077",
+    "arquivo": "imagens/SVP-000077.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 7,
+    "sku_fonte": "139613",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "dc71af50eb2cd095d2f7184154e677cbda1c8e40db54c991c47b833977ae10b4"
+  },
+  {
+    "produto_id": "SVP-000078",
+    "arquivo": "imagens/SVP-000078.jpeg",
+    "fonte_id": "femsa-colas-2024",
+    "pagina": 9,
+    "sku_fonte": "139474",
+    "largura": 75,
+    "altura": 75,
+    "sha256": "a20f3a1d7d12b4c998cd1732973a6394d06e8a6d1230e50e0fb4e4a167537cd0"
+  },
+  {
+    "produto_id": "SVP-000079",
+    "arquivo": "imagens/SVP-000079.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 7,
+    "sku_fonte": "139471",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "d99c11498473a2ea8b7443db7aa1769dd7c552c4dd50d4db27788ab0458653ed"
+  },
+  {
+    "produto_id": "SVP-000080",
+    "arquivo": "imagens/SVP-000080.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 7,
+    "sku_fonte": "139468",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "00da49800290c041888bf37de714282e611c79e16b3f535effe3ca40b62e6ae3"
+  },
+  {
+    "produto_id": "SVP-000081",
+    "arquivo": "imagens/SVP-000081.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 7,
+    "sku_fonte": "139640",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "7737cfc40e872fc353c0c8a9e13bbe847986ac298a5d3b10aec4a5e77a9538a9"
+  },
+  {
+    "produto_id": "SVP-000082",
+    "arquivo": "imagens/SVP-000082.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 7,
+    "sku_fonte": "139682",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "219d9c2d880e5c46bd47f3efcc5725f7f27d34f027cdc22e085e02e8c5710e84"
+  },
+  {
+    "produto_id": "SVP-000083",
+    "arquivo": "imagens/SVP-000083.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 7,
+    "sku_fonte": "139648",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "a6c2f68fd5ff7f52da32c13c4febe286da0116bad1d55c044897c9dca2dd33cd"
+  },
+  {
+    "produto_id": "SVP-000084",
+    "arquivo": "imagens/SVP-000084.jpeg",
+    "fonte_id": "femsa-colas-2024",
+    "pagina": 9,
+    "sku_fonte": "139700",
+    "largura": 75,
+    "altura": 75,
+    "sha256": "1503f543a0996ec826cd987b7681a6057ea4ed5bfc84f0ed01c4996d0ea631ad"
+  },
+  {
+    "produto_id": "SVP-000085",
+    "arquivo": "imagens/SVP-000085.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 7,
+    "sku_fonte": "139676",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "a54793721e782b50636311e7a0e6d7181866320b445a4ffce32e9be9db9c5b55"
+  },
+  {
+    "produto_id": "SVP-000086",
+    "arquivo": "imagens/SVP-000086.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 7,
+    "sku_fonte": "139612",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "ea1ef898177290877475ebe96ab99ed2e0936b3c327af5534b30e481f453a1cf"
+  },
+  {
+    "produto_id": "SVP-000087",
+    "arquivo": "imagens/SVP-000087.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 8,
+    "sku_fonte": "139601",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "e24271f2cd97452de6519afc8bc21f0ebbc0ed88628089ec75a9e086a488442b"
+  },
+  {
+    "produto_id": "SVP-000088",
+    "arquivo": "imagens/SVP-000088.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 7,
+    "sku_fonte": "139680",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "c61158280b9c3d07cf87647dbb509a0b13d9c1445c2afea33ce929b0db23c803"
+  },
+  {
+    "produto_id": "SVP-000089",
+    "arquivo": "imagens/SVP-000089.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 7,
+    "sku_fonte": "139606",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "83f904749aa718a68b3a41e57423c9f11890fc9140e06e71385ea6e6b8f38bc0"
+  },
+  {
+    "produto_id": "SVP-000090",
+    "arquivo": "imagens/SVP-000090.jpeg",
+    "fonte_id": "femsa-colas-2024",
+    "pagina": 10,
+    "sku_fonte": "139605",
+    "largura": 75,
+    "altura": 75,
+    "sha256": "e1e7a8489bd3ac379b922fd26dadc1b9fad0dd03f4c0f8a38a439d37327d58d5"
+  },
+  {
+    "produto_id": "SVP-000091",
+    "arquivo": "imagens/SVP-000091.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 7,
+    "sku_fonte": "139603",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "5f04de5d40584fd2d152968fa748ecb60d5afa7776c611034399ef17a30ee7ba"
+  },
+  {
+    "produto_id": "SVP-000092",
+    "arquivo": "imagens/SVP-000092.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 7,
+    "sku_fonte": "139289",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "e3caef5c21d9d4f4d9065fde2993effa8c5b47288ad5e7b1f222f69a9bd895b0"
+  },
+  {
+    "produto_id": "SVP-000093",
+    "arquivo": "imagens/SVP-000093.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 7,
+    "sku_fonte": "139068",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "952d23a3d4e2f83f1a207a9f3785dce57e2596183f39d8e2d75e2ce4fa898084"
+  },
+  {
+    "produto_id": "SVP-000094",
+    "arquivo": "imagens/SVP-000094.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 7,
+    "sku_fonte": "139064",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "059e59246dcf38708dfe5acd586e91d6122e31032a658dc9d22af50c60adca3e"
+  },
+  {
+    "produto_id": "SVP-000095",
+    "arquivo": "imagens/SVP-000095.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 7,
+    "sku_fonte": "139173",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "328dd88c82a47ecc6eef310de24b4b82a8fa2fab711676715eeabd9884f0d616"
+  },
+  {
+    "produto_id": "SVP-000096",
+    "arquivo": "imagens/SVP-000096.jpeg",
+    "fonte_id": "femsa-colas-2024",
+    "pagina": 10,
+    "sku_fonte": "139650",
+    "largura": 75,
+    "altura": 75,
+    "sha256": "72c0cecb160c7092a74d52f467819096da7f247ec11cf34c964972d9378d124b"
+  },
+  {
+    "produto_id": "SVP-000097",
+    "arquivo": "imagens/SVP-000097.jpeg",
+    "fonte_id": "femsa-colas-2024",
+    "pagina": 10,
+    "sku_fonte": "139617",
+    "largura": 75,
+    "altura": 75,
+    "sha256": "d5295038f60e93295e0c606c692cf24051ee865e83cd7bff5377b5b6210c021e"
+  },
+  {
+    "produto_id": "SVP-000098",
+    "arquivo": "imagens/SVP-000098.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 7,
+    "sku_fonte": "139752",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "a93945a6b1894ed2c8039e4ee2f75b698eb9cf8799e3f5a13107c8606bb730a1"
+  },
+  {
+    "produto_id": "SVP-000099",
+    "arquivo": "imagens/SVP-000099.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 7,
+    "sku_fonte": "139740",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "0cf801f60f2f99ee57667de00ebbf2804a934e409f9a2712a4276345803db0e8"
+  },
+  {
+    "produto_id": "SVP-000100",
+    "arquivo": "imagens/SVP-000100.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 8,
+    "sku_fonte": "139570",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "f755f28d9855c7d1f2eb615efb8dfca2cf1b59435a4c0469f430a3dc7ed9e130"
+  },
+  {
+    "produto_id": "SVP-000101",
+    "arquivo": "imagens/SVP-000101.jpeg",
+    "fonte_id": "femsa-colas-2024",
+    "pagina": 10,
+    "sku_fonte": "139443",
+    "largura": 75,
+    "altura": 75,
+    "sha256": "754f65e5389ffe6b767df91060f75d580bef5ce79a843b9d17a3c04268f7ec29"
+  },
+  {
+    "produto_id": "SVP-000102",
+    "arquivo": "imagens/SVP-000102.jpeg",
+    "fonte_id": "femsa-colas-2024",
+    "pagina": 10,
+    "sku_fonte": "139678",
+    "largura": 75,
+    "altura": 75,
+    "sha256": "a7f988466360720bcd0b4808217746b043b702843c9d021c2547e8686ac6483f"
+  },
+  {
+    "produto_id": "SVP-000103",
+    "arquivo": "imagens/SVP-000103.jpeg",
+    "fonte_id": "femsa-colas-2024",
+    "pagina": 10,
+    "sku_fonte": "139551",
+    "largura": 75,
+    "altura": 75,
+    "sha256": "57020d3d103f35bfee9298c4d03d81f46eb4a9b2ee42aff6c9c8210f4eea744b"
+  },
+  {
+    "produto_id": "SVP-000104",
+    "arquivo": "imagens/SVP-000104.jpeg",
+    "fonte_id": "femsa-colas-2024",
+    "pagina": 10,
+    "sku_fonte": "139553",
+    "largura": 75,
+    "altura": 75,
+    "sha256": "e7c974a5d91e35576a61b406930d035721da8322f6143ca0b9e3c60a7beb83c6"
+  },
+  {
+    "produto_id": "SVP-000105",
+    "arquivo": "imagens/SVP-000105.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 8,
+    "sku_fonte": "139560",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "7ca43e9cbbbcd22c7485b92d822c03d51568fe28f68caa02043dff505d4ee1cf"
+  },
+  {
+    "produto_id": "SVP-000106",
+    "arquivo": "imagens/SVP-000106.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 9,
+    "sku_fonte": "139675",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "183c9b067df263059b4c762990081b2afe7ec2957511372963ea40d8bedf0d52"
+  },
+  {
+    "produto_id": "SVP-000107",
+    "arquivo": "imagens/SVP-000107.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 8,
+    "sku_fonte": "143006",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "9755d1510d5e610844f800b79fe838ac5ae0913e282172d37bb2ebf6af227e80"
+  },
+  {
+    "produto_id": "SVP-000108",
+    "arquivo": "imagens/SVP-000108.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 9,
+    "sku_fonte": "139544",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "603934ea9ba4341eba54fe9f7f001fbb2a33ecd0acd7a3826dbc895851c0f174"
+  },
+  {
+    "produto_id": "SVP-000109",
+    "arquivo": "imagens/SVP-000109.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 8,
+    "sku_fonte": "139440",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "4b786181f9bd943b57d8986abbd6522e5715c7a4c2305bf0b6607f4ab3558ee8"
+  },
+  {
+    "produto_id": "SVP-000110",
+    "arquivo": "imagens/SVP-000110.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 8,
+    "sku_fonte": "139439",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "1c1177cd19137970f5bcffcf2083e71106f94609b077918368eb6c283a6f31c7"
+  },
+  {
+    "produto_id": "SVP-000111",
+    "arquivo": "imagens/SVP-000111.jpeg",
+    "fonte_id": "femsa-colas-2024",
+    "pagina": 11,
+    "sku_fonte": "139633",
+    "largura": 75,
+    "altura": 75,
+    "sha256": "6de8e0938fc03cc947579822b5d711faf2c35d473fb38f640d7c37a0f802cc58"
+  },
+  {
+    "produto_id": "SVP-000112",
+    "arquivo": "imagens/SVP-000112.jpeg",
+    "fonte_id": "femsa-colas-2024",
+    "pagina": 11,
+    "sku_fonte": "139632",
+    "largura": 75,
+    "altura": 75,
+    "sha256": "629a0576afb11cdc4fc381e07b8b73ab066bc33a5b3fa78436500c2f204f7be2"
+  },
+  {
+    "produto_id": "SVP-000113",
+    "arquivo": "imagens/SVP-000113.jpeg",
+    "fonte_id": "femsa-colas-2024",
+    "pagina": 11,
+    "sku_fonte": "139444",
+    "largura": 75,
+    "altura": 75,
+    "sha256": "2394780ccba8cd3f7fde9d2342e48b92a7092350158df8aa0e499a7fc7e6b7e9"
+  },
+  {
+    "produto_id": "SVP-000114",
+    "arquivo": "imagens/SVP-000114.jpeg",
+    "fonte_id": "femsa-colas-2024",
+    "pagina": 11,
+    "sku_fonte": "139569",
+    "largura": 75,
+    "altura": 75,
+    "sha256": "7c001c6ab9c929e1419170bb3c774a5cc53310cc332ac3bdd0525b40c1ea9f30"
+  },
+  {
+    "produto_id": "SVP-000115",
+    "arquivo": "imagens/SVP-000115.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 8,
+    "sku_fonte": "143009",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "960422536f625a2b168f56b69c167b2c4d80d3b7049c55018da44b8b952ddac5"
+  },
+  {
+    "produto_id": "SVP-000116",
+    "arquivo": "imagens/SVP-000116.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 8,
+    "sku_fonte": "139558",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "3cc38d831dca8b69a424af17db40061b91a0cc91778dd946fb4415e74f3f9053"
+  },
+  {
+    "produto_id": "SVP-000117",
+    "arquivo": "imagens/SVP-000117.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 8,
+    "sku_fonte": "139562",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "1ebaac1ddb428734485f99715a2d0256c458fbba991f5d70ed3cbc557415e56f"
+  },
+  {
+    "produto_id": "SVP-000118",
+    "arquivo": "imagens/SVP-000118.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 8,
+    "sku_fonte": "139561",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "1ebaac1ddb428734485f99715a2d0256c458fbba991f5d70ed3cbc557415e56f"
+  },
+  {
+    "produto_id": "SVP-000119",
+    "arquivo": "imagens/SVP-000119.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 8,
+    "sku_fonte": "139664",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "c93400935f6b9d06981e2d68c479cae376966147a7d5e083a394434e091aef52"
+  },
+  {
+    "produto_id": "SVP-000120",
+    "arquivo": "imagens/SVP-000120.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 8,
+    "sku_fonte": "139665",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "419795636902c1574acd1bb842333b7072882bfe96aff51587cd62f3ccba0089"
+  },
+  {
+    "produto_id": "SVP-000121",
+    "arquivo": "imagens/SVP-000121.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 8,
+    "sku_fonte": "139668",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "48e15f701ab57c653823a912c2a6bc143b172d9e1c0aef79629a26594a93605f"
+  },
+  {
+    "produto_id": "SVP-000122",
+    "arquivo": "imagens/SVP-000122.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 8,
+    "sku_fonte": "139663",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "a5ccca3d28a9d05c1eeaf7972cbdd874be08ad0441ce5eecc54fa2df2e0dabe8"
+  },
+  {
+    "produto_id": "SVP-000123",
+    "arquivo": "imagens/SVP-000123.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 8,
+    "sku_fonte": "139666",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "f06170867de8d078bd49a60c9e450131598b5d3a487333bdcfc1adae0063b2c7"
+  },
+  {
+    "produto_id": "SVP-000124",
+    "arquivo": "imagens/SVP-000124.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 8,
+    "sku_fonte": "139667",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "a358ec77365b4dbda162325a05139cb4351839f9980ea7cf8502f38f8373e0cb"
+  },
+  {
+    "produto_id": "SVP-000125",
+    "arquivo": "imagens/SVP-000125.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 8,
+    "sku_fonte": "139438",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "0c352d0293c1adea874cec08f2b01fdc4971fe3638c9004ed272097b53663305"
+  },
+  {
+    "produto_id": "SVP-000126",
+    "arquivo": "imagens/SVP-000126.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 8,
+    "sku_fonte": "139437",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "1809c64d0e5e8844e19cdb45cd849fafcc57d4eebb975bba8fa8d63264bd6f9e"
+  },
+  {
+    "produto_id": "SVP-000127",
+    "arquivo": "imagens/SVP-000127.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 8,
+    "sku_fonte": "139435",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "0e0c3415ae929cb0a0ee6ce95982190ed219f28c601622db155f583525ce00d8"
+  },
+  {
+    "produto_id": "SVP-000128",
+    "arquivo": "imagens/SVP-000128.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 8,
+    "sku_fonte": "139442",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "05025ff51a778db7018537fbedce87cc7a42fc516baa43c638764bdbd88c4d79"
+  },
+  {
+    "produto_id": "SVP-000129",
+    "arquivo": "imagens/SVP-000129.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 8,
+    "sku_fonte": "139673",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "ecf806205dedb347c1c83f3cdfcb177f5c503cf2772e331c7b9df34a85664f3b"
+  },
+  {
+    "produto_id": "SVP-000130",
+    "arquivo": "imagens/SVP-000130.jpeg",
+    "fonte_id": "femsa-colas-2024",
+    "pagina": 11,
+    "sku_fonte": "139636",
+    "largura": 75,
+    "altura": 75,
+    "sha256": "cb79c5495a908d07caee8d5809a2cef2e110079da13255ca8fa163cb183f0c7f"
+  },
+  {
+    "produto_id": "SVP-000131",
+    "arquivo": "imagens/SVP-000131.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 8,
+    "sku_fonte": "139434",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "cc12955b0edb452f39274eee4930eee073155c916abf1e67227aefaf9b4187c9"
+  },
+  {
+    "produto_id": "SVP-000132",
+    "arquivo": "imagens/SVP-000132.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 8,
+    "sku_fonte": "139441",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "3fffc14dd5c31b80635bd7277d10bd52bc4dad7308a997e3d900379bf99b1927"
+  },
+  {
+    "produto_id": "SVP-000133",
+    "arquivo": "imagens/SVP-000133.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 8,
+    "sku_fonte": "139637",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "54b53e53de11100a34d0a69289d0f6425b6af47f77640d89f185bbd22dd9f177"
+  },
+  {
+    "produto_id": "SVP-000134",
+    "arquivo": "imagens/SVP-000134.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 8,
+    "sku_fonte": "139433",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "e57245dcaed462ffe7cecbcb703d6722e1e33cef6d9e4565a7d750df7e93de6d"
+  },
+  {
+    "produto_id": "SVP-000135",
+    "arquivo": "imagens/SVP-000135.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 8,
+    "sku_fonte": "139338",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "38a4088d23d35e661e660bc642e51ce7cd3bf68d261f715d0badac4422b03be4"
+  },
+  {
+    "produto_id": "SVP-000136",
+    "arquivo": "imagens/SVP-000136.jpeg",
+    "fonte_id": "femsa-fotos-sc-2025",
+    "pagina": 8,
+    "sku_fonte": "139699",
+    "largura": 400,
+    "altura": 400,
+    "sha256": "79429340b6f182ba5df817bdfab8bd1fc3e176eb57eace118c82c6d086c2c54c"
+  },
+  {
+    "produto_id": "SVP-000037",
+    "arquivo": "imagens/SVP-000037.png",
+    "fonte_id": "mt-heineken350",
+    "pagina": null,
+    "sku_fonte": null,
+    "largura": 1000,
+    "altura": 1000,
+    "sha256": "0806f1a1116e1433ddff2966bffdafa434acdf06d580bba86a81076b48d9b570"
+  }
+]
