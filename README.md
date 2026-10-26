@@ -1,10 +1,28 @@
-# Lumina76 Fiscal Data
+# Dados de referência Servos — Fiscal e Produtos
 
-Base pública, versionada e rastreável de dados fiscais normalizados usados pelo Lumina76.
+Base pública, versionada e rastreável de dados fiscais usados pelo Lumina76 e de pré-cadastros comerciais compartilháveis entre os sistemas da Servos Tecnologia.
 
 ## Objetivo
 
 Manter catálogos fiscais com origem, vigência e histórico preservado, prontos para consumo pelo Lumina76 sem transformar fontes de terceiros em autoridade fiscal.
+
+Manter também um **catálogo mestre de produtos para acelerar implantações**, com descrições padronizadas, apresentações, categorias, códigos de barras conferidos e controle de origem de imagens. O catálogo comercial é independente da autoridade fiscal e não contém dados de clientes.
+
+O nome e a URL do repositório, os caminhos NCM/CEST e os workflows fiscais permanecem os mesmos.
+
+## Pré-cadastros de produtos
+
+- [Documentação e contrato v1](produtos/README.md).
+- [Catálogo mestre](produtos/catalogo.json) e [categorias](produtos/categorias.json).
+- [Fontes consultadas](produtos/fontes.json).
+- [Planilha CSV de revisão](produtos/exports/revisao.csv): todos os registros, incluindo pendências.
+- [CSV de aprovados](produtos/exports/aprovados.csv): somente registros comercialmente conferidos.
+- [Pacote piloto de bebidas](produtos/pacotes/bebidas-piloto.json).
+
+Lote inicial `2026.10.26.1`: **50 apresentações coletadas, 3 aprovadas por conferência documental cruzada e 47 pendentes**. Nenhuma foto está liberada nesta versão. Os CSVs são genéricos; adaptadores de importação de sistemas ainda precisam ser implementados e homologados.
+
+Validação e geração, sem acesso à rede: `python scripts/build_product_catalog.py`.
+Conferência sem gravar: `python scripts/build_product_catalog.py --check`.
 
 ## Princípios
 
@@ -14,6 +32,9 @@ Manter catálogos fiscais com origem, vigência e histórico preservado, prontos
 - O Lumina76 deve continuar operando com o último catálogo local válido mesmo sem internet.
 - Cada registro deve ser rastreável quanto à origem, UF e vigência.
 - Catálogo nacional CEST e aplicabilidade estadual/ST são camadas diferentes.
+- Identidade comercial, configuração fiscal e personalizações do cliente são camadas diferentes.
+- GTIN não é inventado; dígito válido não comprova associação ao produto.
+- Este repositório é público: publicar somente material compartilhável e imagens com uso esclarecido.
 
 ## Estrutura
 

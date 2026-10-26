@@ -1,5 +1,16 @@
 # Changelog — Lumina76 Fiscal Data
 
+## 2026-10-26 — Catálogo mestre de produtos Servos, piloto v1
+
+- Ampliado o objetivo documental para dados comerciais reutilizáveis entre sistemas Servos, mantendo os caminhos e os catálogos fiscais.
+- Criada a área independente `produtos/`, com categorias hierárquicas, fontes e 50 apresentações de bebidas.
+- 3 registros aprovados por conferência documental cruzada (Coca-Cola Original lata 350 ml, Coca-Cola Sem Açúcar lata 350 ml e Heineken Original lata 350 ml); 47 pendentes. Aprovação comercial não representa homologação fiscal ou inspeção física.
+- Códigos observados em portfólios logísticos preservados separadamente dos GTINs aprovados; nenhuma dedução automática de GTIN de unidade/pack.
+- Imagens permanecem pendentes de coleta e liberação de uso; nenhum arquivo de imagem de terceiros foi redistribuído.
+- Criados pacote piloto, CSV de revisão, CSVs de aprovados e manifesto com hashes.
+- Criados gerador/validador offline, testes de integridade e workflow de conferência com permissão somente de leitura.
+- Exportações genéricas ainda não são adaptadores homologados para Lumina76, Asaph Gourmet ou Comanda10.
+
 ## 2026-08-22 — NCM oficial integrado
 
 - Criado `scripts/build_ncm_catalog.py` usando diretamente o endpoint oficial Receita Federal / Sistema Classif / Portal Único Siscomex.

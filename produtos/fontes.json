@@ -1,0 +1,95 @@
+{
+  "schema_version": "1.0.0",
+  "fontes": [
+    {
+      "id": "femsa-colas-2024",
+      "titulo": "Portfólio FEMSA MG de 01/10/2024 (cópia em distribuidor)",
+      "url": "https://www.distribuidoranovageracao.com.br/assets/uploads/produtos_categorias/1/6731f3350f769rcz87r.pdf",
+      "tipo": "portfolio_historico",
+      "uf": "MG",
+      "publicado_em": "2024-10-01",
+      "metodo_consulta": "pagina_indexada",
+      "consultado_em": "2026-10-26"
+    },
+    {
+      "id": "femsa-fanta-ms",
+      "titulo": "Portfólio FEMSA Mato Grosso do Sul",
+      "url": "https://portfoliococacolafemsa.com.br/mato-grosso-do-sul/portfolios/01kb9rzn734bamv1c7f4v5352q",
+      "tipo": "portfolio_distribuidor",
+      "uf": "MS",
+      "publicado_em": null,
+      "metodo_consulta": "pagina_indexada",
+      "consultado_em": "2026-10-26"
+    },
+    {
+      "id": "femsa-schweppes-pr",
+      "titulo": "Schweppes — FEMSA Paraná",
+      "url": "https://portfoliococacolafemsa.com.br/parana/marca/schweppes",
+      "tipo": "portfolio_distribuidor",
+      "uf": "PR",
+      "publicado_em": null,
+      "metodo_consulta": "pagina_indexada",
+      "consultado_em": "2026-10-26"
+    },
+    {
+      "id": "femsa-cervejas-ms",
+      "titulo": "Portfólio FEMSA Mato Grosso do Sul",
+      "url": "https://portfoliococacolafemsa.com.br/mato-grosso-do-sul/portfolios/01kyvfjfbbcz5k5e8h6bw59dhj",
+      "tipo": "portfolio_distribuidor",
+      "uf": "MS",
+      "publicado_em": null,
+      "metodo_consulta": "pagina_indexada",
+      "consultado_em": "2026-10-26"
+    },
+    {
+      "id": "femsa-crystal-rs",
+      "titulo": "Portfólio FEMSA RS Interior",
+      "url": "https://portfoliococacolafemsa.com.br/rio-grande-do-sul-interior/portfolios/01kh35kaba9yakapbz0b7d3qvd",
+      "tipo": "portfolio_distribuidor",
+      "uf": "RS",
+      "publicado_em": null,
+      "metodo_consulta": "pagina_indexada",
+      "consultado_em": "2026-10-26"
+    },
+    {
+      "id": "femsa-delvalle-pr",
+      "titulo": "Del Valle — FEMSA Paraná",
+      "url": "https://portfoliococacolafemsa.com.br/parana/marca/del-valle",
+      "tipo": "portfolio_distribuidor",
+      "uf": "PR",
+      "publicado_em": null,
+      "metodo_consulta": "pagina_indexada",
+      "consultado_em": "2026-10-26"
+    },
+    {
+      "id": "bahiafarma-coca350",
+      "titulo": "Coca-Cola lata 350 ml — Bahia Farma",
+      "url": "https://www.bahiafarma.com.br/produto/refrigerante-coca-cola-lata-350ml",
+      "tipo": "varejista",
+      "uf": "MG",
+      "publicado_em": null,
+      "metodo_consulta": "pagina_aberta",
+      "consultado_em": "2026-10-26"
+    },
+    {
+      "id": "bompreco-cocazero350",
+      "titulo": "Coca-Cola Zero lata 350 ml — Bom Preço",
+      "url": "https://bomprecodrogaria.com.br/index.php?product_id=4321&route=product/product",
+      "tipo": "varejista",
+      "uf": "AM",
+      "publicado_em": null,
+      "metodo_consulta": "pagina_aberta",
+      "consultado_em": "2026-10-26"
+    },
+    {
+      "id": "mt-heineken350",
+      "titulo": "Heineken lata 350 ml — MT Distribuidora",
+      "url": "https://www.mtdistribuidoraltda.com.br/cerveja/lata/cerveja-heineken-lata-350ml",
+      "tipo": "distribuidor",
+      "uf": "RS",
+      "publicado_em": null,
+      "metodo_consulta": "pagina_aberta",
+      "consultado_em": "2026-10-26"
+    }
+  ]
+}

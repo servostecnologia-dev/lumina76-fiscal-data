@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0.0",
+  "categorias": [
+    {
+      "id": "bebidas",
+      "nome": "Bebidas",
+      "pai_id": null
+    },
+    {
+      "id": "refrigerantes",
+      "nome": "Refrigerantes",
+      "pai_id": "bebidas"
+    },
+    {
+      "id": "cervejas",
+      "nome": "Cervejas",
+      "pai_id": "bebidas"
+    },
+    {
+      "id": "aguas",
+      "nome": "Águas",
+      "pai_id": "bebidas"
+    },
+    {
+      "id": "tonicas-misturadores",
+      "nome": "Tônicas e misturadores",
+      "pai_id": "bebidas"
+    },
+    {
+      "id": "bebidas-fruta",
+      "nome": "Bebidas de fruta",
+      "pai_id": "bebidas"
+    },
+    {
+      "id": "vinhos",
+      "nome": "Vinhos",
+      "pai_id": "bebidas"
+    },
+    {
+      "id": "energeticos",
+      "nome": "Energéticos",
+      "pai_id": "bebidas"
+    }
+  ]
+}

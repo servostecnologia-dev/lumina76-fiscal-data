@@ -1,0 +1,2754 @@
+{
+  "schema_version": "1.0.0",
+  "catalog_version": "2026.10.26.1",
+  "produtos": [
+    {
+      "id": "SVP-000001",
+      "descricao": "Coca-Cola Original Lata 220 ml",
+      "descricao_curta": "Coca-Cola Original Lata 220 ml",
+      "marca": "Coca-Cola",
+      "variante": "Original",
+      "categoria_id": "refrigerantes",
+      "conteudo_ml": 220,
+      "embalagem": "lata",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7894900010398",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 6,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Quantidade do agrupamento na fonte; não define GTIN do pack nem conversão de estoque homologada."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "EAN observado em portfólio logístico; confirmar aplicação à unidade."
+        }
+      ],
+      "imagem": {
+        "status": "pendente",
+        "url": null,
+        "fonte_id": null,
+        "condicao_uso": null
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000002",
+      "descricao": "Coca-Cola Original Lata 310 ml",
+      "descricao_curta": "Coca-Cola Original Lata 310 ml",
+      "marca": "Coca-Cola",
+      "variante": "Original",
+      "categoria_id": "refrigerantes",
+      "conteudo_ml": 310,
+      "embalagem": "lata",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7894900011159",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 6,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Quantidade do agrupamento na fonte; não define GTIN do pack nem conversão de estoque homologada."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "EAN observado em portfólio logístico; confirmar aplicação à unidade."
+        }
+      ],
+      "imagem": {
+        "status": "pendente",
+        "url": null,
+        "fonte_id": null,
+        "condicao_uso": null
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000003",
+      "descricao": "Coca-Cola Original Lata 350 ml",
+      "descricao_curta": "Coca-Cola Original Lata 350 ml",
+      "marca": "Coca-Cola",
+      "variante": "Original",
+      "categoria_id": "refrigerantes",
+      "conteudo_ml": 350,
+      "embalagem": "lata",
+      "unidade_venda": "UN",
+      "gtins": [
+        "7894900010015"
+      ],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7894900010015",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 12,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Quantidade do agrupamento na fonte; não define GTIN do pack nem conversão de estoque homologada."
+      },
+      "aliases": [],
+      "status": "aprovado",
+      "revisao": {
+        "em": "2026-10-26",
+        "responsavel": "Codex",
+        "metodo": "conferencia_documental_cruzada",
+        "escopo": "identidade_comercial_e_gtin; sem homologacao fiscal ou fotografia"
+      },
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "EAN observado em portfólio logístico; confirmar aplicação à unidade."
+        },
+        {
+          "fonte_id": "bahiafarma-coca350",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtins"
+          ],
+          "nota": "Página de unidade de consumo confirma apresentação e código; conferência documental cruzada."
+        }
+      ],
+      "imagem": {
+        "status": "pendente",
+        "url": null,
+        "fonte_id": null,
+        "condicao_uso": null
+      },
+      "pendencias": [
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000004",
+      "descricao": "Coca-Cola Original PET 600 ml",
+      "descricao_curta": "Coca-Cola Original PET 600 ml",
+      "marca": "Coca-Cola",
+      "variante": "Original",
+      "categoria_id": "refrigerantes",
+      "conteudo_ml": 600,
+      "embalagem": "garrafa_pet",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7894900011609",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 6,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Quantidade do agrupamento na fonte; não define GTIN do pack nem conversão de estoque homologada."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "EAN observado em portfólio logístico; confirmar aplicação à unidade."
+        }
+      ],
+      "imagem": {
+        "status": "pendente",
+        "url": null,
+        "fonte_id": null,
+        "condicao_uso": null
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000005",
+      "descricao": "Coca-Cola Original PET 1000 ml",
+      "descricao_curta": "Coca-Cola Original PET 1000 ml",
+      "marca": "Coca-Cola",
+      "variante": "Original",
+      "categoria_id": "refrigerantes",
+      "conteudo_ml": 1000,
+      "embalagem": "garrafa_pet",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7894900011715",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 6,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Quantidade do agrupamento na fonte; não define GTIN do pack nem conversão de estoque homologada."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "EAN observado em portfólio logístico; confirmar aplicação à unidade."
+        }
+      ],
+      "imagem": {
+        "status": "pendente",
+        "url": null,
+        "fonte_id": null,
+        "condicao_uso": null
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000006",
+      "descricao": "Coca-Cola Original PET 1500 ml",
+      "descricao_curta": "Coca-Cola Original PET 1500 ml",
+      "marca": "Coca-Cola",
+      "variante": "Original",
+      "categoria_id": "refrigerantes",
+      "conteudo_ml": 1500,
+      "embalagem": "garrafa_pet",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7894900011753",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 6,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Quantidade do agrupamento na fonte; não define GTIN do pack nem conversão de estoque homologada."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "EAN observado em portfólio logístico; confirmar aplicação à unidade."
+        }
+      ],
+      "imagem": {
+        "status": "pendente",
+        "url": null,
+        "fonte_id": null,
+        "condicao_uso": null
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000007",
+      "descricao": "Coca-Cola Original PET 2000 ml",
+      "descricao_curta": "Coca-Cola Original PET 2000 ml",
+      "marca": "Coca-Cola",
+      "variante": "Original",
+      "categoria_id": "refrigerantes",
+      "conteudo_ml": 2000,
+      "embalagem": "garrafa_pet",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7894900027013",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 8,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Quantidade do agrupamento na fonte; não define GTIN do pack nem conversão de estoque homologada."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "EAN observado em portfólio logístico; confirmar aplicação à unidade."
+        }
+      ],
+      "imagem": {
+        "status": "pendente",
+        "url": null,
+        "fonte_id": null,
+        "condicao_uso": null
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000008",
+      "descricao": "Coca-Cola Sem Açúcar Lata 220 ml",
+      "descricao_curta": "Coca-Cola Sem Açúcar Lata 220 ml",
+      "marca": "Coca-Cola",
+      "variante": "Sem Açúcar",
+      "categoria_id": "refrigerantes",
+      "conteudo_ml": 220,
+      "embalagem": "lata",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7894900700398",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 6,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Quantidade do agrupamento na fonte; não define GTIN do pack nem conversão de estoque homologada."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "EAN observado em portfólio logístico; confirmar aplicação à unidade."
+        }
+      ],
+      "imagem": {
+        "status": "pendente",
+        "url": null,
+        "fonte_id": null,
+        "condicao_uso": null
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000009",
+      "descricao": "Coca-Cola Sem Açúcar Lata 310 ml",
+      "descricao_curta": "Coca-Cola Sem Açúcar Lata 310 ml",
+      "marca": "Coca-Cola",
+      "variante": "Sem Açúcar",
+      "categoria_id": "refrigerantes",
+      "conteudo_ml": 310,
+      "embalagem": "lata",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7894900701159",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 6,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Quantidade do agrupamento na fonte; não define GTIN do pack nem conversão de estoque homologada."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "EAN observado em portfólio logístico; confirmar aplicação à unidade."
+        }
+      ],
+      "imagem": {
+        "status": "pendente",
+        "url": null,
+        "fonte_id": null,
+        "condicao_uso": null
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000010",
+      "descricao": "Coca-Cola Sem Açúcar Lata 350 ml",
+      "descricao_curta": "Coca-Cola Sem Açúcar Lata 350 ml",
+      "marca": "Coca-Cola",
+      "variante": "Sem Açúcar",
+      "categoria_id": "refrigerantes",
+      "conteudo_ml": 350,
+      "embalagem": "lata",
+      "unidade_venda": "UN",
+      "gtins": [
+        "7894900700015"
+      ],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7894900700015",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 12,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Quantidade do agrupamento na fonte; não define GTIN do pack nem conversão de estoque homologada."
+      },
+      "aliases": [],
+      "status": "aprovado",
+      "revisao": {
+        "em": "2026-10-26",
+        "responsavel": "Codex",
+        "metodo": "conferencia_documental_cruzada",
+        "escopo": "identidade_comercial_e_gtin; sem homologacao fiscal ou fotografia"
+      },
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "EAN observado em portfólio logístico; confirmar aplicação à unidade."
+        },
+        {
+          "fonte_id": "bompreco-cocazero350",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtins"
+          ],
+          "nota": "Página de unidade de consumo confirma apresentação e código; conferência documental cruzada."
+        }
+      ],
+      "imagem": {
+        "status": "pendente",
+        "url": null,
+        "fonte_id": null,
+        "condicao_uso": null
+      },
+      "pendencias": [
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000011",
+      "descricao": "Coca-Cola Sem Açúcar PET 600 ml",
+      "descricao_curta": "Coca-Cola Sem Açúcar PET 600 ml",
+      "marca": "Coca-Cola",
+      "variante": "Sem Açúcar",
+      "categoria_id": "refrigerantes",
+      "conteudo_ml": 600,
+      "embalagem": "garrafa_pet",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7894900701609",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 6,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Quantidade do agrupamento na fonte; não define GTIN do pack nem conversão de estoque homologada."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "EAN observado em portfólio logístico; confirmar aplicação à unidade."
+        }
+      ],
+      "imagem": {
+        "status": "pendente",
+        "url": null,
+        "fonte_id": null,
+        "condicao_uso": null
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000012",
+      "descricao": "Coca-Cola Sem Açúcar PET 2000 ml",
+      "descricao_curta": "Coca-Cola Sem Açúcar PET 2000 ml",
+      "marca": "Coca-Cola",
+      "variante": "Sem Açúcar",
+      "categoria_id": "refrigerantes",
+      "conteudo_ml": 2000,
+      "embalagem": "garrafa_pet",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7894900701517",
+          "fonte_id": "femsa-colas-2024",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 8,
+        "fonte_id": "femsa-colas-2024",
+        "nota": "Quantidade do agrupamento na fonte; não define GTIN do pack nem conversão de estoque homologada."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-colas-2024",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "EAN observado em portfólio logístico; confirmar aplicação à unidade."
+        }
+      ],
+      "imagem": {
+        "status": "pendente",
+        "url": null,
+        "fonte_id": null,
+        "condicao_uso": null
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000013",
+      "descricao": "Fanta Guaraná Lata 220 ml",
+      "descricao_curta": "Fanta Guaraná Lata 220 ml",
+      "marca": "Fanta",
+      "variante": "Guaraná",
+      "categoria_id": "refrigerantes",
+      "conteudo_ml": 220,
+      "embalagem": "lata",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7894900093025",
+          "fonte_id": "femsa-fanta-ms",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 6,
+        "fonte_id": "femsa-fanta-ms",
+        "nota": "Quantidade do agrupamento na fonte; não define GTIN do pack nem conversão de estoque homologada."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-fanta-ms",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "EAN observado em portfólio logístico; confirmar aplicação à unidade."
+        }
+      ],
+      "imagem": {
+        "status": "pendente",
+        "url": null,
+        "fonte_id": null,
+        "condicao_uso": null
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000014",
+      "descricao": "Fanta Guaraná Lata 350 ml",
+      "descricao_curta": "Fanta Guaraná Lata 350 ml",
+      "marca": "Fanta",
+      "variante": "Guaraná",
+      "categoria_id": "refrigerantes",
+      "conteudo_ml": 350,
+      "embalagem": "lata",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7894900093001",
+          "fonte_id": "femsa-fanta-ms",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 6,
+        "fonte_id": "femsa-fanta-ms",
+        "nota": "Quantidade do agrupamento na fonte; não define GTIN do pack nem conversão de estoque homologada."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-fanta-ms",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "EAN observado em portfólio logístico; confirmar aplicação à unidade."
+        }
+      ],
+      "imagem": {
+        "status": "pendente",
+        "url": null,
+        "fonte_id": null,
+        "condicao_uso": null
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000015",
+      "descricao": "Fanta Guaraná Zero Lata 350 ml",
+      "descricao_curta": "Fanta Guaraná Zero Lata 350 ml",
+      "marca": "Fanta",
+      "variante": "Guaraná Zero",
+      "categoria_id": "refrigerantes",
+      "conteudo_ml": 350,
+      "embalagem": "lata",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7894900094008",
+          "fonte_id": "femsa-fanta-ms",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 6,
+        "fonte_id": "femsa-fanta-ms",
+        "nota": "Quantidade do agrupamento na fonte; não define GTIN do pack nem conversão de estoque homologada."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-fanta-ms",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "EAN observado em portfólio logístico; confirmar aplicação à unidade."
+        }
+      ],
+      "imagem": {
+        "status": "pendente",
+        "url": null,
+        "fonte_id": null,
+        "condicao_uso": null
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000016",
+      "descricao": "Fanta Laranja Lata 220 ml",
+      "descricao_curta": "Fanta Laranja Lata 220 ml",
+      "marca": "Fanta",
+      "variante": "Laranja",
+      "categoria_id": "refrigerantes",
+      "conteudo_ml": 220,
+      "embalagem": "lata",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7894900030396",
+          "fonte_id": "femsa-fanta-ms",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 6,
+        "fonte_id": "femsa-fanta-ms",
+        "nota": "Quantidade do agrupamento na fonte; não define GTIN do pack nem conversão de estoque homologada."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-fanta-ms",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "EAN observado em portfólio logístico; confirmar aplicação à unidade."
+        }
+      ],
+      "imagem": {
+        "status": "pendente",
+        "url": null,
+        "fonte_id": null,
+        "condicao_uso": null
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000017",
+      "descricao": "Fanta Laranja Lata 350 ml",
+      "descricao_curta": "Fanta Laranja Lata 350 ml",
+      "marca": "Fanta",
+      "variante": "Laranja",
+      "categoria_id": "refrigerantes",
+      "conteudo_ml": 350,
+      "embalagem": "lata",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7894900030013",
+          "fonte_id": "femsa-fanta-ms",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 12,
+        "fonte_id": "femsa-fanta-ms",
+        "nota": "Quantidade do agrupamento na fonte; não define GTIN do pack nem conversão de estoque homologada."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-fanta-ms",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "EAN observado em portfólio logístico; confirmar aplicação à unidade."
+        }
+      ],
+      "imagem": {
+        "status": "pendente",
+        "url": null,
+        "fonte_id": null,
+        "condicao_uso": null
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000018",
+      "descricao": "Fanta Laranja PET 600 ml",
+      "descricao_curta": "Fanta Laranja PET 600 ml",
+      "marca": "Fanta",
+      "variante": "Laranja",
+      "categoria_id": "refrigerantes",
+      "conteudo_ml": 600,
+      "embalagem": "garrafa_pet",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7894900031607",
+          "fonte_id": "femsa-fanta-ms",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 12,
+        "fonte_id": "femsa-fanta-ms",
+        "nota": "Quantidade do agrupamento na fonte; não define GTIN do pack nem conversão de estoque homologada."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-fanta-ms",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "EAN observado em portfólio logístico; confirmar aplicação à unidade."
+        }
+      ],
+      "imagem": {
+        "status": "pendente",
+        "url": null,
+        "fonte_id": null,
+        "condicao_uso": null
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000019",
+      "descricao": "Fanta Laranja PET 2000 ml",
+      "descricao_curta": "Fanta Laranja PET 2000 ml",
+      "marca": "Fanta",
+      "variante": "Laranja",
+      "categoria_id": "refrigerantes",
+      "conteudo_ml": 2000,
+      "embalagem": "garrafa_pet",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7894900031515",
+          "fonte_id": "femsa-fanta-ms",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 6,
+        "fonte_id": "femsa-fanta-ms",
+        "nota": "Quantidade do agrupamento na fonte; não define GTIN do pack nem conversão de estoque homologada."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-fanta-ms",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "EAN observado em portfólio logístico; confirmar aplicação à unidade."
+        }
+      ],
+      "imagem": {
+        "status": "pendente",
+        "url": null,
+        "fonte_id": null,
+        "condicao_uso": null
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000020",
+      "descricao": "Fanta Laranja Zero Lata 350 ml",
+      "descricao_curta": "Fanta Laranja Zero Lata 350 ml",
+      "marca": "Fanta",
+      "variante": "Laranja Zero",
+      "categoria_id": "refrigerantes",
+      "conteudo_ml": 350,
+      "embalagem": "lata",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7894900150018",
+          "fonte_id": "femsa-fanta-ms",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 6,
+        "fonte_id": "femsa-fanta-ms",
+        "nota": "Quantidade do agrupamento na fonte; não define GTIN do pack nem conversão de estoque homologada."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-fanta-ms",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "EAN observado em portfólio logístico; confirmar aplicação à unidade."
+        }
+      ],
+      "imagem": {
+        "status": "pendente",
+        "url": null,
+        "fonte_id": null,
+        "condicao_uso": null
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000021",
+      "descricao": "Fanta Maracujá Lata 350 ml",
+      "descricao_curta": "Fanta Maracujá Lata 350 ml",
+      "marca": "Fanta",
+      "variante": "Maracujá",
+      "categoria_id": "refrigerantes",
+      "conteudo_ml": 350,
+      "embalagem": "lata",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7894900091007",
+          "fonte_id": "femsa-fanta-ms",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 6,
+        "fonte_id": "femsa-fanta-ms",
+        "nota": "Quantidade do agrupamento na fonte; não define GTIN do pack nem conversão de estoque homologada."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-fanta-ms",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "EAN observado em portfólio logístico; confirmar aplicação à unidade."
+        }
+      ],
+      "imagem": {
+        "status": "pendente",
+        "url": null,
+        "fonte_id": null,
+        "condicao_uso": null
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000022",
+      "descricao": "Fanta Uva Lata 220 ml",
+      "descricao_curta": "Fanta Uva Lata 220 ml",
+      "marca": "Fanta",
+      "variante": "Uva",
+      "categoria_id": "refrigerantes",
+      "conteudo_ml": 220,
+      "embalagem": "lata",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7894900050394",
+          "fonte_id": "femsa-fanta-ms",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 6,
+        "fonte_id": "femsa-fanta-ms",
+        "nota": "Quantidade do agrupamento na fonte; não define GTIN do pack nem conversão de estoque homologada."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-fanta-ms",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "EAN observado em portfólio logístico; confirmar aplicação à unidade."
+        }
+      ],
+      "imagem": {
+        "status": "pendente",
+        "url": null,
+        "fonte_id": null,
+        "condicao_uso": null
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000023",
+      "descricao": "Fanta Uva Lata 350 ml",
+      "descricao_curta": "Fanta Uva Lata 350 ml",
+      "marca": "Fanta",
+      "variante": "Uva",
+      "categoria_id": "refrigerantes",
+      "conteudo_ml": 350,
+      "embalagem": "lata",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7894900050011",
+          "fonte_id": "femsa-fanta-ms",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 6,
+        "fonte_id": "femsa-fanta-ms",
+        "nota": "Quantidade do agrupamento na fonte; não define GTIN do pack nem conversão de estoque homologada."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-fanta-ms",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "EAN observado em portfólio logístico; confirmar aplicação à unidade."
+        }
+      ],
+      "imagem": {
+        "status": "pendente",
+        "url": null,
+        "fonte_id": null,
+        "condicao_uso": null
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000024",
+      "descricao": "Fanta Uva PET 2000 ml",
+      "descricao_curta": "Fanta Uva PET 2000 ml",
+      "marca": "Fanta",
+      "variante": "Uva",
+      "categoria_id": "refrigerantes",
+      "conteudo_ml": 2000,
+      "embalagem": "garrafa_pet",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7894900051513",
+          "fonte_id": "femsa-fanta-ms",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 6,
+        "fonte_id": "femsa-fanta-ms",
+        "nota": "Quantidade do agrupamento na fonte; não define GTIN do pack nem conversão de estoque homologada."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-fanta-ms",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "EAN observado em portfólio logístico; confirmar aplicação à unidade."
+        }
+      ],
+      "imagem": {
+        "status": "pendente",
+        "url": null,
+        "fonte_id": null,
+        "condicao_uso": null
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000025",
+      "descricao": "Schweppes Citrus Lata 350 ml",
+      "descricao_curta": "Schweppes Citrus Lata 350 ml",
+      "marca": "Schweppes",
+      "variante": "Citrus",
+      "categoria_id": "tonicas-misturadores",
+      "conteudo_ml": 350,
+      "embalagem": "lata",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7894900320015",
+          "fonte_id": "femsa-schweppes-pr",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 6,
+        "fonte_id": "femsa-schweppes-pr",
+        "nota": "Quantidade do agrupamento na fonte; não define GTIN do pack nem conversão de estoque homologada."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-schweppes-pr",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "EAN observado em portfólio logístico; confirmar aplicação à unidade."
+        }
+      ],
+      "imagem": {
+        "status": "pendente",
+        "url": null,
+        "fonte_id": null,
+        "condicao_uso": null
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000026",
+      "descricao": "Schweppes Citrus Original Lata 350 ml",
+      "descricao_curta": "Schweppes Citrus Original Lata 350 ml",
+      "marca": "Schweppes",
+      "variante": "Citrus Original",
+      "categoria_id": "tonicas-misturadores",
+      "conteudo_ml": 350,
+      "embalagem": "lata",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7894900180503",
+          "fonte_id": "femsa-schweppes-pr",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 6,
+        "fonte_id": "femsa-schweppes-pr",
+        "nota": "Quantidade do agrupamento na fonte; não define GTIN do pack nem conversão de estoque homologada."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-schweppes-pr",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "EAN observado em portfólio logístico; confirmar aplicação à unidade."
+        }
+      ],
+      "imagem": {
+        "status": "pendente",
+        "url": null,
+        "fonte_id": null,
+        "condicao_uso": null
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000027",
+      "descricao": "Schweppes Citrus Original PET 1500 ml",
+      "descricao_curta": "Schweppes Citrus Original PET 1500 ml",
+      "marca": "Schweppes",
+      "variante": "Citrus Original",
+      "categoria_id": "tonicas-misturadores",
+      "conteudo_ml": 1500,
+      "embalagem": "garrafa_pet",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7894900180541",
+          "fonte_id": "femsa-schweppes-pr",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 6,
+        "fonte_id": "femsa-schweppes-pr",
+        "nota": "Quantidade do agrupamento na fonte; não define GTIN do pack nem conversão de estoque homologada."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-schweppes-pr",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "EAN observado em portfólio logístico; confirmar aplicação à unidade."
+        }
+      ],
+      "imagem": {
+        "status": "pendente",
+        "url": null,
+        "fonte_id": null,
+        "condicao_uso": null
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000028",
+      "descricao": "Schweppes Club Soda Lata 350 ml",
+      "descricao_curta": "Schweppes Club Soda Lata 350 ml",
+      "marca": "Schweppes",
+      "variante": "Club Soda",
+      "categoria_id": "tonicas-misturadores",
+      "conteudo_ml": 350,
+      "embalagem": "lata",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7894900310016",
+          "fonte_id": "femsa-schweppes-pr",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 6,
+        "fonte_id": "femsa-schweppes-pr",
+        "nota": "Quantidade do agrupamento na fonte; não define GTIN do pack nem conversão de estoque homologada."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-schweppes-pr",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "EAN observado em portfólio logístico; confirmar aplicação à unidade."
+        }
+      ],
+      "imagem": {
+        "status": "pendente",
+        "url": null,
+        "fonte_id": null,
+        "condicao_uso": null
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000029",
+      "descricao": "Schweppes Ginger Ale Lata 220 ml",
+      "descricao_curta": "Schweppes Ginger Ale Lata 220 ml",
+      "marca": "Schweppes",
+      "variante": "Ginger Ale",
+      "categoria_id": "tonicas-misturadores",
+      "conteudo_ml": 220,
+      "embalagem": "lata",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7894900180022",
+          "fonte_id": "femsa-schweppes-pr",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 6,
+        "fonte_id": "femsa-schweppes-pr",
+        "nota": "Quantidade do agrupamento na fonte; não define GTIN do pack nem conversão de estoque homologada."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-schweppes-pr",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "EAN observado em portfólio logístico; confirmar aplicação à unidade."
+        }
+      ],
+      "imagem": {
+        "status": "pendente",
+        "url": null,
+        "fonte_id": null,
+        "condicao_uso": null
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000030",
+      "descricao": "Schweppes Tônica Lata 350 ml",
+      "descricao_curta": "Schweppes Tônica Lata 350 ml",
+      "marca": "Schweppes",
+      "variante": "Tônica",
+      "categoria_id": "tonicas-misturadores",
+      "conteudo_ml": 350,
+      "embalagem": "lata",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7894900300017",
+          "fonte_id": "femsa-schweppes-pr",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 6,
+        "fonte_id": "femsa-schweppes-pr",
+        "nota": "Quantidade do agrupamento na fonte; não define GTIN do pack nem conversão de estoque homologada."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-schweppes-pr",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "EAN observado em portfólio logístico; confirmar aplicação à unidade."
+        }
+      ],
+      "imagem": {
+        "status": "pendente",
+        "url": null,
+        "fonte_id": null,
+        "condicao_uso": null
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000031",
+      "descricao": "Schweppes Tônica Sem Açúcar Lata 350 ml",
+      "descricao_curta": "Schweppes Tônica Sem Açúcar Lata 350 ml",
+      "marca": "Schweppes",
+      "variante": "Tônica Sem Açúcar",
+      "categoria_id": "tonicas-misturadores",
+      "conteudo_ml": 350,
+      "embalagem": "lata",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7894900360011",
+          "fonte_id": "femsa-schweppes-pr",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 6,
+        "fonte_id": "femsa-schweppes-pr",
+        "nota": "Quantidade do agrupamento na fonte; não define GTIN do pack nem conversão de estoque homologada."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-schweppes-pr",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "EAN observado em portfólio logístico; confirmar aplicação à unidade."
+        }
+      ],
+      "imagem": {
+        "status": "pendente",
+        "url": null,
+        "fonte_id": null,
+        "condicao_uso": null
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000032",
+      "descricao": "Schweppes Tônica Rosé Lata 220 ml",
+      "descricao_curta": "Schweppes Tônica Rosé Lata 220 ml",
+      "marca": "Schweppes",
+      "variante": "Tônica Rosé",
+      "categoria_id": "tonicas-misturadores",
+      "conteudo_ml": 220,
+      "embalagem": "lata",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7894900184600",
+          "fonte_id": "femsa-schweppes-pr",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 6,
+        "fonte_id": "femsa-schweppes-pr",
+        "nota": "Quantidade do agrupamento na fonte; não define GTIN do pack nem conversão de estoque homologada."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-schweppes-pr",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "EAN observado em portfólio logístico; confirmar aplicação à unidade."
+        }
+      ],
+      "imagem": {
+        "status": "pendente",
+        "url": null,
+        "fonte_id": null,
+        "condicao_uso": null
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000033",
+      "descricao": "Heineken 0.0 Long Neck 330 ml",
+      "descricao_curta": "Heineken 0.0 Long Neck 330 ml",
+      "marca": "Heineken",
+      "variante": "0.0",
+      "categoria_id": "cervejas",
+      "conteudo_ml": 330,
+      "embalagem": "long_neck",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7896045506040",
+          "fonte_id": "femsa-cervejas-ms",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 6,
+        "fonte_id": "femsa-cervejas-ms",
+        "nota": "Quantidade do agrupamento na fonte; não define GTIN do pack nem conversão de estoque homologada."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-cervejas-ms",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "EAN observado em portfólio logístico; confirmar aplicação à unidade."
+        }
+      ],
+      "imagem": {
+        "status": "pendente",
+        "url": null,
+        "fonte_id": null,
+        "condicao_uso": null
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000034",
+      "descricao": "Heineken 0.0 Lata 350 ml",
+      "descricao_curta": "Heineken 0.0 Lata 350 ml",
+      "marca": "Heineken",
+      "variante": "0.0",
+      "categoria_id": "cervejas",
+      "conteudo_ml": 350,
+      "embalagem": "lata",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7896045506910",
+          "fonte_id": "femsa-cervejas-ms",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 12,
+        "fonte_id": "femsa-cervejas-ms",
+        "nota": "Quantidade do agrupamento na fonte; não define GTIN do pack nem conversão de estoque homologada."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-cervejas-ms",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "EAN observado em portfólio logístico; confirmar aplicação à unidade."
+        }
+      ],
+      "imagem": {
+        "status": "pendente",
+        "url": null,
+        "fonte_id": null,
+        "condicao_uso": null
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000035",
+      "descricao": "Heineken Original Long Neck 330 ml",
+      "descricao_curta": "Heineken Original Long Neck 330 ml",
+      "marca": "Heineken",
+      "variante": "Original",
+      "categoria_id": "cervejas",
+      "conteudo_ml": 330,
+      "embalagem": "long_neck",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "78936683",
+          "fonte_id": "femsa-cervejas-ms",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 6,
+        "fonte_id": "femsa-cervejas-ms",
+        "nota": "Quantidade do agrupamento na fonte; não define GTIN do pack nem conversão de estoque homologada."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-cervejas-ms",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "EAN observado em portfólio logístico; confirmar aplicação à unidade."
+        }
+      ],
+      "imagem": {
+        "status": "pendente",
+        "url": null,
+        "fonte_id": null,
+        "condicao_uso": null
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000036",
+      "descricao": "Heineken Original Lata 269 ml",
+      "descricao_curta": "Heineken Original Lata 269 ml",
+      "marca": "Heineken",
+      "variante": "Original",
+      "categoria_id": "cervejas",
+      "conteudo_ml": 269,
+      "embalagem": "lata",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7896045506590",
+          "fonte_id": "femsa-cervejas-ms",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 8,
+        "fonte_id": "femsa-cervejas-ms",
+        "nota": "Quantidade do agrupamento na fonte; não define GTIN do pack nem conversão de estoque homologada."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-cervejas-ms",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "EAN observado em portfólio logístico; confirmar aplicação à unidade."
+        }
+      ],
+      "imagem": {
+        "status": "pendente",
+        "url": null,
+        "fonte_id": null,
+        "condicao_uso": null
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000037",
+      "descricao": "Heineken Original Lata 350 ml",
+      "descricao_curta": "Heineken Original Lata 350 ml",
+      "marca": "Heineken",
+      "variante": "Original",
+      "categoria_id": "cervejas",
+      "conteudo_ml": 350,
+      "embalagem": "lata",
+      "unidade_venda": "UN",
+      "gtins": [
+        "7896045506873"
+      ],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7896045506873",
+          "fonte_id": "femsa-cervejas-ms",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 12,
+        "fonte_id": "femsa-cervejas-ms",
+        "nota": "Quantidade do agrupamento na fonte; não define GTIN do pack nem conversão de estoque homologada."
+      },
+      "aliases": [],
+      "status": "aprovado",
+      "revisao": {
+        "em": "2026-10-26",
+        "responsavel": "Codex",
+        "metodo": "conferencia_documental_cruzada",
+        "escopo": "identidade_comercial_e_gtin; sem homologacao fiscal ou fotografia"
+      },
+      "evidencias": [
+        {
+          "fonte_id": "femsa-cervejas-ms",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "EAN observado em portfólio logístico; confirmar aplicação à unidade."
+        },
+        {
+          "fonte_id": "mt-heineken350",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtins"
+          ],
+          "nota": "Página de unidade de consumo confirma apresentação e código; conferência documental cruzada."
+        }
+      ],
+      "imagem": {
+        "status": "pendente",
+        "url": null,
+        "fonte_id": null,
+        "condicao_uso": null
+      },
+      "pendencias": [
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000038",
+      "descricao": "Sol Premium Long Neck 330 ml",
+      "descricao_curta": "Sol Premium Long Neck 330 ml",
+      "marca": "Sol",
+      "variante": "Premium",
+      "categoria_id": "cervejas",
+      "conteudo_ml": 330,
+      "embalagem": "long_neck",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "78934115",
+          "fonte_id": "femsa-cervejas-ms",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 6,
+        "fonte_id": "femsa-cervejas-ms",
+        "nota": "Quantidade do agrupamento na fonte; não define GTIN do pack nem conversão de estoque homologada."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-cervejas-ms",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "EAN observado em portfólio logístico; confirmar aplicação à unidade."
+        }
+      ],
+      "imagem": {
+        "status": "pendente",
+        "url": null,
+        "fonte_id": null,
+        "condicao_uso": null
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000039",
+      "descricao": "Therezópolis Gold Long Neck 355 ml",
+      "descricao_curta": "Therezópolis Gold Long Neck 355 ml",
+      "marca": "Therezópolis",
+      "variante": "Gold",
+      "categoria_id": "cervejas",
+      "conteudo_ml": 355,
+      "embalagem": "long_neck",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7896371000175",
+          "fonte_id": "femsa-cervejas-ms",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 6,
+        "fonte_id": "femsa-cervejas-ms",
+        "nota": "Quantidade do agrupamento na fonte; não define GTIN do pack nem conversão de estoque homologada."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-cervejas-ms",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "EAN observado em portfólio logístico; confirmar aplicação à unidade."
+        }
+      ],
+      "imagem": {
+        "status": "pendente",
+        "url": null,
+        "fonte_id": null,
+        "condicao_uso": null
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000040",
+      "descricao": "Therezópolis Gold Lata 350 ml",
+      "descricao_curta": "Therezópolis Gold Lata 350 ml",
+      "marca": "Therezópolis",
+      "variante": "Gold",
+      "categoria_id": "cervejas",
+      "conteudo_ml": 350,
+      "embalagem": "lata",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7896371000007",
+          "fonte_id": "femsa-cervejas-ms",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 12,
+        "fonte_id": "femsa-cervejas-ms",
+        "nota": "Quantidade do agrupamento na fonte; não define GTIN do pack nem conversão de estoque homologada."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-cervejas-ms",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "EAN observado em portfólio logístico; confirmar aplicação à unidade."
+        }
+      ],
+      "imagem": {
+        "status": "pendente",
+        "url": null,
+        "fonte_id": null,
+        "condicao_uso": null
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000041",
+      "descricao": "Crystal Com Gás PET 500 ml",
+      "descricao_curta": "Crystal Com Gás PET 500 ml",
+      "marca": "Crystal",
+      "variante": "Com Gás",
+      "categoria_id": "aguas",
+      "conteudo_ml": 500,
+      "embalagem": "garrafa_pet",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7894900531008",
+          "fonte_id": "femsa-crystal-rs",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 12,
+        "fonte_id": "femsa-crystal-rs",
+        "nota": "Quantidade do agrupamento na fonte; não define GTIN do pack nem conversão de estoque homologada."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-crystal-rs",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "EAN observado em portfólio logístico; confirmar aplicação à unidade."
+        }
+      ],
+      "imagem": {
+        "status": "pendente",
+        "url": null,
+        "fonte_id": null,
+        "condicao_uso": null
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000042",
+      "descricao": "Crystal Sem Gás PET 500 ml",
+      "descricao_curta": "Crystal Sem Gás PET 500 ml",
+      "marca": "Crystal",
+      "variante": "Sem Gás",
+      "categoria_id": "aguas",
+      "conteudo_ml": 500,
+      "embalagem": "garrafa_pet",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7894900530001",
+          "fonte_id": "femsa-crystal-rs",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 12,
+        "fonte_id": "femsa-crystal-rs",
+        "nota": "Quantidade do agrupamento na fonte; não define GTIN do pack nem conversão de estoque homologada."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-crystal-rs",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "EAN observado em portfólio logístico; confirmar aplicação à unidade."
+        }
+      ],
+      "imagem": {
+        "status": "pendente",
+        "url": null,
+        "fonte_id": null,
+        "condicao_uso": null
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000043",
+      "descricao": "Crystal Com Gás PET 1500 ml",
+      "descricao_curta": "Crystal Com Gás PET 1500 ml",
+      "marca": "Crystal",
+      "variante": "Com Gás",
+      "categoria_id": "aguas",
+      "conteudo_ml": 1500,
+      "embalagem": "garrafa_pet",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7894900531015",
+          "fonte_id": "femsa-crystal-rs",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 6,
+        "fonte_id": "femsa-crystal-rs",
+        "nota": "Quantidade do agrupamento na fonte; não define GTIN do pack nem conversão de estoque homologada."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-crystal-rs",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "EAN observado em portfólio logístico; confirmar aplicação à unidade."
+        }
+      ],
+      "imagem": {
+        "status": "pendente",
+        "url": null,
+        "fonte_id": null,
+        "condicao_uso": null
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000044",
+      "descricao": "Crystal Sem Gás PET 1500 ml",
+      "descricao_curta": "Crystal Sem Gás PET 1500 ml",
+      "marca": "Crystal",
+      "variante": "Sem Gás",
+      "categoria_id": "aguas",
+      "conteudo_ml": 1500,
+      "embalagem": "garrafa_pet",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7894900530032",
+          "fonte_id": "femsa-crystal-rs",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 6,
+        "fonte_id": "femsa-crystal-rs",
+        "nota": "Quantidade do agrupamento na fonte; não define GTIN do pack nem conversão de estoque homologada."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-crystal-rs",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "EAN observado em portfólio logístico; confirmar aplicação à unidade."
+        }
+      ],
+      "imagem": {
+        "status": "pendente",
+        "url": null,
+        "fonte_id": null,
+        "condicao_uso": null
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000045",
+      "descricao": "Crystal VIP Com Gás PET 350 ml",
+      "descricao_curta": "Crystal VIP Com Gás PET 350 ml",
+      "marca": "Crystal",
+      "variante": "VIP Com Gás",
+      "categoria_id": "aguas",
+      "conteudo_ml": 350,
+      "embalagem": "garrafa_pet",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7894900531206",
+          "fonte_id": "femsa-crystal-rs",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 12,
+        "fonte_id": "femsa-crystal-rs",
+        "nota": "Quantidade do agrupamento na fonte; não define GTIN do pack nem conversão de estoque homologada."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-crystal-rs",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "EAN observado em portfólio logístico; confirmar aplicação à unidade."
+        }
+      ],
+      "imagem": {
+        "status": "pendente",
+        "url": null,
+        "fonte_id": null,
+        "condicao_uso": null
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000046",
+      "descricao": "Crystal VIP Sem Gás PET 350 ml",
+      "descricao_curta": "Crystal VIP Sem Gás PET 350 ml",
+      "marca": "Crystal",
+      "variante": "VIP Sem Gás",
+      "categoria_id": "aguas",
+      "conteudo_ml": 350,
+      "embalagem": "garrafa_pet",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7894900530209",
+          "fonte_id": "femsa-crystal-rs",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 12,
+        "fonte_id": "femsa-crystal-rs",
+        "nota": "Quantidade do agrupamento na fonte; não define GTIN do pack nem conversão de estoque homologada."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-crystal-rs",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "EAN observado em portfólio logístico; confirmar aplicação à unidade."
+        }
+      ],
+      "imagem": {
+        "status": "pendente",
+        "url": null,
+        "fonte_id": null,
+        "condicao_uso": null
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000047",
+      "descricao": "Del Valle Limonada Tropical Lata 290 ml",
+      "descricao_curta": "Del Valle Limonada Tropical Lata 290 ml",
+      "marca": "Del Valle",
+      "variante": "Limonada Tropical",
+      "categoria_id": "bebidas-fruta",
+      "conteudo_ml": 290,
+      "embalagem": "lata",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7894900664027",
+          "fonte_id": "femsa-delvalle-pr",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 6,
+        "fonte_id": "femsa-delvalle-pr",
+        "nota": "Quantidade do agrupamento na fonte; não define GTIN do pack nem conversão de estoque homologada."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-delvalle-pr",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "EAN observado em portfólio logístico; confirmar aplicação à unidade."
+        }
+      ],
+      "imagem": {
+        "status": "pendente",
+        "url": null,
+        "fonte_id": null,
+        "condicao_uso": null
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000048",
+      "descricao": "Del Valle Limonada Pink Lata 290 ml",
+      "descricao_curta": "Del Valle Limonada Pink Lata 290 ml",
+      "marca": "Del Valle",
+      "variante": "Limonada Pink",
+      "categoria_id": "bebidas-fruta",
+      "conteudo_ml": 290,
+      "embalagem": "lata",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7894900664010",
+          "fonte_id": "femsa-delvalle-pr",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 6,
+        "fonte_id": "femsa-delvalle-pr",
+        "nota": "Quantidade do agrupamento na fonte; não define GTIN do pack nem conversão de estoque homologada."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-delvalle-pr",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "EAN observado em portfólio logístico; confirmar aplicação à unidade."
+        }
+      ],
+      "imagem": {
+        "status": "pendente",
+        "url": null,
+        "fonte_id": null,
+        "condicao_uso": null
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000049",
+      "descricao": "Del Valle Limonada Classic Lata 290 ml",
+      "descricao_curta": "Del Valle Limonada Classic Lata 290 ml",
+      "marca": "Del Valle",
+      "variante": "Limonada Classic",
+      "categoria_id": "bebidas-fruta",
+      "conteudo_ml": 290,
+      "embalagem": "lata",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7894900664003",
+          "fonte_id": "femsa-delvalle-pr",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 6,
+        "fonte_id": "femsa-delvalle-pr",
+        "nota": "Quantidade do agrupamento na fonte; não define GTIN do pack nem conversão de estoque homologada."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-delvalle-pr",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "EAN observado em portfólio logístico; confirmar aplicação à unidade."
+        }
+      ],
+      "imagem": {
+        "status": "pendente",
+        "url": null,
+        "fonte_id": null,
+        "condicao_uso": null
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    },
+    {
+      "id": "SVP-000050",
+      "descricao": "Del Valle 100% Uva Cartonada 1000 ml",
+      "descricao_curta": "Del Valle 100% Uva Cartonada 1000 ml",
+      "marca": "Del Valle",
+      "variante": "100% Uva",
+      "categoria_id": "bebidas-fruta",
+      "conteudo_ml": 1000,
+      "embalagem": "cartonada",
+      "unidade_venda": "UN",
+      "gtins": [],
+      "codigos_candidatos": [
+        {
+          "valor_observado": "7894900611014",
+          "fonte_id": "femsa-delvalle-pr",
+          "escopo": "nao_confirmado"
+        }
+      ],
+      "logistica_observada": {
+        "quantidade": 6,
+        "fonte_id": "femsa-delvalle-pr",
+        "nota": "Quantidade do agrupamento na fonte; não define GTIN do pack nem conversão de estoque homologada."
+      },
+      "aliases": [],
+      "status": "pendente",
+      "revisao": null,
+      "evidencias": [
+        {
+          "fonte_id": "femsa-delvalle-pr",
+          "campos": [
+            "marca",
+            "variante",
+            "conteudo_ml",
+            "embalagem",
+            "gtin_candidato",
+            "quantidade_logistica"
+          ],
+          "nota": "EAN observado em portfólio logístico; confirmar aplicação à unidade."
+        }
+      ],
+      "imagem": {
+        "status": "pendente",
+        "url": null,
+        "fonte_id": null,
+        "condicao_uso": null
+      },
+      "pendencias": [
+        "confirmar_gtin_unitario",
+        "revisar_apresentacao_atual",
+        "obter_foto_com_uso_liberado"
+      ],
+      "criado_em": "2026-10-26",
+      "atualizado_em": "2026-10-26"
+    }
+  ]
+}

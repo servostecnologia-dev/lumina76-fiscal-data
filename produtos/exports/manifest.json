@@ -1,0 +1,22 @@
+{
+  "schema_version": "1.0.0",
+  "catalog_version": "2026.10.26.1",
+  "total": 50,
+  "por_status": {
+    "aprovado": 3,
+    "pendente": 47
+  },
+  "imagens_liberadas": 0,
+  "candidatos_com_digito_invalido": [],
+  "entradas_sha256": {
+    "catalogo.json": "28f97f535bb58d02d86e2b65009a9304ee04e62a9ce43a929410b5b3daf9fb64",
+    "categorias.json": "a3a3ec558afe7d714ec4b7d7a071e37a3c2d459a829c7de2eec4b82653f4bf1c",
+    "fontes.json": "1610ab295804fe0ba154582f2a81ab2a6186bc49d699cf644d0f00d23b892576",
+    "pacotes/bebidas-piloto.json": "96947ff2eaad11d0b2af6b099cc7c58cfb9ffbe35523735311864113a4876a0d"
+  },
+  "sha256": {
+    "aprovados.csv": "01ace6181f52d75e3810dace025b8e09a73d99931fd58874719bb1f85b886e99",
+    "pacote-bebidas-piloto.csv": "01ace6181f52d75e3810dace025b8e09a73d99931fd58874719bb1f85b886e99",
+    "revisao.csv": "23af1006768e7b1b3078a1dfe9e0677f0c6fbeea31cc9f5db5e09cf820261be0"
+  }
+}
