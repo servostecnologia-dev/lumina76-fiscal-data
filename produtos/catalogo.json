@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "catalog_version": "2026.10.26.2",
+  "catalog_version": "2026.10.26.3",
   "produtos": [
     {
       "id": "SVP-000001",
@@ -170,9 +170,9 @@
       ],
       "imagem": {
         "status": "referencia",
-        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000003.jpeg",
-        "fonte_id": "femsa-colas-2024",
-        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/hq-SVP-000003.jpg",
+        "fonte_id": "foto-varejo-svp-000003",
+        "condicao_uso": "Foto comercial de referência do varejista; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "obter_foto_com_uso_liberado"
@@ -222,9 +222,9 @@
       ],
       "imagem": {
         "status": "referencia",
-        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000004.jpeg",
-        "fonte_id": "femsa-colas-2024",
-        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/hq-SVP-000004.jpg",
+        "fonte_id": "foto-varejo-svp-000004",
+        "condicao_uso": "Foto comercial de referência do varejista; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
@@ -616,9 +616,9 @@
       ],
       "imagem": {
         "status": "referencia",
-        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000011.jpeg",
-        "fonte_id": "femsa-colas-2024",
-        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/hq-SVP-000011.jpg",
+        "fonte_id": "foto-varejo-svp-000011",
+        "condicao_uso": "Foto comercial de referência do varejista; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
@@ -940,9 +940,9 @@
       ],
       "imagem": {
         "status": "referencia",
-        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000017.jpeg",
-        "fonte_id": "femsa-colas-2024",
-        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/hq-SVP-000017.jpg",
+        "fonte_id": "foto-varejo-svp-000017",
+        "condicao_uso": "Foto comercial de referência do varejista; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
@@ -1210,9 +1210,9 @@
       ],
       "imagem": {
         "status": "referencia",
-        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000022.jpeg",
-        "fonte_id": "femsa-colas-2024",
-        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/hq-SVP-000022.jpg",
+        "fonte_id": "foto-varejo-svp-000022",
+        "condicao_uso": "Foto comercial de referência do varejista; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
@@ -1803,10 +1803,10 @@
         }
       ],
       "imagem": {
-        "status": "pendente",
-        "url": null,
-        "fonte_id": null,
-        "condicao_uso": null
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/hq-SVP-000033.jpg",
+        "fonte_id": "foto-varejo-svp-000033",
+        "condicao_uso": "Foto comercial de referência do varejista; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
@@ -1857,10 +1857,10 @@
         }
       ],
       "imagem": {
-        "status": "pendente",
-        "url": null,
-        "fonte_id": null,
-        "condicao_uso": null
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/hq-SVP-000034.jpg",
+        "fonte_id": "foto-varejo-svp-000034",
+        "condicao_uso": "Foto comercial de referência do varejista; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
@@ -1911,10 +1911,10 @@
         }
       ],
       "imagem": {
-        "status": "pendente",
-        "url": null,
-        "fonte_id": null,
-        "condicao_uso": null
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/hq-SVP-000035.jpg",
+        "fonte_id": "foto-varejo-svp-000035",
+        "condicao_uso": "Foto comercial de referência do varejista; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
@@ -1965,10 +1965,10 @@
         }
       ],
       "imagem": {
-        "status": "pendente",
-        "url": null,
-        "fonte_id": null,
-        "condicao_uso": null
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/hq-SVP-000036.jpg",
+        "fonte_id": "foto-varejo-svp-000036",
+        "condicao_uso": "Foto comercial de referência do varejista; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
@@ -2197,10 +2197,10 @@
         }
       ],
       "imagem": {
-        "status": "pendente",
-        "url": null,
-        "fonte_id": null,
-        "condicao_uso": null
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/hq-SVP-000040.jpg",
+        "fonte_id": "foto-varejo-svp-000040",
+        "condicao_uso": "Foto comercial de referência do varejista; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
@@ -2575,10 +2575,10 @@
         }
       ],
       "imagem": {
-        "status": "pendente",
-        "url": null,
-        "fonte_id": null,
-        "condicao_uso": null
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/hq-SVP-000047.jpg",
+        "fonte_id": "foto-varejo-svp-000047",
+        "condicao_uso": "Foto comercial de referência do varejista; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
@@ -2629,10 +2629,10 @@
         }
       ],
       "imagem": {
-        "status": "pendente",
-        "url": null,
-        "fonte_id": null,
-        "condicao_uso": null
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/hq-SVP-000048.jpg",
+        "fonte_id": "foto-varejo-svp-000048",
+        "condicao_uso": "Foto comercial de referência do varejista; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
@@ -2683,10 +2683,10 @@
         }
       ],
       "imagem": {
-        "status": "pendente",
-        "url": null,
-        "fonte_id": null,
-        "condicao_uso": null
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/hq-SVP-000049.jpg",
+        "fonte_id": "foto-varejo-svp-000049",
+        "condicao_uso": "Foto comercial de referência do varejista; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
@@ -2790,10 +2790,10 @@
         }
       ],
       "imagem": {
-        "status": "pendente",
-        "url": null,
-        "fonte_id": null,
-        "condicao_uso": null
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/hq-SVP-000051.jpg",
+        "fonte_id": "foto-varejo-svp-000051",
+        "condicao_uso": "Foto comercial de referência do varejista; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
@@ -2843,10 +2843,10 @@
         }
       ],
       "imagem": {
-        "status": "pendente",
-        "url": null,
-        "fonte_id": null,
-        "condicao_uso": null
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/hq-SVP-000052.jpg",
+        "fonte_id": "foto-varejo-svp-000052",
+        "condicao_uso": "Foto comercial de referência do varejista; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
@@ -2896,10 +2896,10 @@
         }
       ],
       "imagem": {
-        "status": "pendente",
-        "url": null,
-        "fonte_id": null,
-        "condicao_uso": null
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/hq-SVP-000053.jpg",
+        "fonte_id": "foto-varejo-svp-000053",
+        "condicao_uso": "Foto comercial de referência do varejista; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
@@ -2949,10 +2949,10 @@
         }
       ],
       "imagem": {
-        "status": "pendente",
-        "url": null,
-        "fonte_id": null,
-        "condicao_uso": null
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/hq-SVP-000054.jpg",
+        "fonte_id": "foto-varejo-svp-000054",
+        "condicao_uso": "Foto comercial de referência do varejista; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
@@ -3002,10 +3002,10 @@
         }
       ],
       "imagem": {
-        "status": "pendente",
-        "url": null,
-        "fonte_id": null,
-        "condicao_uso": null
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/hq-SVP-000055.jpg",
+        "fonte_id": "foto-varejo-svp-000055",
+        "condicao_uso": "Foto comercial de referência do varejista; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
@@ -3108,10 +3108,10 @@
         }
       ],
       "imagem": {
-        "status": "pendente",
-        "url": null,
-        "fonte_id": null,
-        "condicao_uso": null
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/hq-SVP-000057.jpg",
+        "fonte_id": "foto-varejo-svp-000057",
+        "condicao_uso": "Foto comercial de referência do varejista; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
@@ -3161,10 +3161,10 @@
         }
       ],
       "imagem": {
-        "status": "pendente",
-        "url": null,
-        "fonte_id": null,
-        "condicao_uso": null
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/hq-SVP-000058.jpg",
+        "fonte_id": "foto-varejo-svp-000058",
+        "condicao_uso": "Foto comercial de referência do varejista; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
@@ -3214,10 +3214,10 @@
         }
       ],
       "imagem": {
-        "status": "pendente",
-        "url": null,
-        "fonte_id": null,
-        "condicao_uso": null
+        "status": "referencia",
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/hq-SVP-000059.jpg",
+        "fonte_id": "foto-varejo-svp-000059",
+        "condicao_uso": "Foto comercial de referência do varejista; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
@@ -3639,9 +3639,9 @@
       ],
       "imagem": {
         "status": "referencia",
-        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000067.jpeg",
-        "fonte_id": "femsa-colas-2024",
-        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/hq-SVP-000067.jpg",
+        "fonte_id": "foto-varejo-svp-000067",
+        "condicao_uso": "Foto comercial de referência do varejista; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
@@ -3746,9 +3746,9 @@
       ],
       "imagem": {
         "status": "referencia",
-        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000069.jpeg",
-        "fonte_id": "femsa-colas-2024",
-        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/hq-SVP-000069.jpg",
+        "fonte_id": "foto-varejo-svp-000069",
+        "condicao_uso": "Foto comercial de referência do varejista; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
@@ -4124,9 +4124,9 @@
       ],
       "imagem": {
         "status": "referencia",
-        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000076.jpeg",
-        "fonte_id": "femsa-colas-2024",
-        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/hq-SVP-000076.jpg",
+        "fonte_id": "foto-varejo-svp-000076",
+        "condicao_uso": "Foto comercial de referência do varejista; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
@@ -4232,9 +4232,9 @@
       ],
       "imagem": {
         "status": "referencia",
-        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000078.jpeg",
-        "fonte_id": "femsa-colas-2024",
-        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/hq-SVP-000078.jpg",
+        "fonte_id": "foto-varejo-svp-000078",
+        "condicao_uso": "Foto comercial de referência do varejista; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
@@ -5474,9 +5474,9 @@
       ],
       "imagem": {
         "status": "referencia",
-        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000101.jpeg",
-        "fonte_id": "femsa-colas-2024",
-        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/hq-SVP-000101.jpg",
+        "fonte_id": "foto-varejo-svp-000101",
+        "condicao_uso": "Foto comercial de referência do varejista; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
@@ -5528,9 +5528,9 @@
       ],
       "imagem": {
         "status": "referencia",
-        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000102.jpeg",
-        "fonte_id": "femsa-colas-2024",
-        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/hq-SVP-000102.jpg",
+        "fonte_id": "foto-varejo-svp-000102",
+        "condicao_uso": "Foto comercial de referência do varejista; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
@@ -5582,9 +5582,9 @@
       ],
       "imagem": {
         "status": "referencia",
-        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000103.jpeg",
-        "fonte_id": "femsa-colas-2024",
-        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/hq-SVP-000103.jpg",
+        "fonte_id": "foto-varejo-svp-000103",
+        "condicao_uso": "Foto comercial de referência do varejista; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
@@ -5636,9 +5636,9 @@
       ],
       "imagem": {
         "status": "referencia",
-        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000104.jpeg",
-        "fonte_id": "femsa-colas-2024",
-        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/hq-SVP-000104.jpg",
+        "fonte_id": "foto-varejo-svp-000104",
+        "condicao_uso": "Foto comercial de referência do varejista; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
@@ -6014,9 +6014,9 @@
       ],
       "imagem": {
         "status": "referencia",
-        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000111.jpeg",
-        "fonte_id": "femsa-colas-2024",
-        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/hq-SVP-000111.jpg",
+        "fonte_id": "foto-varejo-svp-000111",
+        "condicao_uso": "Foto comercial de referência do varejista; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
@@ -6068,9 +6068,9 @@
       ],
       "imagem": {
         "status": "referencia",
-        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000112.jpeg",
-        "fonte_id": "femsa-colas-2024",
-        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/hq-SVP-000112.jpg",
+        "fonte_id": "foto-varejo-svp-000112",
+        "condicao_uso": "Foto comercial de referência do varejista; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
@@ -6122,9 +6122,9 @@
       ],
       "imagem": {
         "status": "referencia",
-        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000113.jpeg",
-        "fonte_id": "femsa-colas-2024",
-        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/hq-SVP-000113.jpg",
+        "fonte_id": "foto-varejo-svp-000113",
+        "condicao_uso": "Foto comercial de referência do varejista; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",
@@ -7040,9 +7040,9 @@
       ],
       "imagem": {
         "status": "referencia",
-        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/SVP-000130.jpeg",
-        "fonte_id": "femsa-colas-2024",
-        "condicao_uso": "Foto comercial de referência; direitos de terceiros; licença não informada na fonte."
+        "url": "https://raw.githubusercontent.com/servostecnologia-dev/lumina76-fiscal-data/main/produtos/imagens/hq-SVP-000130.jpg",
+        "fonte_id": "foto-varejo-svp-000130",
+        "condicao_uso": "Foto comercial de referência do varejista; direitos de terceiros; licença não informada na fonte."
       },
       "pendencias": [
         "confirmar_gtin_unitario",

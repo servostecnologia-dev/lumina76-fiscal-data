@@ -20,26 +20,6 @@
     "sha256": "0b4ea573aac3277e440cb56e8dcd79e3ee2c4c1720c9b51fe7ddb9bc903770b2"
   },
   {
-    "produto_id": "SVP-000003",
-    "arquivo": "imagens/SVP-000003.jpeg",
-    "fonte_id": "femsa-colas-2024",
-    "pagina": 1,
-    "sku_fonte": "55404",
-    "largura": 75,
-    "altura": 75,
-    "sha256": "77886b9f60afb3954902cec8734b8d88dc169b233a2dc0594b99795904b78cd1"
-  },
-  {
-    "produto_id": "SVP-000004",
-    "arquivo": "imagens/SVP-000004.jpeg",
-    "fonte_id": "femsa-colas-2024",
-    "pagina": 1,
-    "sku_fonte": "55935",
-    "largura": 75,
-    "altura": 75,
-    "sha256": "70ffb16c36f2292bbae6dcf48d99f0eb5acb6a60752a9363eabcdb91336e3b5c"
-  },
-  {
     "produto_id": "SVP-000005",
     "arquivo": "imagens/SVP-000005.jpeg",
     "fonte_id": "femsa-fotos-sc-2025",
@@ -100,16 +80,6 @@
     "sha256": "ae56d6ae79d0d4589170a0bfab55b88768f72ade8670dc4dcaab8c4a869ab361"
   },
   {
-    "produto_id": "SVP-000011",
-    "arquivo": "imagens/SVP-000011.jpeg",
-    "fonte_id": "femsa-colas-2024",
-    "pagina": 2,
-    "sku_fonte": "55934",
-    "largura": 75,
-    "altura": 75,
-    "sha256": "f84db38f68c88343b52bd4fa5c71e9c8e3f64de43a34f9aa39356c49cdb06cea"
-  },
-  {
     "produto_id": "SVP-000012",
     "arquivo": "imagens/SVP-000012.jpeg",
     "fonte_id": "femsa-fotos-sc-2025",
@@ -160,16 +130,6 @@
     "sha256": "b372e192031925df1c91588b7cbad34f051bd49c649015bea224886a3e8b387c"
   },
   {
-    "produto_id": "SVP-000017",
-    "arquivo": "imagens/SVP-000017.jpeg",
-    "fonte_id": "femsa-colas-2024",
-    "pagina": 2,
-    "sku_fonte": "55445",
-    "largura": 75,
-    "altura": 75,
-    "sha256": "bd95ceb12e069ead5317e4e82daf2a15df344d1686e9c531d179641be549fdb6"
-  },
-  {
     "produto_id": "SVP-000018",
     "arquivo": "imagens/SVP-000018.jpeg",
     "fonte_id": "femsa-fotos-sc-2025",
@@ -208,16 +168,6 @@
     "largura": 400,
     "altura": 400,
     "sha256": "e52a041d06b9a026dd4e0abd82d4a0bd28a0fe1bca4577b2677666e3e8aec9fc"
-  },
-  {
-    "produto_id": "SVP-000022",
-    "arquivo": "imagens/SVP-000022.jpeg",
-    "fonte_id": "femsa-colas-2024",
-    "pagina": 3,
-    "sku_fonte": "56341",
-    "largura": 75,
-    "altura": 75,
-    "sha256": "4d6671ce6e64f5c041cc109de4c5a333282c6edfd6c88337f5a33345e908007c"
   },
   {
     "produto_id": "SVP-000023",
@@ -440,16 +390,6 @@
     "sha256": "477ad8cda7e6aad1a2e133f5924e3570306c0eb084afcf9afd966746cbb13091"
   },
   {
-    "produto_id": "SVP-000067",
-    "arquivo": "imagens/SVP-000067.jpeg",
-    "fonte_id": "femsa-colas-2024",
-    "pagina": 4,
-    "sku_fonte": "56267",
-    "largura": 75,
-    "altura": 75,
-    "sha256": "ce561171a31d19cbfd271b2d13e13fc7035687b127fa0277508acafe94c66f2a"
-  },
-  {
     "produto_id": "SVP-000068",
     "arquivo": "imagens/SVP-000068.jpeg",
     "fonte_id": "femsa-fotos-sc-2025",
@@ -458,16 +398,6 @@
     "largura": 400,
     "altura": 400,
     "sha256": "550985d015311f84d88af8805d9c32f025d4f8f1cbd927dda72ce2e59a1dfa46"
-  },
-  {
-    "produto_id": "SVP-000069",
-    "arquivo": "imagens/SVP-000069.jpeg",
-    "fonte_id": "femsa-colas-2024",
-    "pagina": 9,
-    "sku_fonte": "139421",
-    "largura": 75,
-    "altura": 75,
-    "sha256": "09ced035980165f3f96f758b8499be3f9c7783d5dd8ad5db2f4952ce6d3cea36"
   },
   {
     "produto_id": "SVP-000070",
@@ -530,16 +460,6 @@
     "sha256": "a53edd7e4cb00a16c082876902a70315179df71b41bba3b64b8551624075ab25"
   },
   {
-    "produto_id": "SVP-000076",
-    "arquivo": "imagens/SVP-000076.jpeg",
-    "fonte_id": "femsa-colas-2024",
-    "pagina": 9,
-    "sku_fonte": "139328",
-    "largura": 75,
-    "altura": 75,
-    "sha256": "47651b57764d014eb5323e452ad7b963b4cc4d86af2b3f1bb71c2c78a956664f"
-  },
-  {
     "produto_id": "SVP-000077",
     "arquivo": "imagens/SVP-000077.jpeg",
     "fonte_id": "femsa-fotos-sc-2025",
@@ -548,16 +468,6 @@
     "largura": 400,
     "altura": 400,
     "sha256": "dc71af50eb2cd095d2f7184154e677cbda1c8e40db54c991c47b833977ae10b4"
-  },
-  {
-    "produto_id": "SVP-000078",
-    "arquivo": "imagens/SVP-000078.jpeg",
-    "fonte_id": "femsa-colas-2024",
-    "pagina": 9,
-    "sku_fonte": "139474",
-    "largura": 75,
-    "altura": 75,
-    "sha256": "a20f3a1d7d12b4c998cd1732973a6394d06e8a6d1230e50e0fb4e4a167537cd0"
   },
   {
     "produto_id": "SVP-000079",
@@ -780,46 +690,6 @@
     "sha256": "f755f28d9855c7d1f2eb615efb8dfca2cf1b59435a4c0469f430a3dc7ed9e130"
   },
   {
-    "produto_id": "SVP-000101",
-    "arquivo": "imagens/SVP-000101.jpeg",
-    "fonte_id": "femsa-colas-2024",
-    "pagina": 10,
-    "sku_fonte": "139443",
-    "largura": 75,
-    "altura": 75,
-    "sha256": "754f65e5389ffe6b767df91060f75d580bef5ce79a843b9d17a3c04268f7ec29"
-  },
-  {
-    "produto_id": "SVP-000102",
-    "arquivo": "imagens/SVP-000102.jpeg",
-    "fonte_id": "femsa-colas-2024",
-    "pagina": 10,
-    "sku_fonte": "139678",
-    "largura": 75,
-    "altura": 75,
-    "sha256": "a7f988466360720bcd0b4808217746b043b702843c9d021c2547e8686ac6483f"
-  },
-  {
-    "produto_id": "SVP-000103",
-    "arquivo": "imagens/SVP-000103.jpeg",
-    "fonte_id": "femsa-colas-2024",
-    "pagina": 10,
-    "sku_fonte": "139551",
-    "largura": 75,
-    "altura": 75,
-    "sha256": "57020d3d103f35bfee9298c4d03d81f46eb4a9b2ee42aff6c9c8210f4eea744b"
-  },
-  {
-    "produto_id": "SVP-000104",
-    "arquivo": "imagens/SVP-000104.jpeg",
-    "fonte_id": "femsa-colas-2024",
-    "pagina": 10,
-    "sku_fonte": "139553",
-    "largura": 75,
-    "altura": 75,
-    "sha256": "e7c974a5d91e35576a61b406930d035721da8322f6143ca0b9e3c60a7beb83c6"
-  },
-  {
     "produto_id": "SVP-000105",
     "arquivo": "imagens/SVP-000105.jpeg",
     "fonte_id": "femsa-fotos-sc-2025",
@@ -878,36 +748,6 @@
     "largura": 400,
     "altura": 400,
     "sha256": "1c1177cd19137970f5bcffcf2083e71106f94609b077918368eb6c283a6f31c7"
-  },
-  {
-    "produto_id": "SVP-000111",
-    "arquivo": "imagens/SVP-000111.jpeg",
-    "fonte_id": "femsa-colas-2024",
-    "pagina": 11,
-    "sku_fonte": "139633",
-    "largura": 75,
-    "altura": 75,
-    "sha256": "6de8e0938fc03cc947579822b5d711faf2c35d473fb38f640d7c37a0f802cc58"
-  },
-  {
-    "produto_id": "SVP-000112",
-    "arquivo": "imagens/SVP-000112.jpeg",
-    "fonte_id": "femsa-colas-2024",
-    "pagina": 11,
-    "sku_fonte": "139632",
-    "largura": 75,
-    "altura": 75,
-    "sha256": "629a0576afb11cdc4fc381e07b8b73ab066bc33a5b3fa78436500c2f204f7be2"
-  },
-  {
-    "produto_id": "SVP-000113",
-    "arquivo": "imagens/SVP-000113.jpeg",
-    "fonte_id": "femsa-colas-2024",
-    "pagina": 11,
-    "sku_fonte": "139444",
-    "largura": 75,
-    "altura": 75,
-    "sha256": "2394780ccba8cd3f7fde9d2342e48b92a7092350158df8aa0e499a7fc7e6b7e9"
   },
   {
     "produto_id": "SVP-000114",
@@ -1070,16 +910,6 @@
     "sha256": "ecf806205dedb347c1c83f3cdfcb177f5c503cf2772e331c7b9df34a85664f3b"
   },
   {
-    "produto_id": "SVP-000130",
-    "arquivo": "imagens/SVP-000130.jpeg",
-    "fonte_id": "femsa-colas-2024",
-    "pagina": 11,
-    "sku_fonte": "139636",
-    "largura": 75,
-    "altura": 75,
-    "sha256": "cb79c5495a908d07caee8d5809a2cef2e110079da13255ca8fa163cb183f0c7f"
-  },
-  {
     "produto_id": "SVP-000131",
     "arquivo": "imagens/SVP-000131.jpeg",
     "fonte_id": "femsa-fotos-sc-2025",
@@ -1148,5 +978,401 @@
     "largura": 1000,
     "altura": 1000,
     "sha256": "0806f1a1116e1433ddff2966bffdafa434acdf06d580bba86a81076b48d9b570"
+  },
+  {
+    "produto_id": "SVP-000003",
+    "arquivo": "imagens/hq-SVP-000003.jpg",
+    "fonte_id": "foto-varejo-svp-000003",
+    "pagina": null,
+    "sku_fonte": null,
+    "largura": 780,
+    "altura": 780,
+    "sha256": "533e3de3e75862eeeaad8c3e715bd3f8523e8f1801cbc3541c36128338fa3100",
+    "url_original": "https://covabra.vteximg.com.br/arquivos/ids/575546/8075.jpg?v=639149724139130000",
+    "gtin_consultado": "7894900010015"
+  },
+  {
+    "produto_id": "SVP-000004",
+    "arquivo": "imagens/hq-SVP-000004.jpg",
+    "fonte_id": "foto-varejo-svp-000004",
+    "pagina": null,
+    "sku_fonte": null,
+    "largura": 780,
+    "altura": 780,
+    "sha256": "c3b4e74ecb1d84f51ab7afb629d816c77199d37a3e470e3f4b26ad3c481674d4",
+    "url_original": "https://covabra.vteximg.com.br/arquivos/ids/576399/8078.jpg?v=639179928124300000",
+    "gtin_consultado": "7894900011609"
+  },
+  {
+    "produto_id": "SVP-000011",
+    "arquivo": "imagens/hq-SVP-000011.jpg",
+    "fonte_id": "foto-varejo-svp-000011",
+    "pagina": null,
+    "sku_fonte": null,
+    "largura": 585,
+    "altura": 780,
+    "sha256": "3654f2ea54b5ce41c6b7d20a9a9c29368b4f47418fbd40b4815b0e95d6f2bfd4",
+    "url_original": "https://covabra.vteximg.com.br/arquivos/ids/546967/19289.jpg?v=638925397134830000",
+    "gtin_consultado": "7894900701609"
+  },
+  {
+    "produto_id": "SVP-000017",
+    "arquivo": "imagens/hq-SVP-000017.jpg",
+    "fonte_id": "foto-varejo-svp-000017",
+    "pagina": null,
+    "sku_fonte": null,
+    "largura": 780,
+    "altura": 780,
+    "sha256": "9e919d8f3c521b81e37da525ee42a1aacb4647459b518cb6b5f4d3e6fd6f2c4b",
+    "url_original": "https://covabra.vteximg.com.br/arquivos/ids/575624/8081.jpg?v=639149868099430000",
+    "gtin_consultado": "7894900030013"
+  },
+  {
+    "produto_id": "SVP-000022",
+    "arquivo": "imagens/hq-SVP-000022.jpg",
+    "fonte_id": "foto-varejo-svp-000022",
+    "pagina": null,
+    "sku_fonte": null,
+    "largura": 780,
+    "altura": 780,
+    "sha256": "86dda004cf74418d5cf9db2aaa189291c7225bf59cec4d06b045c0f73a571c29",
+    "url_original": "https://covabra.vteximg.com.br/arquivos/ids/544626/64332.jpg?v=638925375561530000",
+    "gtin_consultado": "7894900050394"
+  },
+  {
+    "produto_id": "SVP-000033",
+    "arquivo": "imagens/hq-SVP-000033.jpg",
+    "fonte_id": "foto-varejo-svp-000033",
+    "pagina": null,
+    "sku_fonte": null,
+    "largura": 780,
+    "altura": 780,
+    "sha256": "3de51a4663f4dee18cbffc38c737640fee9b439636498e02eb4136445821cd79",
+    "url_original": "https://covabra.vteximg.com.br/arquivos/ids/544727/85971.jpg?v=638925376573170000",
+    "gtin_consultado": "7896045506040"
+  },
+  {
+    "produto_id": "SVP-000034",
+    "arquivo": "imagens/hq-SVP-000034.jpg",
+    "fonte_id": "foto-varejo-svp-000034",
+    "pagina": null,
+    "sku_fonte": null,
+    "largura": 1200,
+    "altura": 1200,
+    "sha256": "083595d2e323428e200e625ff2c124cce7691f08ec789b82a1ce0dac4c8be2f5",
+    "url_original": "https://savegnagoio.vteximg.com.br/arquivos/ids/468410/CervejaHeineken00350mlSleekLata1.jpg?v=639215587257330000",
+    "gtin_consultado": "7896045506910"
+  },
+  {
+    "produto_id": "SVP-000035",
+    "arquivo": "imagens/hq-SVP-000035.jpg",
+    "fonte_id": "foto-varejo-svp-000035",
+    "pagina": null,
+    "sku_fonte": null,
+    "largura": 1200,
+    "altura": 1200,
+    "sha256": "437bfddc81228014187d240163034bd0fbe0729377e797eb8906bde587de41a1",
+    "url_original": "https://savegnagoio.vteximg.com.br/arquivos/ids/496166/CervejaLongNeck330mlHeineken1.jpg?v=639215587641030000",
+    "gtin_consultado": "78936683"
+  },
+  {
+    "produto_id": "SVP-000036",
+    "arquivo": "imagens/hq-SVP-000036.jpg",
+    "fonte_id": "foto-varejo-svp-000036",
+    "pagina": null,
+    "sku_fonte": null,
+    "largura": 780,
+    "altura": 780,
+    "sha256": "aad9c97c41fd98c72d9e334b983b8822b98328ff570dd5ea4078d8ded3395544",
+    "url_original": "https://covabra.vteximg.com.br/arquivos/ids/540236/98470.jpg?v=638925335712370000",
+    "gtin_consultado": "7896045506590"
+  },
+  {
+    "produto_id": "SVP-000040",
+    "arquivo": "imagens/hq-SVP-000040.jpg",
+    "fonte_id": "foto-varejo-svp-000040",
+    "pagina": null,
+    "sku_fonte": null,
+    "largura": 780,
+    "altura": 779,
+    "sha256": "0a2151a247fc0a85db596b7e28a4880ab3a7073c95bf51758d10864d9cc4ef21",
+    "url_original": "https://covabra.vteximg.com.br/arquivos/ids/535833/97418.jpg?v=638925299007800000",
+    "gtin_consultado": "7896371000007"
+  },
+  {
+    "produto_id": "SVP-000047",
+    "arquivo": "imagens/hq-SVP-000047.jpg",
+    "fonte_id": "foto-varejo-svp-000047",
+    "pagina": null,
+    "sku_fonte": null,
+    "largura": 780,
+    "altura": 780,
+    "sha256": "faf88540d959c67c41c9e6a8060bfd69a67822946d86170eac78de2395b8df9e",
+    "url_original": "https://covabra.vteximg.com.br/arquivos/ids/573683/114997.jpg?v=639102528230630000",
+    "gtin_consultado": "7894900664027"
+  },
+  {
+    "produto_id": "SVP-000048",
+    "arquivo": "imagens/hq-SVP-000048.jpg",
+    "fonte_id": "foto-varejo-svp-000048",
+    "pagina": null,
+    "sku_fonte": null,
+    "largura": 780,
+    "altura": 780,
+    "sha256": "a6d7e21dad8cc934afc54aa8f91f5d08f29d1eab27107b207fc2eb2af3cdf5a5",
+    "url_original": "https://covabra.vteximg.com.br/arquivos/ids/573678/114999.jpg?v=639102528146670000",
+    "gtin_consultado": "7894900664010"
+  },
+  {
+    "produto_id": "SVP-000049",
+    "arquivo": "imagens/hq-SVP-000049.jpg",
+    "fonte_id": "foto-varejo-svp-000049",
+    "pagina": null,
+    "sku_fonte": null,
+    "largura": 780,
+    "altura": 780,
+    "sha256": "ed4363d28ccebc8d71a945d9b39041e743b2972f9dea6e4d8123e7448a38d3e6",
+    "url_original": "https://covabra.vteximg.com.br/arquivos/ids/573500/114882.jpg?v=639095616089130000",
+    "gtin_consultado": "7894900664003"
+  },
+  {
+    "produto_id": "SVP-000051",
+    "arquivo": "imagens/hq-SVP-000051.jpg",
+    "fonte_id": "foto-varejo-svp-000051",
+    "pagina": null,
+    "sku_fonte": null,
+    "largura": 780,
+    "altura": 780,
+    "sha256": "02d8806409b2ae3b82555ace6ad7912cefa72dbb1706ddf1c4c7a7ea98b90e4d",
+    "url_original": "https://covabra.vteximg.com.br/arquivos/ids/541531/7175.jpg?v=638925347102800000",
+    "gtin_consultado": "7891991000826"
+  },
+  {
+    "produto_id": "SVP-000052",
+    "arquivo": "imagens/hq-SVP-000052.jpg",
+    "fonte_id": "foto-varejo-svp-000052",
+    "pagina": null,
+    "sku_fonte": null,
+    "largura": 780,
+    "altura": 780,
+    "sha256": "ec09c2cfe81c5ae4de691880788b23f2000604e181c7a15bdb46dc4a62712fa3",
+    "url_original": "https://covabra.vteximg.com.br/arquivos/ids/556093/7171.jpg?v=638925492392630000",
+    "gtin_consultado": "7891991000727"
+  },
+  {
+    "produto_id": "SVP-000053",
+    "arquivo": "imagens/hq-SVP-000053.jpg",
+    "fonte_id": "foto-varejo-svp-000053",
+    "pagina": null,
+    "sku_fonte": null,
+    "largura": 780,
+    "altura": 780,
+    "sha256": "38b465713eeddfa668588578dfc84646eafe831164c7ca5807778cd1c8cdbb45",
+    "url_original": "https://covabra.vteximg.com.br/arquivos/ids/537510/7320.jpg?v=638925313015400000",
+    "gtin_consultado": "7892840800079"
+  },
+  {
+    "produto_id": "SVP-000054",
+    "arquivo": "imagens/hq-SVP-000054.jpg",
+    "fonte_id": "foto-varejo-svp-000054",
+    "pagina": null,
+    "sku_fonte": null,
+    "largura": 780,
+    "altura": 780,
+    "sha256": "87a28360effd1ad3729ac1a2fe2122b795dac48bc8baca0e4edd47f032579027",
+    "url_original": "https://covabra.vteximg.com.br/arquivos/ids/549714/84245.jpg?v=638925421346570000",
+    "gtin_consultado": "7892840813505"
+  },
+  {
+    "produto_id": "SVP-000055",
+    "arquivo": "imagens/hq-SVP-000055.jpg",
+    "fonte_id": "foto-varejo-svp-000055",
+    "pagina": null,
+    "sku_fonte": null,
+    "largura": 780,
+    "altura": 780,
+    "sha256": "d3d07bd985cc541113eb5b2d54ddc806435d7d9a4c1ef98d49b0ef1f7c3f0f74",
+    "url_original": "https://covabra.vteximg.com.br/arquivos/ids/554322/7323.jpg?v=638925475245230000",
+    "gtin_consultado": "7892840802745"
+  },
+  {
+    "produto_id": "SVP-000057",
+    "arquivo": "imagens/hq-SVP-000057.jpg",
+    "fonte_id": "foto-varejo-svp-000057",
+    "pagina": null,
+    "sku_fonte": null,
+    "largura": 780,
+    "altura": 780,
+    "sha256": "83aa7f60d6a7f6c35e33f02af24951f12b7719bfde2261cb8c6e9f5eb98f1f29",
+    "url_original": "https://covabra.vteximg.com.br/arquivos/ids/546169/98477.jpg?v=638925389844730000",
+    "gtin_consultado": "7896052607044"
+  },
+  {
+    "produto_id": "SVP-000058",
+    "arquivo": "imagens/hq-SVP-000058.jpg",
+    "fonte_id": "foto-varejo-svp-000058",
+    "pagina": null,
+    "sku_fonte": null,
+    "largura": 780,
+    "altura": 780,
+    "sha256": "7d1e3a5f1500cca7917087791595e73e22c503167c096910651f1fc36467c485",
+    "url_original": "https://covabra.vteximg.com.br/arquivos/ids/551118/98478.jpg?v=638925433465370000",
+    "gtin_consultado": "7896052607129"
+  },
+  {
+    "produto_id": "SVP-000059",
+    "arquivo": "imagens/hq-SVP-000059.jpg",
+    "fonte_id": "foto-varejo-svp-000059",
+    "pagina": null,
+    "sku_fonte": null,
+    "largura": 780,
+    "altura": 780,
+    "sha256": "04cc5a70c3e08637a7c5a601d9375cf50aaba2a698f2ec564b23c1c307cd199b",
+    "url_original": "https://covabra.vteximg.com.br/arquivos/ids/552287/98479.jpg?v=638925443263630000",
+    "gtin_consultado": "7896052607167"
+  },
+  {
+    "produto_id": "SVP-000067",
+    "arquivo": "imagens/hq-SVP-000067.jpg",
+    "fonte_id": "foto-varejo-svp-000067",
+    "pagina": null,
+    "sku_fonte": null,
+    "largura": 780,
+    "altura": 780,
+    "sha256": "8953341e5f276962d6ec44e546e09d62b832336cd7146705fae3d902be48f4f5",
+    "url_original": "https://covabra.vteximg.com.br/arquivos/ids/575625/8091.jpg?v=639149868115400000",
+    "gtin_consultado": "7894900681017"
+  },
+  {
+    "produto_id": "SVP-000069",
+    "arquivo": "imagens/hq-SVP-000069.jpg",
+    "fonte_id": "foto-varejo-svp-000069",
+    "pagina": null,
+    "sku_fonte": null,
+    "largura": 1200,
+    "altura": 1200,
+    "sha256": "a51d3cb104af4a3c5a1d7111031b6e1d276391122365f1c17114b6d4053af04b",
+    "url_original": "https://savegnagoio.vteximg.com.br/arquivos/ids/466599/CervejaBavaria350mlLata1.jpg?v=638774950083300000",
+    "gtin_consultado": "7896045506095"
+  },
+  {
+    "produto_id": "SVP-000076",
+    "arquivo": "imagens/hq-SVP-000076.jpg",
+    "fonte_id": "foto-varejo-svp-000076",
+    "pagina": null,
+    "sku_fonte": null,
+    "largura": 780,
+    "altura": 780,
+    "sha256": "ec92edd30b5c0f4437203a80a4190225dfb0d14a31f344087ec7cd551d9fe41c",
+    "url_original": "https://covabra.vteximg.com.br/arquivos/ids/538376/105093.jpg?v=638925320592530000",
+    "gtin_consultado": "7898367984469"
+  },
+  {
+    "produto_id": "SVP-000078",
+    "arquivo": "imagens/hq-SVP-000078.jpg",
+    "fonte_id": "foto-varejo-svp-000078",
+    "pagina": null,
+    "sku_fonte": null,
+    "largura": 780,
+    "altura": 780,
+    "sha256": "d7290f195c33f3dab12afc2d57dd322ce8018488a65170624758f067049e449d",
+    "url_original": "https://covabra.vteximg.com.br/arquivos/ids/578622/66189.jpg?v=639256212069700000",
+    "gtin_consultado": "7898367983790"
+  },
+  {
+    "produto_id": "SVP-000101",
+    "arquivo": "imagens/hq-SVP-000101.jpg",
+    "fonte_id": "foto-varejo-svp-000101",
+    "pagina": null,
+    "sku_fonte": null,
+    "largura": 780,
+    "altura": 780,
+    "sha256": "0c3714e8b4771380ed4d7d2ee48992b0618c99400f80bfbd56407492f1c42d65",
+    "url_original": "https://covabra.vteximg.com.br/arquivos/ids/544822/47265.jpg?v=638925377517030000",
+    "gtin_consultado": "7896383700704"
+  },
+  {
+    "produto_id": "SVP-000102",
+    "arquivo": "imagens/hq-SVP-000102.jpg",
+    "fonte_id": "foto-varejo-svp-000102",
+    "pagina": null,
+    "sku_fonte": null,
+    "largura": 1200,
+    "altura": 1200,
+    "sha256": "9d687c7e97a8b5dc4a1ebd082cb71862ec789fc7df56253da1e9e5354ef92adc",
+    "url_original": "https://savegnagoio.vteximg.com.br/arquivos/ids/414906/CachacaYpioca965mlMestre1.jpg?v=638346121621330000",
+    "gtin_consultado": "7896383730428"
+  },
+  {
+    "produto_id": "SVP-000103",
+    "arquivo": "imagens/hq-SVP-000103.jpg",
+    "fonte_id": "foto-varejo-svp-000103",
+    "pagina": null,
+    "sku_fonte": null,
+    "largura": 780,
+    "altura": 780,
+    "sha256": "097de043b47bf8ce2025f943318a708e5681b29d4cff6ca36d3e5e5bf8a3efc0",
+    "url_original": "https://covabra.vteximg.com.br/arquivos/ids/541615/110234.jpg?v=638925347859100000",
+    "gtin_consultado": "8000020107057"
+  },
+  {
+    "produto_id": "SVP-000104",
+    "arquivo": "imagens/hq-SVP-000104.jpg",
+    "fonte_id": "foto-varejo-svp-000104",
+    "pagina": null,
+    "sku_fonte": null,
+    "largura": 780,
+    "altura": 780,
+    "sha256": "c0dde48476570adc26841a4ab6a52553b4451f2f127f32a77880a4842706d3c0",
+    "url_original": "https://covabra.vteximg.com.br/arquivos/ids/557785/94844.jpg?v=638925507414530000",
+    "gtin_consultado": "7791200200552"
+  },
+  {
+    "produto_id": "SVP-000111",
+    "arquivo": "imagens/hq-SVP-000111.jpg",
+    "fonte_id": "foto-varejo-svp-000111",
+    "pagina": null,
+    "sku_fonte": null,
+    "largura": 780,
+    "altura": 780,
+    "sha256": "883e77f25b78e1045a5febaf3e03baae7952125eae7a8ffe5f4ceae12dfe542a",
+    "url_original": "https://covabra.vteximg.com.br/arquivos/ids/550929/98886.jpg?v=638925431869900000",
+    "gtin_consultado": "5000291025930"
+  },
+  {
+    "produto_id": "SVP-000112",
+    "arquivo": "imagens/hq-SVP-000112.jpg",
+    "fonte_id": "foto-varejo-svp-000112",
+    "pagina": null,
+    "sku_fonte": null,
+    "largura": 780,
+    "altura": 780,
+    "sha256": "ad76ec55553c7879fab487a7b8a7ddb3786a5fa8f1073c4cdaa9b7913e2a0731",
+    "url_original": "https://covabra.vteximg.com.br/arquivos/ids/552921/76196.jpg?v=638925463438630000",
+    "gtin_consultado": "5000291023462"
+  },
+  {
+    "produto_id": "SVP-000113",
+    "arquivo": "imagens/hq-SVP-000113.jpg",
+    "fonte_id": "foto-varejo-svp-000113",
+    "pagina": null,
+    "sku_fonte": null,
+    "largura": 780,
+    "altura": 780,
+    "sha256": "0f0888387fda1180ee1241c1f0c22a3c1b4699851acc6a70ccacb7a79dcd8e5e",
+    "url_original": "https://covabra.vteximg.com.br/arquivos/ids/557970/37112.jpg?v=638925509017030000",
+    "gtin_consultado": "5011013100132"
+  },
+  {
+    "produto_id": "SVP-000130",
+    "arquivo": "imagens/hq-SVP-000130.jpg",
+    "fonte_id": "foto-varejo-svp-000130",
+    "pagina": null,
+    "sku_fonte": null,
+    "largura": 780,
+    "altura": 780,
+    "sha256": "6318397b2902be93e1aa414b42274c7b6a1ff684ae0a56da240df7c7779dde20",
+    "url_original": "https://covabra.vteximg.com.br/arquivos/ids/541922/41559.jpg?v=638925350625630000",
+    "gtin_consultado": "5000267107776"
   }
 ]

@@ -130,6 +130,336 @@
       "publicado_em": null,
       "metodo_consulta": "pagina_indexada",
       "consultado_em": "2026-10-26"
+    },
+    {
+      "id": "foto-varejo-svp-000003",
+      "titulo": "Coca-Cola Original Lata 350 ml — imagem do varejista",
+      "url": "https://www.covabra.com.br/refrigerante-coca-cola-lata-350ml/p",
+      "tipo": "varejista",
+      "uf": null,
+      "publicado_em": null,
+      "metodo_consulta": "api_publica_catalogo_com_gtin_exato",
+      "consultado_em": "2026-10-26"
+    },
+    {
+      "id": "foto-varejo-svp-000004",
+      "titulo": "Coca-Cola Original PET 600 ml — imagem do varejista",
+      "url": "https://www.covabra.com.br/refrigerante-coca-cola-pet-600ml/p",
+      "tipo": "varejista",
+      "uf": null,
+      "publicado_em": null,
+      "metodo_consulta": "api_publica_catalogo_com_gtin_exato",
+      "consultado_em": "2026-10-26"
+    },
+    {
+      "id": "foto-varejo-svp-000011",
+      "titulo": "Coca-Cola Sem Açúcar PET 600 ml — imagem do varejista",
+      "url": "https://www.covabra.com.br/refrigerante-coca-cola-zero-pet-600ml/p",
+      "tipo": "varejista",
+      "uf": null,
+      "publicado_em": null,
+      "metodo_consulta": "api_publica_catalogo_com_gtin_exato",
+      "consultado_em": "2026-10-26"
+    },
+    {
+      "id": "foto-varejo-svp-000017",
+      "titulo": "Fanta Laranja Lata 350 ml — imagem do varejista",
+      "url": "https://www.covabra.com.br/refrigerante-fanta-laranja-lata-350ml/p",
+      "tipo": "varejista",
+      "uf": null,
+      "publicado_em": null,
+      "metodo_consulta": "api_publica_catalogo_com_gtin_exato",
+      "consultado_em": "2026-10-26"
+    },
+    {
+      "id": "foto-varejo-svp-000022",
+      "titulo": "Fanta Uva Lata 220 ml — imagem do varejista",
+      "url": "https://www.covabra.com.br/refrigerante-fanta-uva-lata-220ml/p",
+      "tipo": "varejista",
+      "uf": null,
+      "publicado_em": null,
+      "metodo_consulta": "api_publica_catalogo_com_gtin_exato",
+      "consultado_em": "2026-10-26"
+    },
+    {
+      "id": "foto-varejo-svp-000033",
+      "titulo": "Heineken 0.0 Long Neck 330 ml — imagem do varejista",
+      "url": "https://www.covabra.com.br/cerveja-heineken-0-0--alcool-long-neck-330ml/p",
+      "tipo": "varejista",
+      "uf": null,
+      "publicado_em": null,
+      "metodo_consulta": "api_publica_catalogo_com_gtin_exato",
+      "consultado_em": "2026-10-26"
+    },
+    {
+      "id": "foto-varejo-svp-000034",
+      "titulo": "Heineken 0.0 Lata 350 ml — imagem do varejista",
+      "url": "https://www.savegnago.com.br/cerveja-heineken-0-0-350ml-sleek-lata/p",
+      "tipo": "varejista",
+      "uf": null,
+      "publicado_em": null,
+      "metodo_consulta": "api_publica_catalogo_com_gtin_exato",
+      "consultado_em": "2026-10-26"
+    },
+    {
+      "id": "foto-varejo-svp-000035",
+      "titulo": "Heineken Original Long Neck 330 ml — imagem do varejista",
+      "url": "https://www.savegnago.com.br/cerveja-heineken-330ml-long-neck/p",
+      "tipo": "varejista",
+      "uf": null,
+      "publicado_em": null,
+      "metodo_consulta": "api_publica_catalogo_com_gtin_exato",
+      "consultado_em": "2026-10-26"
+    },
+    {
+      "id": "foto-varejo-svp-000036",
+      "titulo": "Heineken Original Lata 269 ml — imagem do varejista",
+      "url": "https://www.covabra.com.br/cerveja-heineken-premiun-lata-269ml/p",
+      "tipo": "varejista",
+      "uf": null,
+      "publicado_em": null,
+      "metodo_consulta": "api_publica_catalogo_com_gtin_exato",
+      "consultado_em": "2026-10-26"
+    },
+    {
+      "id": "foto-varejo-svp-000040",
+      "titulo": "Therezópolis Gold Lata 350 ml — imagem do varejista",
+      "url": "https://www.covabra.com.br/cerveja-therezopolis-gold-puro-malte-350ml/p",
+      "tipo": "varejista",
+      "uf": null,
+      "publicado_em": null,
+      "metodo_consulta": "api_publica_catalogo_com_gtin_exato",
+      "consultado_em": "2026-10-26"
+    },
+    {
+      "id": "foto-varejo-svp-000047",
+      "titulo": "Del Valle Limonada Tropical Lata 290 ml — imagem do varejista",
+      "url": "https://www.covabra.com.br/nectar-del-valle-limonada-tropical-lata-290ml/p",
+      "tipo": "varejista",
+      "uf": null,
+      "publicado_em": null,
+      "metodo_consulta": "api_publica_catalogo_com_gtin_exato",
+      "consultado_em": "2026-10-26"
+    },
+    {
+      "id": "foto-varejo-svp-000048",
+      "titulo": "Del Valle Limonada Pink Lata 290 ml — imagem do varejista",
+      "url": "https://www.covabra.com.br/nectar-del-valle-limonada-pink-lata-290ml/p",
+      "tipo": "varejista",
+      "uf": null,
+      "publicado_em": null,
+      "metodo_consulta": "api_publica_catalogo_com_gtin_exato",
+      "consultado_em": "2026-10-26"
+    },
+    {
+      "id": "foto-varejo-svp-000049",
+      "titulo": "Del Valle Limonada Classic Lata 290 ml — imagem do varejista",
+      "url": "https://www.covabra.com.br/nectar-del-valle-limonada-classic-lata-290ml/p",
+      "tipo": "varejista",
+      "uf": null,
+      "publicado_em": null,
+      "metodo_consulta": "api_publica_catalogo_com_gtin_exato",
+      "consultado_em": "2026-10-26"
+    },
+    {
+      "id": "foto-varejo-svp-000051",
+      "titulo": "Guaraná Antarctica Tradicional Lata 350 ml — imagem do varejista",
+      "url": "https://www.covabra.com.br/refrigerante-antarctica-guarana-lata-350ml/p",
+      "tipo": "varejista",
+      "uf": null,
+      "publicado_em": null,
+      "metodo_consulta": "api_publica_catalogo_com_gtin_exato",
+      "consultado_em": "2026-10-26"
+    },
+    {
+      "id": "foto-varejo-svp-000052",
+      "titulo": "Guaraná Antarctica Zero Lata 350 ml — imagem do varejista",
+      "url": "https://www.covabra.com.br/refrigerante-antarctica-guarana-zero-lata-350ml/p",
+      "tipo": "varejista",
+      "uf": null,
+      "publicado_em": null,
+      "metodo_consulta": "api_publica_catalogo_com_gtin_exato",
+      "consultado_em": "2026-10-26"
+    },
+    {
+      "id": "foto-varejo-svp-000053",
+      "titulo": "Pepsi Cola Lata 350 ml — imagem do varejista",
+      "url": "https://www.covabra.com.br/refrigerante-pepsi-cola-lata-350ml/p",
+      "tipo": "varejista",
+      "uf": null,
+      "publicado_em": null,
+      "metodo_consulta": "api_publica_catalogo_com_gtin_exato",
+      "consultado_em": "2026-10-26"
+    },
+    {
+      "id": "foto-varejo-svp-000054",
+      "titulo": "Pepsi Black Lata 350 ml — imagem do varejista",
+      "url": "https://www.covabra.com.br/refrigerante-pepsi-cola-zero-lata-350ml/p",
+      "tipo": "varejista",
+      "uf": null,
+      "publicado_em": null,
+      "metodo_consulta": "api_publica_catalogo_com_gtin_exato",
+      "consultado_em": "2026-10-26"
+    },
+    {
+      "id": "foto-varejo-svp-000055",
+      "titulo": "Pepsi Twist Lata 350 ml — imagem do varejista",
+      "url": "https://www.covabra.com.br/refrigerante-pepsi-twist-lata-350ml/p",
+      "tipo": "varejista",
+      "uf": null,
+      "publicado_em": null,
+      "metodo_consulta": "api_publica_catalogo_com_gtin_exato",
+      "consultado_em": "2026-10-26"
+    },
+    {
+      "id": "foto-varejo-svp-000057",
+      "titulo": "Fys Guaraná Lata 350 ml — imagem do varejista",
+      "url": "https://www.covabra.com.br/refrigerante-fys-guarana-da-amazonia-lata-350ml/p",
+      "tipo": "varejista",
+      "uf": null,
+      "publicado_em": null,
+      "metodo_consulta": "api_publica_catalogo_com_gtin_exato",
+      "consultado_em": "2026-10-26"
+    },
+    {
+      "id": "foto-varejo-svp-000058",
+      "titulo": "Fys Laranja-Pera Lata 350 ml — imagem do varejista",
+      "url": "https://www.covabra.com.br/refrigerante-fys-laranja-pera-lata-350ml/p",
+      "tipo": "varejista",
+      "uf": null,
+      "publicado_em": null,
+      "metodo_consulta": "api_publica_catalogo_com_gtin_exato",
+      "consultado_em": "2026-10-26"
+    },
+    {
+      "id": "foto-varejo-svp-000059",
+      "titulo": "Fys Limão Siciliano Lata 350 ml — imagem do varejista",
+      "url": "https://www.covabra.com.br/refrigerante-fys-limao-siciliano-lata-350ml/p",
+      "tipo": "varejista",
+      "uf": null,
+      "publicado_em": null,
+      "metodo_consulta": "api_publica_catalogo_com_gtin_exato",
+      "consultado_em": "2026-10-26"
+    },
+    {
+      "id": "foto-varejo-svp-000067",
+      "titulo": "Sprite Original Limão Lata 350 ml — imagem do varejista",
+      "url": "https://www.covabra.com.br/refrigerante-sprite-limao-lata-350ml/p",
+      "tipo": "varejista",
+      "uf": null,
+      "publicado_em": null,
+      "metodo_consulta": "api_publica_catalogo_com_gtin_exato",
+      "consultado_em": "2026-10-26"
+    },
+    {
+      "id": "foto-varejo-svp-000069",
+      "titulo": "Bavaria Pilsen LT 350 ml — imagem do varejista",
+      "url": "https://www.savegnago.com.br/cerveja-bavaria-350ml-lata/p",
+      "tipo": "varejista",
+      "uf": null,
+      "publicado_em": null,
+      "metodo_consulta": "api_publica_catalogo_com_gtin_exato",
+      "consultado_em": "2026-10-26"
+    },
+    {
+      "id": "foto-varejo-svp-000076",
+      "titulo": "Eisenbahn Pilsen German LN 355 ml — imagem do varejista",
+      "url": "https://www.covabra.com.br/cerveja-eisenbahn-german-pilsner-long-neck-355ml/p",
+      "tipo": "varejista",
+      "uf": null,
+      "publicado_em": null,
+      "metodo_consulta": "api_publica_catalogo_com_gtin_exato",
+      "consultado_em": "2026-10-26"
+    },
+    {
+      "id": "foto-varejo-svp-000078",
+      "titulo": "Eisenbahn Pilsen LT 350 ml — imagem do varejista",
+      "url": "https://www.covabra.com.br/cerveja-eisenbahn-pilsen-lata-350ml/p",
+      "tipo": "varejista",
+      "uf": null,
+      "publicado_em": null,
+      "metodo_consulta": "api_publica_catalogo_com_gtin_exato",
+      "consultado_em": "2026-10-26"
+    },
+    {
+      "id": "foto-varejo-svp-000101",
+      "titulo": "Cachaca Ypioca Emp Ouro NRGB 965 ml — imagem do varejista",
+      "url": "https://www.covabra.com.br/cachaca-ypioca-brasilizar-empalhada-ouro-965ml/p",
+      "tipo": "varejista",
+      "uf": null,
+      "publicado_em": null,
+      "metodo_consulta": "api_publica_catalogo_com_gtin_exato",
+      "consultado_em": "2026-10-26"
+    },
+    {
+      "id": "foto-varejo-svp-000102",
+      "titulo": "Cachaca Ypioca Mestre NRGB 965 ml — imagem do varejista",
+      "url": "https://www.savegnago.com.br/cachaca-ypioca-965ml-mestre/p",
+      "tipo": "varejista",
+      "uf": null,
+      "publicado_em": null,
+      "metodo_consulta": "api_publica_catalogo_com_gtin_exato",
+      "consultado_em": "2026-10-26"
+    },
+    {
+      "id": "foto-varejo-svp-000103",
+      "titulo": "Cinzano Pro Spritz NRGB 750 ml — imagem do varejista",
+      "url": "https://www.covabra.com.br/espumante-cinzano-to-spritz-750ml/p",
+      "tipo": "varejista",
+      "uf": null,
+      "publicado_em": null,
+      "metodo_consulta": "api_publica_catalogo_com_gtin_exato",
+      "consultado_em": "2026-10-26"
+    },
+    {
+      "id": "foto-varejo-svp-000104",
+      "titulo": "Cinzano Vermute Rosso NRGB 1000 ml — imagem do varejista",
+      "url": "https://www.covabra.com.br/vermouth-cinzano-rosso-1l/p",
+      "tipo": "varejista",
+      "uf": null,
+      "publicado_em": null,
+      "metodo_consulta": "api_publica_catalogo_com_gtin_exato",
+      "consultado_em": "2026-10-26"
+    },
+    {
+      "id": "foto-varejo-svp-000111",
+      "titulo": "Gin Tanqueray Ragpur NRGB 700 ml — imagem do varejista",
+      "url": "https://www.covabra.com.br/gin-tanqueray-rangpur-lime-700ml/p",
+      "tipo": "varejista",
+      "uf": null,
+      "publicado_em": null,
+      "metodo_consulta": "api_publica_catalogo_com_gtin_exato",
+      "consultado_em": "2026-10-26"
+    },
+    {
+      "id": "foto-varejo-svp-000112",
+      "titulo": "Gin Tanqueray Sevilla NRGB 700 ml — imagem do varejista",
+      "url": "https://www.covabra.com.br/aperitivo-tanqueray-sevilla-700ml/p",
+      "tipo": "varejista",
+      "uf": null,
+      "publicado_em": null,
+      "metodo_consulta": "api_publica_catalogo_com_gtin_exato",
+      "consultado_em": "2026-10-26"
+    },
+    {
+      "id": "foto-varejo-svp-000113",
+      "titulo": "Licor Baileys NRGB 750 ml — imagem do varejista",
+      "url": "https://www.covabra.com.br/licor-baileys-750ml/p",
+      "tipo": "varejista",
+      "uf": null,
+      "publicado_em": null,
+      "metodo_consulta": "api_publica_catalogo_com_gtin_exato",
+      "consultado_em": "2026-10-26"
+    },
+    {
+      "id": "foto-varejo-svp-000130",
+      "titulo": "Whiskey JW Gold Label NRGB 750 ml — imagem do varejista",
+      "url": "https://www.covabra.com.br/whisky-johnnie-walker-gold-reserve-750ml/p",
+      "tipo": "varejista",
+      "uf": null,
+      "publicado_em": null,
+      "metodo_consulta": "api_publica_catalogo_com_gtin_exato",
+      "consultado_em": "2026-10-26"
     }
   ]
 }

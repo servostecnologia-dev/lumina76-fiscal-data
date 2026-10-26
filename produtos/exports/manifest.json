@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "catalog_version": "2026.10.26.2",
+  "catalog_version": "2026.10.26.3",
   "total": 136,
   "por_status": {
     "aprovado": 3,
@@ -9,14 +9,14 @@
   "imagens_liberadas": 0,
   "candidatos_com_digito_invalido": [],
   "entradas_sha256": {
-    "catalogo.json": "a0035a528dca916f4057210ef9828eb8c75bc554aba89bbac11cdc3d69238143",
+    "catalogo.json": "94442c6fb1cbbbd7becdb5416bc0a1bca2d5bbcc5429652334d128dfcc4939de",
     "categorias.json": "74ce126693fa16d881ee16d3a00f46b33152589a42d4029d0855737b5acc61b4",
-    "fontes.json": "e195148fd12ef473d0f1e616b0b3376e1b30be1a5aab8e698be0e400a40cc17f",
+    "fontes.json": "6359b30effcc32384406b9b030c8d06df64e1c10b4e858b7fd3c6caefb61d85d",
     "pacotes/bebidas-piloto.json": "96947ff2eaad11d0b2af6b099cc7c58cfb9ffbe35523735311864113a4876a0d"
   },
   "sha256": {
-    "aprovados.csv": "4bdc14a901e01b400d1791d18016084ccbe88da7bcaa732e03ad928273ac2ec1",
-    "pacote-bebidas-piloto.csv": "4bdc14a901e01b400d1791d18016084ccbe88da7bcaa732e03ad928273ac2ec1",
-    "revisao.csv": "62651e46717e4dc5c1858d10a8e746706a4c3acc3b49e53f9c547fbc655ee774"
+    "aprovados.csv": "b053421b5dc59b4a5837ca16936217b3ddcb632e8d0d5053107d5aba75e52a50",
+    "pacote-bebidas-piloto.csv": "b053421b5dc59b4a5837ca16936217b3ddcb632e8d0d5053107d5aba75e52a50",
+    "revisao.csv": "e733d90733273533d0463a902bd3900bd062f9953cf900a16dd966ae7e165250"
   }
 }
