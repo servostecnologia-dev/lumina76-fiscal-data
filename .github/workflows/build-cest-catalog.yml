@@ -25,8 +25,14 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Install test dependency
+        run: python -m pip install pytest
+
       - name: Build catalogs
         run: python scripts/build_cest_catalog.py
+
+      - name: Run CEST resilience tests
+        run: python -m pytest -q tests/test_cest_catalog.py
 
       - name: Validate generated catalog
         run: |
@@ -42,6 +48,9 @@ jobs:
           with open('metadata/catalog.json', encoding='utf-8') as f:
               meta = json.load(f)
           assert meta['national_cest_records'] == len(rows)
+          assert meta['cest_ncm_records'] >= 500
+          assert meta['authority_source'] == 'CONFAZ_CV142_18'
+          assert meta['ingestion_source'] == 'TABELASFISCAIS_SNAPSHOT'
           print(f'Catálogo validado: {len(rows)} CEST')
           PY
 

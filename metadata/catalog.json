@@ -1,11 +1,20 @@
 {
   "catalog": "lumina76-fiscal-data",
   "status": "NATIONAL_BASE_READY_BA_OVERLAY_PARTIAL",
-  "generated_at": "2026-09-28T23:20:04.046Z",
+  "generated_at": "2026-11-02T12:35:24.570Z",
+  "relation_source_generated_at": "2026-11-02T12:35:24.570Z",
   "national_cest_records": 1010,
   "cest_ncm_records": 1223,
   "authority_source": "CONFAZ_CV142_18",
   "ingestion_source": "TABELASFISCAIS_SNAPSHOT",
+  "source_urls": {
+    "cest": "https://tabelasfiscais.com.br/public/downloads/cest.json",
+    "cest_ncm": "https://tabelasfiscais.com.br/public/downloads/cest_ncm.json"
+  },
+  "fetch_attempts": {
+    "cest": 1,
+    "cest_ncm": 1
+  },
   "production_ready_for_national_cest_catalog": true,
   "production_ready_for_uf_applicability": false,
   "notes": [

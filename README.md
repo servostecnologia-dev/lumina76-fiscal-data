@@ -85,6 +85,10 @@ A Receita fornece apenas a tabela vigente. Para preservar histórico operacional
 - CEST: workflow periódico com validação de volume e preservação de snapshots.
 - NCM: workflow diário, pois a Receita informa que o arquivo oficial é atualizado automaticamente quando há alterações na NCM.
 - Nenhuma atualização remove silenciosamente snapshots anteriores.
+- A coleta CEST repete somente falhas transitórias (inclusive HTTP 523), com
+  tentativas limitadas e backoff. Todo o conjunto CEST/CEST x NCM/metadados é
+  validado antes da promoção; falha de rede, conteúdo inválido ou volume
+  regressivo preserva integralmente o último snapshot válido.
 
 ## Expansão em andamento
 
